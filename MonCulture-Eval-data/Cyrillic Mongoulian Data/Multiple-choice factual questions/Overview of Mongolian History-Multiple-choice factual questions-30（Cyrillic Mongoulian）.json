@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "1. Чин улсын үе дэх Монголын нийгмийн даралагдагч ангид ямар хүмүүс багтах буй?",
+    "options": {
+      "A": "Ноёд",
+      "B": "Албат",
+      "C": "Хамжлага",
+      "D": "Шавь нар"
+    },
+    "answer": "BCD"
+  },
+  {
+    "id": 2,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "2. Албат ардыг аж ахуйн байдлаар нь ямар давхаргад хуваадаг байсан буй?",
+    "options": {
+      "A": "Дунд хүн",
+      "B": "Адаг хүн",
+      "C": "Тайж хүн",
+      "D": "Сайн хүн"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 3,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "3. 19 дүгээр зууны дундчаар Хаант Орос Чин улстай байгуулсан тэгш бус гэрээнүүд аль нь буй?",
+    "options": {
+      "A": "Хуурай замаар арилжаа нэвтрэх дүрэм (1862)",
+      "B": "Тяньжины гэрээ (1858)",
+      "C": "Симоносекийн гэрээ",
+      "D": "Бээжингийн гэрээ (1860)"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 4,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "4. Чин улсын «Шинэ засаг»-ийн бодлогод ямар арга хэмжээ багтаж байсан буй?",
+    "options": {
+      "A": "Монголын өөртөө засах эрхийг өргөтгөх",
+      "B": "Хятад иргэнийг нүүлгэх",
+      "C": "Атар хагалбарлах",
+      "D": "Тин шянь байгуулах"
+    },
+    "answer": "BCD"
+  },
+  {
+    "id": 5,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "5. Өвөр Монголын зүүн оронд газар тариа нээхийг эсэргүүцсэн зэвсэгт тэмцлийн удирдагчид хэн буй?",
+    "options": {
+      "A": "Баяндалай",
+      "B": "Дампил",
+      "C": "Тогтох",
+      "D": "Яший"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 6,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "6. Үүшин хошууны «Дугуйлан»-гийн хөдөлгөөний гол удирдагчид хэн буй?",
+    "options": {
+      "A": "Баянсайн",
+      "B": "Ү лам",
+      "C": "Тогтох",
+      "D": "Идэмжав"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 7,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "7. Их Зуугийн чуулганд өрнөсөн дугуйлангийн хөдөлгөөний удирдагчдад хэн багтах буй?",
+    "options": {
+      "A": "Баяндалай",
+      "B": "Ванданнива",
+      "C": "Намсрай",
+      "D": "Дампил"
+    },
+    "answer": "BCD"
+  },
+  {
+    "id": 8,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "8. 1911 оны Цагаагчин гахай жилийн хувьсгалд оролцсон монгол хүмүүс хэн буй?",
+    "options": {
+      "A": "Юн Хэн",
+      "B": "Сэнгэринчин",
+      "C": "Жин Чиуван",
+      "D": "Ан Шян"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 9,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "9. Дугуйлангийн зохион байгуулалтын онцлог нь юу буй?",
+    "options": {
+      "A": "Эрх тэгш байхыг илтгэдэг",
+      "B": "Дугуйлан суудаг",
+      "C": "Нэрээ дугуйлан бичдэг",
+      "D": "Ноёдын удирдлагад захирагддаг"
+    },
+    "answer": "ABC"
+  },
+  {
+    "id": 10,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "10. Чин улсын сүүлчээр Өвөр Монголд байгуулагдсан засаг захиргааны нэгж нугууд аль нь буй?",
+    "options": {
+      "A": "Хуайдэ шянь",
+      "B": "Улиастайн жанжин",
+      "C": "Фэнхуа (Лишү) шянь",
+      "D": "Нүньань шянь"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 11,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "11. 1860-1870-аад оны үед феодалын даралалыг эсэргүүцсэн бослого нугуудын удирдагчид хэн буй?",
+    "options": {
+      "A": "Путай",
+      "B": "Чанмин",
+      "C": "Дэмчигдонров",
+      "D": "Милсэнх"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 12,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "12. Хар тамхины дайны дараа Монгол оронд эд бараагаа борлуулж байсан гол улсууд аль нь буй?",
+    "options": {
+      "A": "Хаант Орос",
+      "B": "Англи",
+      "C": "Америк",
+      "D": "Энэтхэг"
+    },
+    "answer": "ABC"
+  },
+  {
+    "id": 13,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "13. 19 дүгээр зууны дундчаар Зостын чуулганд гарсан тэмцэлд аль нь хамаарах буй?",
+    "options": {
+      "A": "Өвгөдийн хурал",
+      "B": "Путайгийн бослого",
+      "C": "Дугуйлангийн хөдөлгөөн",
+      "D": "Найман сумын бослого"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 14,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "14. Чин улсын үе дэх Монголын нийгмийн даралагдагч ангийн гол үүрэг нь юу буй?",
+    "options": {
+      "A": "Цэргийн алба хаах",
+      "B": "Гааль татвар төлөх",
+      "C": "Өртөөний алба хаах",
+      "D": "Улсын хэргийг шийдвэрлэх"
+    },
+    "answer": "ABC"
+  },
+  {
+    "id": 15,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "15. Түмэд Баруун хошууны «Өвгөдийн хурал»-ын тэмцлийн гол зорилго нь юу байсан буй?",
+    "options": {
+      "A": "Алба гувчуурыг эсэргүүцэх",
+      "B": "Хятадын эсрэг тэмцэх",
+      "C": "Харгис ноёныг эсэргүүцэх",
+      "D": "Заалдлага гаргах"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 16,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "1. 1389 онд Мин улсын байгуулсан Урианхайн гурван харуулд аль нь багтах буй?",
+    "options": {
+      "A": "Доян харуул",
+      "B": "Цахар харуул",
+      "C": "Тайнин харуул",
+      "D": "Халх харуул"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 17,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "2. Чин улсын үеийн говийн өмнөх Монголын зургаан чуулганд аль нь багтах буй?",
+    "options": {
+      "A": "Жиримийн чуулган",
+      "B": "Сэцэн хан аймгийн чуулган",
+      "C": "Сайн ноён хан аймгийн чуулган",
+      "D": "Зостын чуулган"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 18,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "3. Галдан бошигт хан Чин улстай хийсэн алдартай байлдааны газар нь аль буй?",
+    "options": {
+      "A": "Түмүгийн газар",
+      "B": "Улаан бутан",
+      "C": "Их цагаан хэрэм",
+      "D": "Зуун мод"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 19,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "4. Чин улсын үед Монголын хэргийг хамаарахаар байгуулсан төвийн байгууламжийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Дотоод хэргийн яам",
+      "B": "Цэргийн яам",
+      "C": "Гадаад Монголын төрийг засах явдлын яам",
+      "D": "Монголын яам"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 20,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "5. Түмэдийн Алтан ханы явуулсан чухал үйл ажиллагаа нь юу буй?",
+    "options": {
+      "A": "Мин улстай арилжаа хийх харилцаа тогтоосон",
+      "B": "Шарын шашныг дэлгэрүүлсэн",
+      "C": "Зүүнгар улсыг байгуулсан",
+      "D": "Орос улстай холбоолсон"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 21,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "6. Түүхэнд тэмдэглэгдсэн Дөрвөн Ойрадын аймагт аль нь багтах буй?",
+    "options": {
+      "A": "Хошууд",
+      "B": "Зүүнгар",
+      "C": "Урианхай",
+      "D": "Цахар"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 22,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "7. Чин улсаас Монгол оронд томилсон жанжин амбаны суудалд аль нь багтах буй?",
+    "options": {
+      "A": "Улиастайн жанжин",
+      "B": "Улаанбаатарын амбан",
+      "C": "Хархорины сайд",
+      "D": "Сүйюань хотын жанжин"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 23,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "8. Даян хааны зүүн гарын түмэнд аль аймгууд багтаж байсан буй?",
+    "options": {
+      "A": "Халх",
+      "B": "Ордос",
+      "C": "Цахар",
+      "D": "Юншээбүү"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 24,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "9. Даян хааны баруун гарын түмэнд аль аймгууд багтаж байсан буй?",
+    "options": {
+      "A": "Түмэд",
+      "B": "Ордос",
+      "C": "Урианхай",
+      "D": "Цахар"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 25,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "10. Лигдэн хааны тухай үнэн зөв тэмдэглэл нь аль буй?",
+    "options": {
+      "A": "1634 онд Хөхнуурын Шар талд нас баржээ",
+      "B": "Ойрадыг нэгтгэсэн",
+      "C": "Умард Юань улсын хамаг эцсийн хаан болно",
+      "D": "Чин улсад бууж өгсөн"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 26,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "11. Амарсанаагийн тухай зөв тодорхойлолт нь аль буй?",
+    "options": {
+      "A": "Мин улстай холбоолсон",
+      "B": "Хойд аймгийн тайж байсан",
+      "C": "Халхын хан байсан",
+      "D": "Чин улсыг эсэргүүцэн бослого гаргасан"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 27,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "12. Чин улсын ноёрхлыг эсэргүүцсэн бослого нугуудын удирдагчид хэн буй?",
+    "options": {
+      "A": "Цахарын Бүрни чин ван",
+      "B": "Жавзандамба хутагт",
+      "C": "Хотогойдын Чингүнжав",
+      "D": "Түшээт хан Чахундорж"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 28,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "13. Чин улсаас монголчуудад тавьсан хоригт аль нь багтах буй?",
+    "options": {
+      "A": "Мал аж ахуй эрхлэхийг хориглох",
+      "B": "Хятад хүнтэй ураглахыг хориглох",
+      "C": "Хятад бичиг сурахыг хориглох",
+      "D": "Бөх барилдахыг хориглох"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 29,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "14. Чин улсын үе дэх Монголын засаг захиргааны нэгжид аль нь багтах буй?",
+    "options": {
+      "A": "Муж",
+      "B": "Чуулган",
+      "C": "Шянь",
+      "D": "Хошуу"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 30,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "15. Хөхнуур Төвөдийн Гүүш хааны тухай үнэн баримт нь аль буй?",
+    "options": {
+      "A": "Зүүнгар аймгийн хан болно",
+      "B": "Хошууд аймгийн тэргүү болно",
+      "C": "Мин улстай байлдсан",
+      "D": "1637 онд Цогт тайжийг ялсан"
+    },
+    "answer": "BD"
+  }
+]

@@ -1,0 +1,1770 @@
+[
+  {
+    "id": 1,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "1206 онд Чингис хаан хэнд Хорчин, Лавсачин, Мянгад тэргүүтэн аймгуудыг өргөмжлөн өгсөн буй?",
+    "options": {
+      "A": "Зүчи",
+      "B": "Хасар",
+      "C": "Тулуй",
+      "D": "Өгэдэй"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин аймгийн аль хошуунд гурван ван өргөмжилсөн буй?",
+    "options": {
+      "A": "Дөрвөд хошуу",
+      "B": "Жаруд хошуу",
+      "C": "Дархан хошуу",
+      "D": "Жалайд хошуу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "1447 он болоход ямар хүмүүс Хорчин аймагт шингэн оров оо?",
+    "options": {
+      "A": "Халх хүмүүс",
+      "B": "Үжээд хүмүүс",
+      "C": "Цахар хүмүүс",
+      "D": "Ойрад хүмүүс"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Даян хааны үед Хасарын хойчис вангийн харьяат иргэн хэд болсон бэ?",
+    "options": {
+      "A": "хоёр түмэн",
+      "B": "нэг түмэн",
+      "C": "таван мянга",
+      "D": "гурван түмэн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчины баруун гарын зургаан түмний гол цогц нь ямар аймаг байсан буй?",
+    "options": {
+      "A": "Найман",
+      "B": "Татар",
+      "C": "Хэрэйд",
+      "D": "Жалайр"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Горлос аймгийн уугуул нутаг хаана байсан буй?",
+    "options": {
+      "A": "Шар мөрөн дагуу",
+      "B": "Туул гол дагуу",
+      "C": "Орхон гол дагуу",
+      "D": "Эргүнэ гол дагуу"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "1217 онд Жалайр аймгийн хэн гүй ван өргөмжлөгдсөн бэ?",
+    "options": {
+      "A": "Сүбээдэй",
+      "B": "Мухулай",
+      "C": "Боорчи",
+      "D": "Зэлмэ"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хүрээ хошууны нэршил юунаас үүсэлтэй буй?",
+    "options": {
+      "A": "Цэргийн хүрээ байгуулсанаас",
+      "B": "Хааны ордон байснаас",
+      "C": "Манзушир хутагт нутагласнаас",
+      "D": "Малын хашаа барьснаас"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Найман аймгийн Гончиг хэдэн онд Манжийг дагасан бэ?",
+    "options": {
+      "A": "1627 онд",
+      "B": "1636 онд",
+      "C": "1616 онд",
+      "D": "1644 онд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Жаруд бол уул нь ямар аймгийн нэг байсан буй?",
+    "options": {
+      "A": "Ордос түмэн",
+      "B": "Цахар түмэн",
+      "C": "Өвөр таван отог Халх",
+      "D": "Түмэд түмэн"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Нон Хорчин аймгийн аж ахуйд ямар хувиралт гарсан буй?",
+    "options": {
+      "A": "Гар үйлдвэрт шилжсэн",
+      "B": "Малжилаас тариаланд шилжсэн",
+      "C": "Ан анналд шилжсэн",
+      "D": "Тариалангаас малжилд шилжсэн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "1784 онд Хорчины аль хошуунд хятад иргэн олширч атар хагалбарлаж байсан буй?",
+    "options": {
+      "A": "Хорчин баруун гарын өмнөд хошуу",
+      "B": "Горлос хошуу",
+      "C": "Хорчин зүүн гарын өмнөд хошуу",
+      "D": "Жалайд хошуу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "1307 онд хэн тэргүүн удаа 《 Чи ван 》 өргөмжлөгдсөн буй?",
+    "options": {
+      "A": "Бабуша",
+      "B": "Аругтай",
+      "C": "Адай",
+      "D": "Болонай"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Адай хааны үед хорчинчууд анх удаа хааш нүүдэллэн ирсэн буй?",
+    "options": {
+      "A": "Нон мөрний урсгал дагуу",
+      "B": "Шар мөрний урсгал дагуу",
+      "C": "Орхон гол дагуу",
+      "D": "Ляо дун газарт"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Жалайд хошуу хэдэн онд 45 түм гаруй газрыг дээслэн тавьсан буй?",
+    "options": {
+      "A": "1902 - 1905 онд",
+      "B": "1890 - 1895 онд",
+      "C": "1791 - 1800 онд",
+      "D": "1911 - 1915 онд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хуйманх тасраагийн үед Хорчин аймаг ямар голыг эзлэн сууснаар «Нон Хорчин» болсон буй?",
+    "options": {
+      "A": "Сунгари мөрөн",
+      "B": "Ляо гол",
+      "C": "Нон мөрөн",
+      "D": "Туул гол"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Чин улсын үед Жирэмийн чуулганд нийт хэдэн засаг хошуу байсан буй?",
+    "options": {
+      "A": "10 хошуу",
+      "B": "49 хошуу",
+      "C": "6 хошуу",
+      "D": "8 хошуу"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "1624 онд Хорчин аймгийн хэн харьяат аймгаа дагуулан хойт Алтан улсыг дагасан буй?",
+    "options": {
+      "A": "Зайсан",
+      "B": "Мөнгөн",
+      "C": "Ууба",
+      "D": "Будачи"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Арван зургадугаар зууны дунд үеэр Хорчин аймаг хэний шахалтаар Сунгари мөрний ама дагуу суурьшсан буй?",
+    "options": {
+      "A": "Манжийн цэрэг",
+      "B": "Ойрадын цэрэг",
+      "C": "Мин улсын цэрэг",
+      "D": "Өвөр халхын таван отог"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хүрээ авын үед зүүн баруун зүгт явах хүмүүсийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Хаалгач",
+      "B": "Голын хүн",
+      "C": "Гэзгийн хүн",
+      "D": "Одын хүн"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 21,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин анлалд ангийн явах замыг тосч бөглөхийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "хүрээлэх",
+      "B": "мөрдөх",
+      "C": "хоморголох",
+      "D": "хаах"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Билүү хийхэд ямар модыг голдуу хэрэглэдэг вэ?",
+    "options": {
+      "A": "хайлаас",
+      "B": "улиас",
+      "C": "нарс",
+      "D": "бургас"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Тулга чатгасан бялууг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "хаямал шадам",
+      "B": "ясан шадам",
+      "C": "модон шадам",
+      "D": "чулуун шадам"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Билүүгээр чоно агнахдаа арьсыг нь эвдэхээс сэргийлж хаа нь цохидог вэ?",
+    "options": {
+      "A": "Хамрын үзүүр (хошуу)",
+      "B": "Гавал",
+      "C": "Тахим",
+      "D": "Нуруу"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Алсан чанааг тэргэн дээр тавихад толгойг нь яаж хандуулдаг буй?",
+    "options": {
+      "A": "Хойт тал өөд",
+      "B": "Зүүн тал өөд",
+      "C": "Өмнө тал өөд",
+      "D": "Баруун тал өөд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт анх хэрэглэж байсан бууг юу гэж нэрлэдэг байсан бэ?",
+    "options": {
+      "A": "хурдан буу",
+      "B": "зээрэм буу",
+      "C": "са цян буу",
+      "D": "автомат буу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Өгөөш тоор гэдэг багажийг ямар амьтан агнахад хэрэглэдэг буй?",
+    "options": {
+      "A": "Гургуул",
+      "B": "Туулай",
+      "C": "Үнэг",
+      "D": "Чоно"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хавхны толин дээр юуг өгөөш болгон тавьдаг буй?",
+    "options": {
+      "A": "талх",
+      "B": "мах",
+      "C": "хомуул",
+      "D": "самар"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Суман хавхыг ямар амьтанд голдуу хэрэглэдэг буй?",
+    "options": {
+      "A": "Туулай ба үнэг",
+      "B": "Чоно",
+      "C": "Хулгана ба нуман сохор",
+      "D": "Бор гөрөөс"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин анналд ургыг голдуу ямар анг хөөхөд хэрэглэдэг буй?",
+    "options": {
+      "A": "бар",
+      "B": "чоно",
+      "C": "гургуул",
+      "D": "туулай"
+    },
+    "answer": "B"
+  },
+ {
+    "id": 31,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Урахийг ямар материалаар хийдэг буй?",
+    "options": {
+      "A": "Хялгас буюу нарийн төмөр утас",
+      "B": "Давс",
+      "C": "Шороо",
+      "D": "Сүрэл"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин агналд бууг нум сумтай харьцуулахад ямар давуу талтай гэж үздэг буй?",
+    "options": {
+      "A": "Хийхэд хялбар",
+      "B": "Тусгал холай бөгөөд хүчлэл их",
+      "C": "Дуу чимээ бага",
+      "D": "Хөнгөн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хүрээ авын ард явах хүнийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Манлай",
+      "B": "Жигүүр",
+      "C": "Одо",
+      "D": "Гэзэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Гэрийн үүдэн дээрээ нум сум өлгөх нь ямар утгатай буй?",
+    "options": {
+      "A": "Мал аж ахуйг хамгаалах",
+      "B": "Гэрийн чимэглэл",
+      "C": "Хүүтэй болвол эрхий мэргэн болохыг зөгнөх",
+      "D": "Зочныг хүндлэх"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд хутга хийхдээ юуг эрхэмлэдэг буй?",
+    "options": {
+      "A": "Урт",
+      "B": "Бүдүүн",
+      "C": "Хурц ба гоёлол",
+      "D": "Хүнд"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт нэг сүрэгт ердөө хэдэн адуу байдаг буй?",
+    "options": {
+      "A": "300-400",
+      "B": "10-20",
+      "C": "50-100",
+      "D": "150-200"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 37,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд үрээ эсгэхдээ билгийн улирлын 3 сарын ямар өдрийг гоолдуу сонгодог буй?",
+    "options": {
+      "A": "Хорин таван",
+      "B": "Арван таван",
+      "C": "Шинийн найман",
+      "D": "Шинийн нэгэн"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Эр морийг хэдэн насан дээр нь эсгэж агталдаг буй?",
+    "options": {
+      "A": "4 нас",
+      "B": "2 нас",
+      "C": "3 нас",
+      "D": "6 нас"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Уургын морь сонгоход хэдэн насны адууг гоолдуу сонгодог буй?",
+    "options": {
+      "A": "10-12 нас",
+      "B": "2-3 нас",
+      "C": "15 нас",
+      "D": "5-6 нас"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Сайн үхэр хэд хүртэл насалдаг буй?",
+    "options": {
+      "A": "8-10 нас",
+      "B": "20-25 нас",
+      "C": "15-16 нас",
+      "D": "30 нас"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд үхрийг гоолдуу хэдэн настайд нь худалддаг буй?",
+    "options": {
+      "A": "1-2 нас",
+      "B": "15-16 нас",
+      "C": "3-4 нас",
+      "D": "8-10 нас"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Үхрийг хэдэн насанд нь тэрэг анжисанд сургадаг буй?",
+    "options": {
+      "A": "10 нас",
+      "B": "3-4 нас",
+      "C": "1 нас",
+      "D": "8 нас"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Нэг хүн ердөө хэдэн толгой хонь ямааг хариулдаг буй?",
+    "options": {
+      "A": "150-200",
+      "B": "50-60",
+      "C": "500-600",
+      "D": "1000"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хонь билгийн улирлын хэддүгээр сард хургалж эхэлдэг буй?",
+    "options": {
+      "A": "10 сар",
+      "B": "3 сар",
+      "C": "1 сар",
+      "D": "6 сар"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хонь хэдэн хувиар ихэрлэдэг буй?",
+    "options": {
+      "A": "5-7 хувь",
+      "B": "50 хувь",
+      "C": "20-30 хувь",
+      "D": "80 хувь"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Ямаа хэдэн хувиар ихэрлэдэг буй?",
+    "options": {
+      "A": "90 хувь",
+      "B": "50 хувь",
+      "C": "15-20 хувь",
+      "D": "1-2 хувь"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хонь ямааны хамууг юугаар засдаг буй?",
+    "options": {
+      "A": "Ус ба давс",
+      "B": "Шавар",
+      "C": "Дамацийн тос ба тахианы өд",
+      "D": "Айраг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хурга ишигийг төрсний дараа хэдэн сар болгоод засдаг (чимхдэг) буй?",
+    "options": {
+      "A": "3-4 сар",
+      "B": "1 сар",
+      "C": "1 жил",
+      "D": "10 сар"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хонь ямар сард хайчилдаг буй?",
+    "options": {
+      "A": "1 сарын эхэн",
+      "B": "10 сарын эхэн",
+      "C": "6 сарын эхэн",
+      "D": "3 сарын эхэн"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Даагыг хаана нь тамгалдаг буй?",
+    "options": {
+      "A": "Хавирган дээр",
+      "B": "Ташаан дээр",
+      "C": "Хүзүүн дээр",
+      "D": "Магнай дээр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Ямаа жилд хэдэн удаа ишиглэж болдог буй?",
+    "options": {
+      "A": "5 удаа",
+      "B": "2 удаа",
+      "C": "4 удаа",
+      "D": "3 удаа"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Сайн үхэр Манжийн зоосоор хэд хүрдэг байсан буй?",
+    "options": {
+      "A": "5-10 төгрөг",
+      "B": "50-60 төгрөг",
+      "C": "18-20 төгрөг",
+      "D": "100 төгрөг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Адууг билгийн улирлын хэддүгээр сард хурааж эхэлдэг буй?",
+    "options": {
+      "A": "1 сар",
+      "B": "7 сар",
+      "C": "4 сар",
+      "D": "10 сар"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт тариалан үйлдвэрлэл хэзээ ихээр хөгжсөн буй?",
+    "options": {
+      "A": "Арван зургадугаар зууны эхэн",
+      "B": "Чин улсын дундач үе",
+      "C": "Юань улсын үе",
+      "D": "Мин улсын үе"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчины тариалан хамаг анх хаана эхэлж бий болсон буй?",
+    "options": {
+      "A": "Хөлөн буйр",
+      "B": "Алашаа",
+      "C": "Шилийн гол",
+      "D": "Люу Тяо Бянь орчим"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Сагагийг тарьснаас хойш хэдэн хоногт хаддаг буй?",
+    "options": {
+      "A": "60-70 хоног",
+      "B": "100 хоног",
+      "C": "40-50 хоног",
+      "D": "80-90 хоног"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Тариаг 'Дагнах' гэдэг нь ямар зорилготой буй?",
+    "options": {
+      "A": "Хөрсийг зөөлрүүлж, үндсийг бэхлэн чийг хадгалах",
+      "B": "Үрийг цэвэрлэх",
+      "C": "Тариаг услах",
+      "D": "Тариаг хадах"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Намрын хяруунаас тариагаа яаж хамгаалдаг буй?",
+    "options": {
+      "A": "Гал манаж, утаа манаруулан",
+      "B": "Хүчиж хамгаалах",
+      "C": "Эрт хадах",
+      "D": "Ус дарих"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинд тариалан хөгжихийг дагалдан ямар тэрэг хэрэглээнээс гарсан буй?",
+    "options": {
+      "A": "Хангай тэрэг",
+      "B": "Төмөр тэрэг",
+      "C": "Агалжин тэрэг",
+      "D": "Хасаг тэрэг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хасаг тэрэгний хүрдийг юугаар хийдэг буй?",
+    "options": {
+      "A": "Бөх мод",
+      "B": "Төмөр",
+      "C": "Арьс",
+      "D": "Хулс"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хаш, халуун ногооны үрийг хэзээ ширээлэн тарьдаг буй?",
+    "options": {
+      "A": "Билгийн улирлын 5 сард",
+      "B": "Намрын үеэр",
+      "C": "Билгийн улирлын 3 сар болох үеэр",
+      "D": "Билгийн улирлын 1 сард"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд тэрэг морио юугаар чимэглэдэг буй?",
+    "options": {
+      "A": "Далбаа",
+      "B": "Цэцэг",
+      "C": "Толь",
+      "D": "Хонх ба улаан цацаг залаа"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 63,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчины тариалангийн түүхэн хөгжлийн анхны шат нь юу буй?",
+    "options": {
+      "A": "Гоёчлолтоор атар хагалбарлах шат",
+      "B": "Хувиараа хагалбарлах шат",
+      "C": "Хамтран ажиллах шат",
+      "D": "Их хэмжээгээр тариалах шат"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Царцаахайг яаж алах буюу хориглодог буй?",
+    "options": {
+      "A": "Тор тавих",
+      "B": "Эм цацах",
+      "C": "Гуу суваг малтаж ус оруулан утаа тавих",
+      "D": "Гараар барих"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Үдрэм авахда ямар таримлыг хамгийн түрүүнд авдаг буй?",
+    "options": {
+      "A": "Монгол аму",
+      "B": "Эрдэнэ шиш",
+      "C": "Сага, бурцаг зэрэг задгай таримал",
+      "D": "Төмс"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Тариа хадах багажийг юу гэдэг буй?",
+    "options": {
+      "A": "Сүх",
+      "B": "Цэрэл",
+      "C": "Хадуур",
+      "D": "Хүрз"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Төмсийг яаж хадгалдаг буй?",
+    "options": {
+      "A": "Зоорилан хадгалах",
+      "B": "Усанд хийх",
+      "C": "Ил хадгалах",
+      "D": "Наранд хатаах"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Тэргүүн удааны дагналтыг юу гэдэг буй?",
+    "options": {
+      "A": "Сумтана",
+      "B": "Даланлана",
+      "C": "Дантална",
+      "D": "Ширээлнэ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Бурцгийг ердөө ямар тариатай хамт тарьдаг буй?",
+    "options": {
+      "A": "Эрдэнэ шиш, шиш",
+      "B": "Сагаг",
+      "C": "Хаш",
+      "D": "Төмс"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт эхний хугацааны уургийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Лаг уураг",
+      "B": "Гал уураг",
+      "C": "Шингэн уураг",
+      "D": "Хэлхээ уураг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 71,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин бүсгүйчүүд үнээ саахдаа ямар хувцас өмсдөг буй?",
+    "options": {
+      "A": "Зөвхөн дээл өмсдөг",
+      "B": "Тусгай хувцас өмсөх ёс байхгүй",
+      "C": "Заавал цагаан тэрлэг өмсдөг",
+      "D": "Сүн хормогч бүсэлж, малгай өмсдөг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд өрмийг жилийн аль улиралд ээдүүлж авахыг эрхэмлэдэг буй?",
+    "options": {
+      "A": "Зуны улирал",
+      "B": "Өвлийн улирал",
+      "C": "Хаврын улирал",
+      "D": "Намрын улирал"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин монголчууд шар тосыг гоолдуу ямар аргаар боловсруулан авдаг буй?",
+    "options": {
+      "A": "Айргийг бүлж авах арга",
+      "B": "Өрмөө эрчийж халуунаар боловсруулах арга",
+      "C": "Сүүг исгэж авах арга",
+      "D": "Түүхий сүүг бүлж хүйтнээр боловсруулах арга"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд ямар малын махыг иддэг үгүй буй?",
+    "options": {
+      "A": "Гахайн мах",
+      "B": "Морь ба илжигэн мах",
+      "C": "Ямаан мах",
+      "D": "Тэмээн мах"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт авалсан гахайн үсийг халуун усаар зулгаахыг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Бордох",
+      "B": "Иржэй",
+      "C": "Шуухигдуулах",
+      "D": "Хөрвөөх"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчуудын уламжлалт гол таримал идээ нь юу буй?",
+    "options": {
+      "A": "Улаан буудай",
+      "B": "Монгол аму (хуурай будаа)",
+      "C": "Эрдэнэ шиш",
+      "D": "Тутарга будаа"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинд монгол тарианы их багыг ямар нэгжээр хэмждэг байсан буй?",
+    "options": {
+      "A": "Тарьсан үрний хүндээр",
+      "B": "Газрын мү-гийн тоогоор",
+      "C": "Хураасан ургацын хэмжээгээр",
+      "D": "Тарьсан өдрийн тоогоор (жишээлбэл 1 хагас өдрийн)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 78,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт буудай (майсу) -г ямар чанартай гэж үздэг буй?",
+    "options": {
+      "A": "Халуун чанартай, хийг үүсгэдэг",
+      "B": "Цус төлжүүлдэг",
+      "C": "Сэрүүн хүнд чанартай, хий шарыг дардаг",
+      "D": "Бадгана хүйтэнд тустай"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 79,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчуудын жилийн хамаг анх олж иддэг ногоо нь юу буй?",
+    "options": {
+      "A": "Халгай",
+      "B": "Зэрлэг сонгино",
+      "C": "Цагаан ногоо",
+      "D": "Хэмх"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт согсор будаа (тутарга) -г ямар махтай зууш хийж идэхийг эрхимд тооцдог буй?",
+    "options": {
+      "A": "Үхрийн мах",
+      "B": "Хонин мах",
+      "C": "Туулайн мах",
+      "D": "Гахайн мах"
+    },
+    "answer": "D"
+  },
+{
+    "id": 81,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Шар бурцгаар хийсэн жиян (давс) ямар өнгөтэй болдог буй?",
+    "options": {
+      "A": "Хуа шаргал өнгөтэй",
+      "B": "Улаан өнгөтэй",
+      "C": "Хүрэн бор өнгөтэй",
+      "D": "Хар өнгөтэй"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт олонхидоо ямар төрлийн архийг гоолчлон уудаг байсан буй?",
+    "options": {
+      "A": "Айраг",
+      "B": "Хятад архи",
+      "C": "Будааны архи (өөрөө нэрсэн)",
+      "D": "Саалиар нэрсэн архи"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин ёсонд хэн ердөө архи уудаг үгүй буй?",
+    "options": {
+      "A": "Идэрчүүд",
+      "B": "Залуучууд ба эмэгтэйчүүд",
+      "C": "Гэрийн эзэн",
+      "D": "Настайчууд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд хатаасан өрмөө юунд хийж хадгалдаг буй?",
+    "options": {
+      "A": "Тосон лонх",
+      "B": "Будааны сав",
+      "C": "Модон хайрцаг",
+      "D": "Ээзгийн сагс"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 85,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт гахайг хэзээ бордож эхэлдэг буй?",
+    "options": {
+      "A": "Намрын хөх тариа бууж, эрдэнэ шиш үдрэмд ороход",
+      "B": "Зуны дунд сард",
+      "C": "Өвлийн тас хүйтэнд",
+      "D": "Хавар ханш нээхэд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 86,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт хувцас засалтай холбогдох ямар цэцэн үг дэлгэрсэн байдаг буй?",
+    "options": {
+      "A": "Хүн идэхээр, мал үсээр",
+      "B": "Сайхан хувцас биед чимэг",
+      "C": "Хүн өмсөхөөр, мал махаар",
+      "D": "Хувцас бурхан, бие чөтгөр"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин эрэгтэйчүүдийн өмсдөг 'Жиянцау' бүс нь ердөө хэдэн тохой урт байдаг буй?",
+    "options": {
+      "A": "12 тохой",
+      "B": "5 тохой",
+      "C": "3 тохой",
+      "D": "9 тохой"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 88,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинд эрэгтэйчүүдийн 'Ханжяр хүрэм'-ийг олонхидоо юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Ууж",
+      "B": "Дээл",
+      "C": "Цамц",
+      "D": "Огодос"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Есийн хүйтэнд хахир хатуу ажил хийхэд Хорчин эрчүүд ямар тутгуу өмсдөг байсан буй?",
+    "options": {
+      "A": "Ямаан арьсан тутгуу",
+      "B": "Торгон тутгуу",
+      "C": "Хөвөн тутгуу",
+      "D": "Даавуун тутгуу"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Төрийн гутал' гэдэг их ёсны гутлын ул нь хэдэн давхар байдаг буй?",
+    "options": {
+      "A": "7 давхар",
+      "B": "9 давхар",
+      "C": "5 давхар",
+      "D": "3 давхар"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 91,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин бүсгүйчүүдийн өвлийн малгайг ямар төлөвтэй гэж дүрсэлдэг буй?",
+    "options": {
+      "A": "Орой дээрээ улаан залаатай",
+      "B": "Үстэй малгайн чихийг нь аваад хаячихсан",
+      "C": "Хоёр талдаа урт чихтэй",
+      "D": "Саравчтай дугуй малгай"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинд эмэгтэй хүний өмсдөг 'Огцор' буюу 'Лавшиг'-ийг ямар хүн өмсөх ёстой буй?",
+    "options": {
+      "A": "Эрэгтэй хүн",
+      "B": "Бариад (Гэрийн эзэгтэй)",
+      "C": "Хүүхэн хүн",
+      "D": "Нялх хүүхэд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин бөхчүүдийн 'Зодог'-ийг олонхидоо ямар материалаар хийдэг буй?",
+    "options": {
+      "A": "Даавуу",
+      "B": "Эсгий",
+      "C": "Булигаар",
+      "D": "Торго"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Бөхийн талбайд орохдоо бөх хүн 'Зангиа'-ны бүчийг яадаг буй?",
+    "options": {
+      "A": "Тайлж тавьдаг",
+      "B": "Үргэлж өмнөө байлгадаг",
+      "C": "Толгой дээрээ боодог",
+      "D": "Эхлээд өмнөө унжуулж, талбайд ормагц ардаа хаядаг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 95,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Бөхчүүдийн өмсөх өмдийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Гутал",
+      "B": "Банзал",
+      "C": "Шалбур",
+      "D": "Тутгуу"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 96,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Бөхийн 'Лаври' (бүс) нь ямар гурван өнгийн бэлгэдэлтэй байдаг буй?",
+    "options": {
+      "A": "Хар, цагаан, улаан",
+      "B": "Шар, бор, цагаан",
+      "C": "Ногоон, хөх, бор",
+      "D": "Цэнхэр, улаан, шар"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 97,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин эрчүүдийн гэзгийг тойр нь хусч дээрхийг нь үлдээж хүрчийлгэдэг заслыг юу гэдэг буй?",
+    "options": {
+      "A": "Сагсаг гэзэг",
+      "B": "Хүүхэн гэзэг",
+      "C": "Урт гэзэг",
+      "D": "Тэвэг гэзэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 98,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин эрчүүдийн хамгийн нийтлэг хэрэглэдэг хамар тамхины хөөрөг ямар материалаар хийгдсэн байдаг буй?",
+    "options": {
+      "A": "Цагаан хаш",
+      "B": "Шил",
+      "C": "Болор",
+      "D": "Бор өнгөтэй мана"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 99,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Тамхины уутанд зүүдэг 'Ожирган сойраа'-г ямар амьтны ожиргоор хийдэг буй?",
+    "options": {
+      "A": "Гахайн ожирго",
+      "B": "Чонын ожирго",
+      "C": "Доргоны ожирго",
+      "D": "Барсын ожирго"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 100,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин охид хэдэн насандаа 'Хүүхэн гэзэг' (урт бүхэл гэзэг) тавьдаг буй?",
+    "options": {
+      "A": "10 нас",
+      "B": "5-7 нас",
+      "C": "18-20 нас",
+      "D": "13-15 нас"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 101,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Эмэгтэйчүүдийн толгойн засал 'Татуур' нь ямар үүрэгтэй буй?",
+    "options": {
+      "A": "Шанхалсан гэзгээ тогтоох",
+      "B": "Нүүрээ халхлах",
+      "C": "Хүзүүгээ чимэх",
+      "D": "Чихээ хамгаалах"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 102,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин охид энгэрийн товчноосоо зүүдэг 'Жиарын уут'-нд юу хийдэг байсан буй?",
+    "options": {
+      "A": "Жиар буюу хүмс бодох хуар",
+      "B": "Мөнгө зоос",
+      "C": "Амттан",
+      "D": "Зүү утас"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 103,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин ёсонд охин хүн яагаад улаан ногоон алчуур боодог үгүй буй?",
+    "options": {
+      "A": "Өнгө нь зохихгүй тул",
+      "B": "Үнэтэй тул",
+      "C": "Эрд очих гэж яарч байна гэж доогхилдог",
+      "D": "Хуучин ёсонд цээрлэдэг үгүй"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 104,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин нутагт байшин гэр дэлгэрэхээс өмнө хүмүүс гоолдуу ямар сууцад суудаг байсан буй?",
+    "options": {
+      "A": "Бургасан гэр (өвөн гэр)",
+      "B": "Төгс модон байшин",
+      "C": "Зөвхөн маяхан",
+      "D": "Чулуун байшин"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 105,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчины байшин гэрийн ханзыг (1 тасалгаа гэрийн) засахад ердөө хэдэн хэсэг пийц (түүхий тоосго) хэрэглэдэг буй?",
+    "options": {
+      "A": "300 хэсэг орчим",
+      "B": "1000 хэсэг орчим",
+      "C": "500 хэсэг орчим",
+      "D": "100 хэсэг орчим"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 106,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Байшин гэрийн хулан (яндан) -г гэрийн аль хэсэгт гаргадаг буй?",
+    "options": {
+      "A": "Зүүн ханын хойд үзүүрт",
+      "B": "Үүдний дээр",
+      "C": "Хойд ханын төв дунд",
+      "D": "Баруун ханын өмнө үзүүрт"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 107,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд байшин гэрээ жилд хэдэн удаа шавдаг (шаварддаг) буй?",
+    "options": {
+      "A": "Сар бүр 1 удаа",
+      "B": "Зөвхөн зуны цагт 1 удаа",
+      "C": "Хавар, намарт 2 удаа",
+      "D": "Гурван жилд 1 удаа"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 108,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хуучин цагт Хорчин айлын баян ядууг гэрийн гаднах юугаар нь хэмждэг байсан гэдэг буй?",
+    "options": {
+      "A": "Хүрээний өндөр намаар",
+      "B": "Өдөл ба үнсэн овооны өндөр богиноор",
+      "C": "Нохойн тоогоор",
+      "D": "Гэрийн үүдний өнгөөр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Зууханд гал төхөөрөхөд хэрэглэдэг 'Шилээвэр'-ийг ямар модоор хийдэг буй?",
+    "options": {
+      "A": "Хулс",
+      "B": "Төмөр утас",
+      "C": "Ацан салаатай хайлаас буюу харгана",
+      "D": "Шулуун нарс"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 110,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчины хуучин дэн (гэрэл)-д гоолдуу ямар тос хэрэглэдэг байсан буй?",
+    "options": {
+      "A": "Газрын тос (керосин)",
+      "B": "Гахайн өөх",
+      "C": "Дамаци (маажи) -ийн тос",
+      "D": "Адууны өөх"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Номын сараг' (тавиур)-ийг гэрийн аль ханад хатгадаг буй?",
+    "options": {
+      "A": "Баруун хана",
+      "B": "Зүүн хана",
+      "C": "Хойд хана",
+      "D": "Үүдэн тал"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 112,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинд сагаг (гурил) идэхтэй холбогдож өргөн хэрэглэдэг байсан багаж нь юу буй?",
+    "options": {
+      "A": "Чиргэл",
+      "B": "Галын хайч",
+      "C": "Ээлвэ шянса",
+      "D": "Арьсан гох"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 113,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Чиргэл' гэдэг багажийг ямар үед гоолдуу хэрэглэдэг буй?",
+    "options": {
+      "A": "Өвлийн дунд",
+      "B": "Намар тариа хураахад",
+      "C": "Зун ногоо гарахад",
+      "D": "Хавар эрт (дээс томоход)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 114,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин гэрийн баруун өмнө талд барьдаг 'Инийн гэр' нь ямар үүрэгтэй буй?",
+    "options": {
+      "A": "Мал арчлах гэр",
+      "B": "Бурхан тахих гэр",
+      "C": "Дээрэм (тээрэм) буюу агуулах гэр",
+      "D": "Зочин хүлээх гэр"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 115,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Чиргэл'-ийн хэлбэр нь Хятадын ямар үсэгтэй төсөөтэй гэж дүрсэлсэн буй?",
+    "options": {
+      "A": "口 (Kǒu / Ама)",
+      "B": "人 (Rén / Хүн)",
+      "C": "田 (Tian / Тариан талбай гэсэн үсэг)",
+      "D": "一 (Yī / Нэг)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 116,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Галын хайчийг малжих нутагт бас юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Гал хөдөлгүүр",
+      "B": "Хайдамур",
+      "C": "Цог авхуур",
+      "D": "Шилээвэр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Байшин гэрийн өвлийн морин хашааг гол гэрийн аль талд барьдаг буй?",
+    "options": {
+      "A": "Өмнө талд",
+      "B": "Баруун талд",
+      "C": "Зүүн талд",
+      "D": "Хойд талд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Үнсэн малтуур'-ыг ямар материалаар хийдэг буй?",
+    "options": {
+      "A": "Төмөр хавтас",
+      "B": "Хатаж гүйцсэн уда буюу хайлаасан хавтас",
+      "C": "Чулуу",
+      "D": "Нойтон бургас"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 119,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Арьсан гох'-ыг хийхэд ямар модыг сонгодог буй?",
+    "options": {
+      "A": "Зөөлөн уда мод",
+      "B": "Шулуун нарс",
+      "C": "Салаалж ургасан хайлаасан мод",
+      "D": "Хатуу цөгөрс"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 120,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин зан үйлийн хамгийн жижиг нэгж нь юу буй?",
+    "options": {
+      "A": "Сум",
+      "B": "Аймаг",
+      "C": "Хошуу",
+      "D": "Гэр бүл"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 121,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд цусан төрлийн харилцаагаар гэр бүл бололцохдоо гоолдуу аль талыг баримталдаг буй?",
+    "options": {
+      "A": "Нагацын тал",
+      "B": "Хадмын тал",
+      "C": "Эхийн цусан төрөл",
+      "D": "Эцэгийн цусан төрөл"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 122,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин ёсонд үрчлэн тэжээсэн хүүд ямар эрх олгодог буй?",
+    "options": {
+      "A": "Гэрээс нь тусгаарлуулдаг",
+      "B": "Зөвхөн мал тасалж өгдөг",
+      "C": "Бэр авч өгөн гэр хөрөнгөө өмчлүүлдэг",
+      "D": "Хүчин хүргэн авч өгдөг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 123,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Үрчлэн тэжээсэн охинд ямар гэрлэлтийн хэлбэрийг хэрэглэдэг байсан буй?",
+    "options": {
+      "A": "Гагцаар нь амьдруулдаг",
+      "B": "Хүчин хүргэн авдаг",
+      "C": "Сүм хийдэд суулгадаг",
+      "D": "Бэр болгож мордуулдаг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин гэр бүлд 'Гэрийн эзэн' буюу 'Өрхийн эзэн' гэж ердөө хэнийг хэлдэг буй?",
+    "options": {
+      "A": "Ахмад хүү",
+      "B": "Эмээ",
+      "C": "Эцэг (эр нөхөр)",
+      "D": "Эх (гэрийн эзэгтэй)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хуучин цагт гэр бүлийн дотор эр эмийн харилцаа ямар байдалтай байсан буй?",
+    "options": {
+      "A": "Эм нь захирч, эр нь захирагдах харилцаатай",
+      "B": "Эрх тэгш харилцаатай",
+      "C": "Эр нь захирч, эм нь захирагдах харилцаатай",
+      "D": "Бие биедээ оролцох үгүй"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин ёсонд бэр хүн хадам аавдаа ямар биеийн хэлэмжийг цээрлэдэг буй?",
+    "options": {
+      "A": "Ар (нуруу) -аа хандуулдаггүй",
+      "B": "Гар барьдаггүй",
+      "C": "Толгой дохидоггүй",
+      "D": "Нүүрээ харуулдаггүй"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 127,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хадам аав нь ханзан дээр будааны ширээнд сууж байхад бэр нь хаана байх ёстой буй?",
+    "options": {
+      "A": "Хойморт суух",
+      "B": "Гэрийн үүдээр ухарч гарах (үүдэн хэсэгт)",
+      "C": "Гэрийн зүүн талд зогсох",
+      "D": "Хадам аавын дэргэд суух"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Нэг үеийн гэр бүл' гэж ямар бүрэлдэхүүнтэй гэр бүлийг хэлдэг буй?",
+    "options": {
+      "A": "Өвөө, эцэг, хүү гурван үеийн гэр бүл",
+      "B": "Эцэг эх, үр хүүхэдтэй гэр бүл",
+      "C": "Ах дүү нарын гэр бүл",
+      "D": "Эр эм хоёулаа амьдарч байх гэр бүл"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 129,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "'Гурван үеийн гэр бүл' гэдэг нь ямар гишүүдээс бүрэлддэг буй?",
+    "options": {
+      "A": "Эцэг эх, хүүхэд",
+      "B": "Эх ба хүү",
+      "C": "Өвөө, эцэг, хөвгүүн гурван үе",
+      "D": "Эр эм хоёр"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 130,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин эрэгтэйчүүд гэр бүлийн ажлын хуваарьт ердөө ямар ажлыг хариуцдаг буй?",
+    "options": {
+      "A": "Гэр цэвэрлэх, хоол хийх",
+      "B": "Мал хариулах, тариа тарих, хүнд хөдөлмөр",
+      "C": "Хүүхэд асрах",
+      "D": "Оёдол оёх"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 131,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин эрэгтэйчүүд ердөө ямар ажлыг хийдэг үгүй буй?",
+    "options": {
+      "A": "Түлээ хагалах",
+      "B": "Ав ан хийх",
+      "C": "Гал хийж ус авах, будаа хийх, оёдол утас",
+      "D": "Худаг малтах"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 132,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчин эмэгтэйчүүд гэр бүлийн ажилд гоолдуу юуг хариуцдаг буй?",
+    "options": {
+      "A": "Гэрийн доторх ажил, оёдол утас, хоол цай",
+      "B": "Хэрэм цохих",
+      "C": "Алба хаах",
+      "D": "Хашаа саравч барих"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 133,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Гэр бүлийн дотор хөгшид настад ямар ажилд хамждаг буй?",
+    "options": {
+      "A": "Мал арчлах",
+      "B": "Хүүхэд харах, гэр зуурын хөнгөн ажил",
+      "C": "Ус зөөх",
+      "D": "Тариа хураах"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчууд эрэгтэй хүүхдээ яаж ажилд сургадаг буй?",
+    "options": {
+      "A": "Эцгийг нь дагуулж гаднах ажилд сургадаг",
+      "B": "Эхийг нь дагуулж гэрийн ажилд сургадаг",
+      "C": "Өөрөө сурахыг нь хүлээдэг",
+      "D": "Сургуульд явуулж ажил хийлгэдэг үгүй"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 135,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Гэр бүлийн сургаал нь ямар шинж чанартай байдаг буй?",
+    "options": {
+      "A": "Бүх газар адилхан",
+      "B": "Зөвхөн сургуулиас хамаардаг",
+      "C": "Зөвхөн ном бичгээс эхтэй",
+      "D": "Орон нутгийн онцлогтой"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 136,
+    "source": "Horqin Culture",
+    "type": "Fact single choice questions",
+    "question": "Хорчинчуудын одоох олонхи гэр бүл ямар харилцаагаар гооллдог буй?",
+    "options": {
+      "A": "Үрчлэх харилцаа",
+      "B": "Зөвхөн цусан төрлийн харилцаа",
+      "C": "Ургийн харилцаа",
+      "D": "Найз нөхдийн харилцаа"
+    },
+    "answer": "C"
+  }
+]

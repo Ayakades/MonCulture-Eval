@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос аймаг хэмээх нэрийдэл түүхэнд хэзээ бий болсон буй?",
+    "options": {
+      "A": "Мин улсын эхэн үед",
+      "B": "Юань улсын үед",
+      "C": "Чин улсын эхэн үед",
+      "D": "Тан улсын үед"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "1649 онд Чин улсын засгийн газраас Ордосыг хэдэн хошуу болгон хуваасан буй?",
+    "options": {
+      "A": "Зургаан хошуу",
+      "B": "Долоон хошуу",
+      "C": "Таван хошуу",
+      "D": "Найман хошуу"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "«Ордос» хэмээх үгийн утга нь юу буй?",
+    "options": {
+      "A": "Баялаг нутаг ус",
+      "B": "Эрдэм билигтэн",
+      "C": "Олон ордон харш",
+      "D": "Олон цэрэг морьд"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос түмний өвөг дээдэс нь 13-р зуунд хэний хойчис байсан буй?",
+    "options": {
+      "A": "Зэв Сүбээдэй хоёр",
+      "B": "Боорчи Мухулай хоёр",
+      "C": "Чулуун Борохул хоёр",
+      "D": "Жарчигудай Жалама эцэг хөвгүүн хоёр"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "1496 онд хэний тайчилгаар Ордосын зарим хэсэг нь баруунд орж ирсэн буй?",
+    "options": {
+      "A": "Тогоон тайш",
+      "B": "Эсэн тайш",
+      "C": "Ибрай тайш",
+      "D": "Алтан хаан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Батмөнх Даян хаан аль хөвгүүнээ Ордос түмнийг захируулсан буй?",
+    "options": {
+      "A": "Алчиболд",
+      "B": "Барсболд",
+      "C": "Гэрсэнз",
+      "D": "Төрболд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Өэлүн эхийн цагаан гэрийг сахисан хэрэйдийг түүхэнд юу гэж нэрлэдэг байсан буй?",
+    "options": {
+      "A": "Их хэрэйд",
+      "B": "Хар хэрэйд",
+      "C": "Цагаан хэрэйд",
+      "D": "Бага хэрэйд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос түмнийг мэдэгч ноён ямар цолтой байсан буй?",
+    "options": {
+      "A": "Жинон",
+      "B": "Цэцэн хаан",
+      "C": "Хунтайж",
+      "D": "Түшээт хаан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингийн төрөөс Ринчинд ямар цол шагнасан буй?",
+    "options": {
+      "A": "Жүн ван",
+      "B": "Чин ван",
+      "C": "Бэйс",
+      "D": "Бэйл"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос түмэн язгуураасаа хэдэн отогтой байсан буй?",
+    "options": {
+      "A": "Найман отог",
+      "B": "Зургаан отог",
+      "C": "Арван хоёр отог",
+      "D": "Арван отог"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордосын баруун зургаан отогт аль нь багтах буй?",
+    "options": {
+      "A": "Далад",
+      "B": "Харчин",
+      "C": "Хорчин",
+      "D": "Цахар"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Энх-Амгалан хааны үед найман цагаан гэрийг сахихаар хэдэн өрх айлыг татан гаргасан буй?",
+    "options": {
+      "A": "Мянган",
+      "B": "Таван зуун",
+      "C": "Зургаан зуун",
+      "D": "Гурван зуун"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос хотын ерөнхий талбай нь хэдэн хавтгай дөрвөлжин километр буй?",
+    "options": {
+      "A": "6 түм 4 мянга",
+      "B": "7 түм 2 мянга",
+      "C": "8 түм 7 мянга",
+      "D": "9 түм 5 мянга"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордосын нүүрсний булагдац (нөөц) нь хэд гэж тооцаалсан буй?",
+    "options": {
+      "A": "1314 дүншигүүр тонн",
+      "B": "2000 дүншигүүр тонн",
+      "C": "500 дүншигүүр тонн",
+      "D": "800 дүншигүүр тонн"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордосын малын сайн бэлчээрийн өвсөнд аль нь хамаарах буй?",
+    "options": {
+      "A": "Алим",
+      "B": "Татаа",
+      "C": "Цагаан мөөг",
+      "D": "Хиаг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Дархадыг анханд нь хэдэн яамтад талбиж (тавьж) хамааруулсан буй?",
+    "options": {
+      "A": "Таван яамтад",
+      "B": "Арван яамтад",
+      "C": "Долоон яамтад",
+      "D": "Найман яамтад"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "«Монголын зан аалийн ойлбори» бичгийг хэн зохиосон буй?",
+    "options": {
+      "A": "Галсан",
+      "B": "Сайнжаргал",
+      "C": "Инжаннаши",
+      "D": "Лувсанчойдон"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордост хонь, ямааг сүргээр нь юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Богын сүрэг",
+      "B": "Бөний сүрэг",
+      "C": "Бодын сүрэг",
+      "D": "Адууны сүрэг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордост морь, үхэр, тэмээг сүргээр нь юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Бөний сүрэг",
+      "B": "Хошуу малын сүрэг",
+      "C": "Богын сүрэг",
+      "D": "Бодын сүрэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Найр наадам, хурим хойнд «халуун хошууту» мал гэж ямар малыг хэлдэг буй?",
+    "options": {
+      "A": "Морь ба хонь",
+      "B": "Ямаа ба хонь",
+      "C": "Морь ба тэмээ",
+      "D": "Үхэр ба тэмээ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Хөхсө (хөхөл) болон туурайгаар нь аль малуудыг «салаа туурайт мал» гэдэг буй?",
+    "options": {
+      "A": "Зөвхөн үхэр ба тэмээ",
+      "B": "Зөвхөн хонь ба ямаа",
+      "C": "Морь, үхэр, тэмээ",
+      "D": "Үхэр, тэмээ, хонь, ямаа"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Туурайгаар нь ямар малыг «битүү туурайт мал» гэж ангилдаг буй?",
+    "options": {
+      "A": "Ямаа",
+      "B": "Үхэр",
+      "C": "Морь",
+      "D": "Тэмээ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Биеийн их багаар нь ямар малыг «бог мал» гэдэг буй?",
+    "options": {
+      "A": "Хонь, ямаа",
+      "B": "Морь, үхэр",
+      "C": "Морь, тэмээ",
+      "D": "Тэмээ, үхэр"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Хэвиж шингээх онцлогоор нь ямар малыг «хэвилэгтэй (хэвдэг) мал» гэдэг буй?",
+    "options": {
+      "A": "Үхэр, тэмээ, хонь, ямаа",
+      "B": "Зөвхөн морь",
+      "C": "Морь ба үхэр",
+      "D": "Зөвхөн тэмээ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Гурван настай адууг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Хязаалан",
+      "B": "Шүдлэн",
+      "C": "Соёолон",
+      "D": "Даага"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Дөрвөн настай адууг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Шүдлэн",
+      "B": "Соёолон",
+      "C": "Хязаалан",
+      "D": "Даага"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Таван настай адууг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Даага",
+      "B": "Хязаалан",
+      "C": "Шүдлэн",
+      "D": "Соёолон"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 28,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Намаршиж гарсан унагыг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Хөхэй унага",
+      "B": "Ууган унага",
+      "C": "Сарва унага",
+      "D": "Гэнж унага"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Анх үс гуужсан унагыг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Сарва унага",
+      "B": "Дахулай унага",
+      "C": "Хавчиг унага",
+      "D": "Гэнж унага"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Хамаг түрүү гарсан унагыг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Алтан унага",
+      "B": "Хавчиг унага",
+      "C": "Ууган унага",
+      "D": "Хөхэй унага"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Өвөл орой гарсан унагыг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Сарва унага",
+      "B": "Дахулай унага",
+      "C": "Хөхэй унага",
+      "D": "Гэнж унага"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Адууны бум тоон дээр гарсан унагыг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Хавчиг унага",
+      "B": "Ууган унага",
+      "C": "Алтан унага",
+      "D": "Сарва унага"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Бэлчээрлүүлдэг зайн хол ойроор нь морь, үхэр, тэмээг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Ойр хавь байдаг ахар хөлт мал",
+      "B": "Гэрийн тэжээвэр мал",
+      "C": "Хол явдаг урт хөлт мал",
+      "D": "Бэлчээрийн бог мал"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монголчуудын идээ ундааны зан үйлд аргаасан мах шүүсээр боловсруулсан идээг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Цагаан идээ",
+      "B": "Бор идээ",
+      "C": "Улаан идээ",
+      "D": "Хөх идээ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ямар малын сүү сэрүүн чанартай бөгөөд шим тэжээлээр төгс тул цагаан идээг боловсруулах гол түүхий эд болдог буй?",
+    "options": {
+      "A": "Үнээн сүү",
+      "B": "Гүүний сүү",
+      "C": "Хонины сүү",
+      "D": "Ямаан сүү"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Сүүг самарч хөөрүүлээд дээгүүр нь аажмаар суусан тослог хөрсийг юу гэдэг буй?",
+    "options": {
+      "A": "Ээдэм",
+      "B": "Өрөм",
+      "C": "Айраг",
+      "D": "Зөөхий"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Сүүг хөрөнгөлж исгээд болгосон исгэлэн амттай ундааг юу гэдэг буй?",
+    "options": {
+      "A": "Тараг",
+      "B": "Цагаа",
+      "C": "Айраг",
+      "D": "Хуурмаг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Айргийг нэрж гаргасан шимт ундааг юу гэдэг буй?",
+    "options": {
+      "A": "Шар ус",
+      "B": "Саалийн архи",
+      "C": "Цагаан тос",
+      "D": "Ээдэм"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Өвлийн цагт идэхээр нэлээд мал нидүүлж (нядуулж) мах тосыг нь нөөцлөхийг юу гэдэг буй?",
+    "options": {
+      "A": "Үүүц гаргах",
+      "B": "Мах эвдэх",
+      "C": "Зайдаслах",
+      "D": "Дахилын мах зооглох"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордосын заншилд хүүхдэд хонины ямар эрхтэнийг идүүлэхийг онц цээрлэдэг буй?",
+    "options": {
+      "A": "Бөөр",
+      "B": "Богтос",
+      "C": "Элэг",
+      "D": "Сээр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Бурхан тахилга ба хурим найрт бэлтгэдэг хамагийн хүндтэй бүхэл махан идээг юу гэдэг буй?",
+    "options": {
+      "A": "Зайдас",
+      "B": "Шөл",
+      "C": "Бууз",
+      "D": "Шүүс"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Буудайтай (бугат?) гурилаар хийдэг бөгөөд овоо тахилга ба хурим найрын ширээнд эрхбиш байх хэрэгтэй боорцгийг аль нь буй?",
+    "options": {
+      "A": "Жинс боорцог",
+      "B": "Банш",
+      "C": "Шарвин",
+      "D": "Хэрчимэл гурил"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Гал голомтоо тахисаны дараа иддэг тослог мөртгөн хүчлэг амттай будааг юу гэдэг буй?",
+    "options": {
+      "A": "Галын будаа",
+      "B": "Шүлхий будаа",
+      "C": "Сагсай будаа",
+      "D": "Бүрийнсэг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордост «Элсэн лууван» гэж нэрлэдэг зэрлэг ургамалыг бас юу гэдэг буй?",
+    "options": {
+      "A": "Гого",
+      "B": "Мөхө",
+      "C": "Сагай",
+      "D": "Даагана"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Бүхэл хэвийн цайг хадгалахад тамгатай талыг нь хааш харуулж талбидаг (тавьдаг) буй?",
+    "options": {
+      "A": "Босоогоор тавьж",
+      "B": "Дээш харуулж",
+      "C": "Хажуудуулж",
+      "D": "Доош харуулж"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Лам нарын ихэвчлэн уудаг, Тангуудаас уламжлалтай гэдэг цайг юу гэдэг буй?",
+    "options": {
+      "A": "Сүүтэй цай",
+      "B": "Гурил цай",
+      "C": "Ханд цай",
+      "D": "Зутан (Жудан) цай"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Үхэр алаад дахилын (тахилын) мах зооглоход аль эрхтэнийг гол болгон чанадаг буй?",
+    "options": {
+      "A": "Аман хүзүү",
+      "B": "Бөөр",
+      "C": "Зүрх",
+      "D": "Сүүл"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Шөл ууж үүүц гаргахад гэрийн эзэнд ямар мах хувь талбидаг (тавьдаг) буй?",
+    "options": {
+      "A": "Богино хавирга",
+      "B": "Нарийн сүүл",
+      "C": "Дунд чөмөг",
+      "D": "Өнчин элэг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Өвлийн цагт бороо цасанд өмсөхөд тохирамжтай, хонины ахрыг зулж хийсэн ханцуй үгүй нөмгөн хувцасыг юу гэдэг буй?",
+    "options": {
+      "A": "Дах",
+      "B": "Хэмлэг",
+      "C": "Огцор",
+      "D": "Дацан"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос хувцас жасалд (засалд) дөрөв таван сар болсон хурганы арсаар (арьсаар) хийсэн, үс нь урт бөгөөд тэгш, хөнгөн дээлийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Лавшиг",
+      "B": "Сансан хурган дээл",
+      "C": "Нэхий дээл",
+      "D": "Үзүүрсэн дээл"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монгол хүн эрэгтэй хүний хувцасны аль хэсгийг «хий морь сүлд» гэж үздэг буй?",
+    "options": {
+      "A": "Бүс",
+      "B": "Малгай",
+      "C": "Дээл",
+      "D": "Гутал"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Эрэгтэйчүүдийн хөөрөг хийж авч явдаг, бүсэнд зүүдэг савыг юу гэдэг буй?",
+    "options": {
+      "A": "Богц",
+      "B": "Уут",
+      "C": "Хавтага",
+      "D": "Даалин"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос хуримд хүргэн хүү саадагт явахдаа эрхбиш ямар жимсэг (чимэг) зүүж мордох хэрэгтэй буй?",
+    "options": {
+      "A": "Гоо",
+      "B": "Тутхай",
+      "C": "Багуу",
+      "D": "Сүйх"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Хонь ямааны урт үстэй арьсны үсийг нь гадагш хандуулан оёсон, бороо цасанд өмсдөг хувцас аль нь буй?",
+    "options": {
+      "A": "Хүрэм",
+      "B": "Дацан",
+      "C": "Дах",
+      "D": "Огцор"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монголчуудын гал үүсгэх эдлэл бөгөөд эрэ хүний биеэс салгадаг үгүй жимсэгийг юу гэдэг буй?",
+    "options": {
+      "A": "Хутга",
+      "B": "Хэт",
+      "C": "Ганс",
+      "D": "Ташуур"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос дээлийн ханцуйд оруулдаг, галд мөргөх зэрэг ёслолд гараа халхалдаг хэсгийг юу гэдэг буй?",
+    "options": {
+      "A": "Заам",
+      "B": "Нударга",
+      "C": "Энгэр",
+      "D": "Туурай"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос заншилаар эмэгтэй хүн хэдий насандаа «хүүхэн гэзэг» талбидаг (тавьдаг) буй?",
+    "options": {
+      "A": "Арван гурав",
+      "B": "Арван тав",
+      "C": "Арван найм",
+      "D": "Арван хоёр"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордос эмэгтэйчүүдийн толгойн засал бөгөөд тойруул, аравч, чихэвчээс бүрэлдсэн өмсгөлийг юу гэдэг буй?",
+    "options": {
+      "A": "Загалмай",
+      "B": "Салаавч",
+      "C": "Богт",
+      "D": "Даруулга"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Дээлийн гадуур өмсдөг, богино өргөн ханцуйтай, зөргүү (зөрүү) энгэртэй охор хувцасыг юу гэдэг буй?",
+    "options": {
+      "A": "Ханжияр",
+      "B": "Лавшиг",
+      "C": "Цамц",
+      "D": "Хүрэм"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Эрэгтэйчүүдийн өмсдөг «ханжияр» (vest)-ын энгэр нь ямар хэлбэртэй байдаг буй?",
+    "options": {
+      "A": "Чиг энгэр",
+      "B": "Дөрвөлжин энгэр",
+      "C": "Зөргүү (зөрүү) энгэр",
+      "D": "Дугуй энгэр"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Мөнгөн аяга буюу модон аягаа хийж авч явдаг тусхай савыг юу гэдэг буй?",
+    "options": {
+      "A": "Хавтага",
+      "B": "Даалин",
+      "C": "Богц",
+      "D": "Аяганы гэр"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 62,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Хүүхдийн нэг насны ойн баяр дээр анх үсийг нь хайчилсаны дараа хийж зүүлгэдэг жимсэгийг юу гэдэг буй?",
+    "options": {
+      "A": "Зангиа",
+      "B": "Гашиба",
+      "C": "Буусвар",
+      "D": "Оньс"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Эрхий хуруунд зүүдэг сагалтыг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Эрхийвч",
+      "B": "Сүйх",
+      "C": "Багуу",
+      "D": "Бөгж"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Нялх хүүхдийг ориян (ороож) хучих дөрвөлжин хучилгаыг юу гэдэг буй?",
+    "options": {
+      "A": "Манцуй",
+      "B": "Бойтог",
+      "C": "Өмд",
+      "D": "Баринтаг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордосчууд уухайыг (овоохойг) бас юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Асар",
+      "B": "Төв гэр",
+      "C": "Цэцэр",
+      "D": "Өвөн гэр буюу Багбай"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Тооно нь бага, уни нь урт, хана хэрэглэдэг үгүй сууцыг юу гэдэг буй?",
+    "options": {
+      "A": "Майхан",
+      "B": "Төв гэр",
+      "C": "Цэцэр",
+      "D": "Ханан гэр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Нар борооноос халхлахад хэрэглэдэг дөрвөлжин хэлбэртэй, туурга үгүй гэрийг юу гэдэг буй?",
+    "options": {
+      "A": "Цэцэр",
+      "B": "Төв гэр",
+      "C": "Байшин",
+      "D": "Овоохой"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "1934 онд 9-дүгээр дүрийн Банчин Эрдэнэ Утаг (Отог) хошуунд морилоход засаг ноёд оюудалчидаар юу хийлгэсэн буй?",
+    "options": {
+      "A": "Төв гэр",
+      "B": "Шавар байшин",
+      "C": "Өвөн гэр",
+      "D": "Дөрвөлжин майхан (Цэцэр)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монгол гэрийн яс модоны ноён оройг юу гэдэг буй?",
+    "options": {
+      "A": "Багана",
+      "B": "Уни",
+      "C": "Хана",
+      "D": "Тооно"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Гэрийн унины уртыг юу баримжаалан хэмждэг буй?",
+    "options": {
+      "A": "Тоононы хэмжээгээр",
+      "B": "Баганын уртаар",
+      "C": "Хананы өндөрөөр",
+      "D": "Үүдний өргөнөөр"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Айлын үүд өрхийг төлөөлдөг тула алтан бомогоыг (босгыг) гисгэхийг (гишгэхийг) цээрлэдэг хэсэг нь аль буй?",
+    "options": {
+      "A": "Босго",
+      "B": "Хатавч",
+      "C": "Хаалга",
+      "D": "Тотго"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Үр үндэс дэлгэрэхийн бэлгэ дэмбэрэл гэж үзэн гал тахихд милиядаг (мялаадаг) гэрийн хэсэг нь аль буй?",
+    "options": {
+      "A": "Уни",
+      "B": "Босго",
+      "C": "Багана",
+      "D": "Тотго"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Ханан гэрийн бүрээсний дотроос юуг «гэрийн малгай, оройн чимэг» гэж эрхэмлэдэг буй?",
+    "options": {
+      "A": "Өрх",
+      "B": "Туурга",
+      "C": "Үүд",
+      "D": "Дээвэр"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Гэрийн унины хэсгийг бүдээж (бүтээж) байгаа бүрээсийг юу гэдэг буй?",
+    "options": {
+      "A": "Хөлтөргө",
+      "B": "Дотууравч",
+      "C": "Туурга",
+      "D": "Дээвэр"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 75,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Гэрийн дээврийн гадуур тооног дугуйлуулан дөрвөн зүгт хошуу гарган хийсэн чимэглэлийг юу гэдэг буй?",
+    "options": {
+      "A": "Хаяавч",
+      "B": "Дотууравч",
+      "C": "Хөлтөргө",
+      "D": "Өрх"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 76,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монгол гэрийн тулга эртэндээ ямар хэлбэртэй байсан буй?",
+    "options": {
+      "A": "Дөрвөн оцогтой ширмэн тулга",
+      "B": "Гурван хөлтэй хүрэл тулга",
+      "C": "Зургаан хөлтэй тулга",
+      "D": "Таван хөлтэй тулга"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монгол гэрт бурхан шүтээнийг аль зүгт залдаг буй?",
+    "options": {
+      "A": "Баруун өмнө талд",
+      "B": "Баруун хойд талд",
+      "C": "Зүүн хойд талд",
+      "D": "Үүдний эсрэг талд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монгол гэрт бүсгүй хүн хамигаа (хаана) суух ёсотой буй?",
+    "options": {
+      "A": "Тулганы баруун талд",
+      "B": "Гэрийн хоймор",
+      "C": "Үүдний дэргэд",
+      "D": "Тулганы зүүн талд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Монгол гэрт бүсгүй хүн (sic) суух орон аль нь буй?",
+    "options": {
+      "A": "Гэрийн хоймор",
+      "B": "Тулганы баруун тал",
+      "C": "Баруун хойд тал",
+      "D": "Тулганы зүүн тал"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 80,
+    "source": "Ordos Culture",
+    "type": "Fact single choice questions",
+    "question": "Эр хүний эмээл хазаар, хутга сэлэм зэргийг гэрийн аль талд элгэдэг (өлгөдөг) буй?",
+    "options": {
+      "A": "Хойморт",
+      "B": "Үүдэнд",
+      "C": "Зүүн хананд",
+      "D": "Баруун хананд"
+    },
+    "answer": "D"
+  }
+]
