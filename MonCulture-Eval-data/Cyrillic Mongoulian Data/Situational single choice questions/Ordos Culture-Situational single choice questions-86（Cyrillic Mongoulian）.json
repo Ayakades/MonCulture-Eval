@@ -1,0 +1,1120 @@
+[
+  {
+    "id": 1,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордост үнээ саахад тугал бурууг эхийг нь хөхөхөөс сэргийлж хамарт нь зүүлгэдэг хэрэгслийг юу гэдэг вэ?",
+    "options": {
+      "A": "бурга (шөргө)",
+      "B": "чагтага",
+      "C": "хошгор",
+      "D": "богтог"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордосын заншлаар хонины хаврын ахурыг хэддүгээр сард хайчилдаг вэ?",
+    "options": {
+      "A": "10 дугаар сар",
+      "B": "8 дугаар сар",
+      "C": "6 дугаар сар",
+      "D": "4 дүгээр сар"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ингэ саах үест саальчин ямар байр байдалтай саадаг буй?",
+    "options": {
+      "A": "Сандал дээр сууж саадаг",
+      "B": "Хоёр хөлөөрөө цомцойж суугаад саадаг",
+      "C": "Зүүн хөл дээрээ зогсон баруун хөлөө нугалж өвдөг дээр тулгаж саадаг",
+      "D": "Ээрээ босоо зогсож байгаад саадаг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ямаа самнахад ямааны хамрыг нотолж, эврийг нь урьж их гадаснаас уядаг урт дээсийг юу гэдэг вэ?",
+    "options": {
+      "A": "Бурга",
+      "B": "Зэл",
+      "C": "Чагтага",
+      "D": "Богдог"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Эсгий хийхэд ямар улирлын ноос хамгийн тохиромжтой сайн болдог вэ?",
+    "options": {
+      "A": "Ямааны сурму",
+      "B": "Тэмээний зогдор",
+      "C": "Намрын ахар",
+      "D": "Хаврын ахар"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Исгэх хийхэд унгас савдаг багажийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "саваа",
+      "B": "гэдэрэг",
+      "C": "билүү",
+      "D": "хошуур"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Арьс ширийг утаж өнгө оруулахад ямар зүйлээр утавал шар улаан өнгө суудаг буй ?",
+    "options": {
+      "A": "хонин хоргол",
+      "B": "морин хумуул",
+      "C": "үхрийн аргал",
+      "D": "сойх өвс"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Арьсны шар махны хөрсийг хусаж өнгөлж элддэг багажийг юу гэдэг вэ?",
+    "options": {
+      "A": "хайч",
+      "B": "саваа",
+      "C": "хусуур",
+      "D": "сам"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордост хонийг нядлахад ямар аргыг хэрэглэдэг вэ?",
+    "options": {
+      "A": "Өрөөцөлдөх",
+      "B": "Толгойд нь цохих",
+      "C": "Хоолойлох",
+      "D": "Багалзуурыг нь огтлох"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Таван хошуу малын ялгадас дотор морины хийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "хомол",
+      "B": "хоргол",
+      "C": "аргал",
+      "D": "сэвс"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Тэмээний ноосыг авахад ямар дарааллаар авдаг вэ?",
+    "options": {
+      "A": "Зогдор хяргаж, дараа нь зах ноос, хамгийн сүүлд бие ноос",
+      "B": "Бие ноосыг эхэлж аваад сүүлд нь зогдор хяргадаг",
+      "C": "Өвдөгний ноосыг хамгийн сүүлд авдаг",
+      "D": "Бүх ноосыг нэг дор хяргаж авдаг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Исгэг уриахад дотор нь хийж элэг болгодог хуучин исгэгийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "өвлийн исгэг",
+      "B": "эх исгэг",
+      "C": "нялх исгэг",
+      "D": "шинэ исгэг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Отор нүүдэл хийхэд ямар өдрийг сайн буурь өдөр (цагаан буурь) гэж үздэг вэ?",
+    "options": {
+      "A": "Шинийн долоон, найман",
+      "B": "Шинийн хорин, хорин нэгэн",
+      "C": "Шинийн есөн, арван",
+      "D": "Шинийн гурван, дөрвөн, таван"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Дөрвөлжин дээвэртэй бага майхныг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Цэцэр",
+      "B": "Өвөн гэр",
+      "C": "Ханан тунгацаг",
+      "D": "Жодгор"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Хонь хайчилж байгаа айлд очсон хүн ямар бэлгэ дэмбэрлийн үг хэлдэг заншилтай буй?",
+    "options": {
+      "A": "Ноос арвин бол",
+      "B": "Мал сүрэг тарган бол",
+      "C": "Ажил бүтэмжтэй бол",
+      "D": "Сайн байна уу"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордост ингэний сүүгээр исгэсэн айргийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "тараг",
+      "B": "цэгээ",
+      "C": "арц",
+      "D": "ээдэм"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Тэмээний ноосыг яагаад нэг мөсөн шалдагнаж хяргаж болохгүй гэдэг вэ?",
+    "options": {
+      "A": "Үзэмж муутай харагддаг тул",
+      "B": "Ноос нь ургахаа больдог тул",
+      "C": "Хүйтэнд таарч, халуунд хагаран өвчин олохоос сэргийлдэг",
+      "D": "Цаг хугацаа хэмнэхийн тул"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордост үнээ саахад тугал бурууг эхийг нь хөхөхөөс сэргийлж хамарт нь зүүлгэдэг хэрэгслийг юу гэдэг вэ?",
+    "options": {
+      "A": "бурга (шөргө)",
+      "B": "хошгор",
+      "C": "богдог",
+      "D": "чагтага"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордосын заншлаар хонины хаврын ахурыг хэддүгээр сард хайчилдаг вэ?",
+    "options": {
+      "A": "6 дугаар сар",
+      "B": "4 дүгээр сар",
+      "C": "8 дугаар сар",
+      "D": "10 дугаар сар"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ингэ саах үед саальчин ямар байр байдалтай саадаг буй?",
+    "options": {
+      "A": "Эгц босоо зогсож байгаад саадаг",
+      "B": "Сандал дээр сууж саадаг",
+      "C": "Зүүн хөл дээрээ зогсон баруун хөлөө нугалж өвдөг дээр тулгаж саадаг",
+      "D": "Хоёр хөлөөрөө цомцойж суугаад саадаг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ямаа самнахад ямааны хамрыг ногтолж, эврийг нь урьж их гадаснаас уядаг урт дээсийг юу гэдэг вэ?",
+    "options": {
+      "A": "Зэл",
+      "B": "Читгэ",
+      "C": "Бурха",
+      "D": "Богдог"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Эсгий хийхэд ямар улирлын ноос хамгийн тохиромжтой сайн болдог вэ?",
+    "options": {
+      "A": "Тэмээний зогдор",
+      "B": "Намрын ахар",
+      "C": "Ямааны сурмуу",
+      "D": "Хаврын ахар"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Эсгий хийхэд унгас савдаг багажийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "саваа",
+      "B": "билүү",
+      "C": "гэдэрэг",
+      "D": "хошгуур"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Арьс ширийг утаж өнгө оруулахад ямар зүйлээр утавал шар улаан өнгө суудаг буй?",
+    "options": {
+      "A": "хонин хоргол",
+      "B": "морин хумуул",
+      "C": "үхрийн аргал",
+      "D": "сойх өвс"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Арьсны шар махны хөрсийг хусаж өнгөлж элддэг багажийг юу гэдэг вэ?",
+    "options": {
+      "A": "сам",
+      "B": "хайч",
+      "C": "хусуур",
+      "D": "саваа"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордост хонийг нядлахад ямар аргыг хэрэглэдэг вэ?",
+    "options": {
+      "A": "Багалзуурыг нь огтлох",
+      "B": "Толгойд нь цохих",
+      "C": "Хоолойлох",
+      "D": "Өрөөцлөх"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Таван хошуу малын ялгадасын дотор морины хийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "сэвс",
+      "B": "хоргол",
+      "C": "хомоол",
+      "D": "аргал"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Тэмээний ноосыг авахад ямар дарааллаар авдаг буй?",
+    "options": {
+      "A": "Бүх ноосыг нэг дор хяргаж авдаг",
+      "B": "Өвдөгний ноосыг хамгийн сүүлд авдаг",
+      "C": "Бие ноосыг эхэлж аваад сүүлд нь зогдор хяргадаг",
+      "D": "Зогдор хяргаж, дараа нь зах ноос, хамгийн сүүлд бие ноос"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Исгэй урихдаа дотор нь хийж элэг болгодог хуучин исгэйг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Эх исгэй",
+      "B": "Өвлийн исгэй",
+      "C": "Нялх исгэй",
+      "D": "Шинэ исгэй"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Отор нүүдэл хийхэд ямар өдрийг сайн буурь өдөр (цагаан буурь) гэж үздэг вэ?",
+    "options": {
+      "A": "Шинийн хорин, хорин нэгэн",
+      "B": "Шинийн долоон, найман",
+      "C": "Шинийн есөн, арван",
+      "D": "Шинийн гурван, дөрвөн, таван"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Дөрвөлжин дээвэртэй бага майхныг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Цэцэр",
+      "B": "Өвөн гэр",
+      "C": "Жодгор",
+      "D": "Ханан тунгацаг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Хонь хайчилж байгаа айлд очсон хүн ямар бэлгэ дэмбэрлийн үг хэлдэг заншилтай буй?",
+    "options": {
+      "A": "Ноос арвин бол",
+      "B": "Ажил бүтэмжтэй бол",
+      "C": "Сайн байна уу",
+      "D": "Мал сүрэг тарган бол"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордост ингэний сүүгээр исгэсэн айргийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "тараг",
+      "B": "арц",
+      "C": "цэгээ",
+      "D": "ээдэм"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Тэмээний ноосыг яагаад нэг мөсөн шалдалж хяргаж болохгүй гэдэг вэ?",
+    "options": {
+      "A": "Цаг хугацаа хэмнэхийн тулд",
+      "B": "Ноос нь ургахаа больдог тул",
+      "C": "Үзэмж муутай харагддаг тул",
+      "D": "Хүйтэнд даарч, халуунд хагаран өвчин олохоос сэргийлдэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Морьтой ирсэн хүн ташуураа ямар гартаа барьдаг вэ.",
+    "options": {
+      "A": "баруун гар",
+      "B": "зүүн гар",
+      "C": "хоёр гар",
+      "D": "бүсэндээ хавчдаг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрт ойртоход ямар ёсоор амар эрэлцдэг буй.",
+    "options": {
+      "A": "Зүүн гарын алгаа дэлгэнэ",
+      "B": "Баруун гарын алгаа дэлгэнэ",
+      "C": "Толгой дохино",
+      "D": "Хоёр гар хавсарна"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрт орохоос өмнө юу хийх хэрэгтэй вэ.",
+    "options": {
+      "A": "Малгайгаа авна",
+      "B": "Өмсгөл зүүсгэлээ таарч тэгш засна",
+      "C": "Ташуураа гадаа орхино",
+      "D": "Гутлаа тайлна"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ахмад ихэс зочин ирвэл гэрийн эзэн яадаг вэ?",
+    "options": {
+      "A": "Гадагш гарч угтана",
+      "B": "Суугаа чигээрээ мэндэлнэ",
+      "C": "Босч зогсон амар айлтгана",
+      "D": "Тогоо нэрнэ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Онцгой хүндэт зочныг юун дээр суулгадаг вэ.",
+    "options": {
+      "A": "эсгий",
+      "B": "модон сандал",
+      "C": "орон дээр",
+      "D": "олбог буюу тулаг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Хэрвээ зочин нь үе хураагийн хүн буюу дүүмэд байвал гэрийн эзэн яадаг вэ.",
+    "options": {
+      "A": "Гэрээсээ гарч явдаг",
+      "B": "Заавал босч зогсдог",
+      "C": "Доор суудаг",
+      "D": "Суудлаасаа хөдлөлгүй хариу мэнд мэддэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрийн баруун талд суугчид ямар өвдгөө нугалж цомцойдог вэ?",
+    "options": {
+      "A": "зүүн өвдөг",
+      "B": "баруун өвдөг",
+      "C": "өвдөг нугалахгүй",
+      "D": "хоёр өвдөг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрийн зүүн тал ба хойд талаар суугчид ямар өвдгөө нугалж цомцойдог вэ?",
+    "options": {
+      "A": "баруун өвдөг",
+      "B": "завилна",
+      "C": "зүүн өвдөг",
+      "D": "хоёр өвдөг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Монгол гэрт хэзээ завилж суух болдог вэ?",
+    "options": {
+      "A": "үргэлж завиладаг",
+      "B": "хоол идэх үед",
+      "C": "орж ирмэгц",
+      "D": "ахмад настан буюу гэрийн эзэн зөвшөөрвөл"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 44,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Настан гэрийн аль талаар унтдаг вэ?",
+    "options": {
+      "A": "зүүн тал",
+      "B": "галын ойр",
+      "C": "үүдэн тал",
+      "D": "баруун тал"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрийн зүүн талд ямар хүн унтах ёстой вэ?",
+    "options": {
+      "A": "бүсгүй хүн",
+      "B": "ахмад настан",
+      "C": "зочин",
+      "D": "гэрийн эзэн"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Зочныг гэрийн аль талд унтуулдаггүй вэ?",
+    "options": {
+      "A": "зүүн тал",
+      "B": "хойд тал",
+      "C": "баруун тал",
+      "D": "хоймор"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Монгол гэрт унтахдаа хөлөө хаашаа жийхийг цээрлэдэг вэ?",
+    "options": {
+      "A": "үүдний зүг",
+      "B": "гал голомт ба бурхан шүтээний өөд",
+      "C": "баруун зүг",
+      "D": "хана зүг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрийн баруун талд унтагсад толгойгоо хаашаа хандуулдаг вэ?",
+    "options": {
+      "A": "зүүнш",
+      "B": "хойш",
+      "C": "дотогш",
+      "D": "өмнөш"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Хоймор унтагсад толгойгоо хаашаа хандуулдаг вэ?",
+    "options": {
+      "A": "Баруунш бурхан шүтээний өөд",
+      "B": "Зүүнш",
+      "C": "Хойш",
+      "D": "Өмнөш"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрээс гарахдаа ямар үйлдлийг цээрлэдэг вэ?",
+    "options": {
+      "A": "Толгой дохих",
+      "B": "Хурдан алхах",
+      "C": "Баруун гараар үүд нээх",
+      "D": "Ар талаа гал голомт ба ахмад хүний өөд харуулах"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 51,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрээс гарахдаа үүдний аль талыг сөхдөг вэ?",
+    "options": {
+      "A": "дээд тал",
+      "B": "хоёр тал",
+      "C": "зүүн тал",
+      "D": "баруун тал"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрээс гарахдаа хатавчинд яахиж болохгүй буй.",
+    "options": {
+      "A": "Зогсож",
+      "B": "Алхаж",
+      "C": "Үсэрч",
+      "D": "Хөлөө хүргэж"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Хүргэн хүүг дагалдан явах саадгийн хүмүүсийн тоо ямар байх ёстой вэ?",
+    "options": {
+      "A": "Сондгой тоотой",
+      "B": "Заавал арван гаруй",
+      "C": "Тоо харгалзахгүй",
+      "D": "Тэгш тоотой"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 54,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордосын заншилд саадаг хэзээ морддог буй?",
+    "options": {
+      "A": "Нар мандах үес",
+      "B": "Үдийн өмнө",
+      "C": "Үд дунд",
+      "D": "Нар жаргасаны дараа"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Хүргэн хүүг дагуулж, ёс журмыг биечлэн тушааж явдаг хүнийг юу гэдэг вэ?",
+    "options": {
+      "A": "Суудлын эгтэн",
+      "B": "Зууч",
+      "C": "Гэрийн эзэн",
+      "D": "Хонжин"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Монгол гэрт ороход үүдний аль талаар ордог вэ?",
+    "options": {
+      "A": "буруу тал",
+      "B": "гол дундуур",
+      "C": "зөв тал",
+      "D": "аль тааралдсан талаар"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрийн баруун талаар суугчид ямар өвдгөө нугалж цомцойдог вэ?",
+    "options": {
+      "A": "хоёр өвдөг",
+      "B": "баруун өвдөг",
+      "C": "зүүн өвдөг",
+      "D": "завилж сууна"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 58,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Монгол гэрт унтахдаа хөлөө хаашаа хандуулахыг цээрлэдэг вэ?",
+    "options": {
+      "A": "баруун зүг",
+      "B": "хана уруу",
+      "C": "гал голомт ба бурхан шүтээний өөд",
+      "D": "үүдний зүг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "《Аян жин》 гэх үгийн 《жин》 гэдэг нь юу гэсэн утгатай буй?",
+    "options": {
+      "A": "Алт мөнгө",
+      "B": "Хүндийн хэмжүүр",
+      "C": "Хол зам",
+      "D": "Тэмээн сүрэг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Тэмээний жинг ер нь ямар улиралд хийдэг вэ?",
+    "options": {
+      "A": "Өвлийн улирал",
+      "B": "Зуны улирал",
+      "C": "Намрын улирал",
+      "D": "Хаврын улирал"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Тэмээний хамарт шааж бурантаг уях үзүүр тай хөндлөн модыг юу гэдэг вэ?",
+    "options": {
+      "A": "Бойл",
+      "B": "Бурантаг",
+      "C": "Тээлэй",
+      "D": "Цэрвэ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Тэмээчид тэмээний хүзүүнд юуны тулд хонх зүүдэг вэ?",
+    "options": {
+      "A": "Тэмээг унтаахгүйн тулд",
+      "B": "Зөвхөн гоёл чимэглэлийн тулд",
+      "C": "Чоно нохойг үргээх ба тэмээ гээгдэхээс сэргийлэх",
+      "D": "Жингийн хурдыг нэмэгдүүлэхийн тулд"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Аянчид замдаа буудаллахдаа майхны үүдээ хаашаа хандуулдаг вэ?",
+    "options": {
+      "A": "очих газрын зүг",
+      "B": "салхины доорх зүг",
+      "C": "нар мандах зүг",
+      "D": "гэрийн зүг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Аянчид нутагтаа ирж салалцахдаа хийдэг баярыг юу гэдэг вэ?",
+    "options": {
+      "A": "гэрийн баяр",
+      "B": "салаа замын баяр",
+      "C": "аяны баяр",
+      "D": "угталгын баяр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Суудал мордоход авч явдаг бэлэг сэлтийн дотор онцгой нэрлэгдсэн долоон зүйлийг юу гэдэг вэ?",
+    "options": {
+      "A": "Долоон бурхан",
+      "B": "Долоон хадаг",
+      "C": "Долоон эрдэнэ",
+      "D": "Долоон сэв"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Гэрээс гарахдаа ямар зүйлийг цээрлэдэг вэ?",
+    "options": {
+      "A": "Баруун хөлөөр гарах",
+      "B": "Үүдийг чанга хаах",
+      "C": "Үүд сөхөх",
+      "D": "Хатавчинд хөлөө хүргэх"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Үхэр тэргэн аянд үхрийн хамрын бурантгийг хаана уядаг вэ?",
+    "options": {
+      "A": "Хүний гарт",
+      "B": "Өмнөх тэрэгний үхрийн сумалын боодог дээр",
+      "C": "Үхрийн эвэрт",
+      "D": "Тэрэгний ард"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Саадаг угтах үест хүргэн хүүг хаана зогсоодог буй?",
+    "options": {
+      "A": "гэрийн хойморт",
+      "B": "гэрийн баруун талд",
+      "C": "уяаны тэргэд",
+      "D": "хийморийн өмнө дэвссэн цагаан тулаг дээр"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Саадгийн эдэнийг бас юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Хонжин",
+      "B": "Бэрхэд",
+      "C": "Дамган хот",
+      "D": "Засаг хот"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордосчууд айлд орохдоо амар мэнд эрэхгүй хүнийг юу гэж дургүйцэн хэлдэг вэ?",
+    "options": {
+      "A": "Ёстой зочин",
+      "B": "Модон өмд өмссөн",
+      "C": "Хүндэт гийчин",
+      "D": "Амар сайн хүн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Монголчууд гэртээ ирсэн зочноос шууд юу гэж асуухыг цээрлэдэг буй?",
+    "options": {
+      "A": "Цай ууна уу?",
+      "B": "Амар сайн байна уу?",
+      "C": "Нутаг ус хаана буй?",
+      "D": "Сонин сайхан юу байна?"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Зочин тайлахад ундааны тэргүүн нь юу вэ?",
+    "options": {
+      "A": "буцалгасан ус",
+      "B": "хар архи",
+      "C": "жимсний шүүс",
+      "D": "сүүтэй цай"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Эмэгтэй хүнд шүүс тавихад ямар мах тавьдаг вэ?",
+    "options": {
+      "A": "Шаант чөмөг",
+      "B": "Сээр, сүүж, өвчүү",
+      "C": "Ууц, тал",
+      "D": "Дөрвөн өндөр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Бөгөл шүүс тавихад толгойг нь хаашаа харуулдаг вэ?",
+    "options": {
+      "A": "Гэрийн үүд рүү",
+      "B": "Гэрийн эзэн рүү",
+      "C": "Зочны өөд",
+      "D": "Бурхан руу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Зочин тайлахад гэрийн эзэн ямар байдалтай байхыг цээрлэдэг буй?",
+    "options": {
+      "A": "Бүс бүслэх",
+      "B": "Ханцуй шамлах",
+      "C": "Малгай өмсөх",
+      "D": "Толгой нүцгэн байх"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Бэлэг барихад ямар зүйлийг балиг болгон өгөхийг цээрлэдэг вэ?",
+    "options": {
+      "A": "архи боов",
+      "B": "ногт буюу тэшүүр ба дотор хувцас",
+      "C": "торго тордон",
+      "D": "мөнгөн аяга"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Монгол ардын сэцлэлд бэлгийг юу гэж үздэг буй?",
+    "options": {
+      "A": "Их өгвөл сайн",
+      "B": "Алт мөнгө хамгийн дээр",
+      "C": "Эд биш бэлэг, зоос биш ёс",
+      "D": "Бэлэг бол үнэтэй байх хэрэгтэй"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ахмад настанд бэлгийг яаж барьдаг вэ?",
+    "options": {
+      "A": "Ширээн дээр тавьдаг",
+      "B": "Хоёр гараараа гардуулж мөргөн ёсолдог",
+      "C": "Сууж байгаад өгдөг",
+      "D": "Нэг гараараа өгдөг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Бэлэгтэй хүн айлд орохдоо бэлгээ хаанаа барьдаг вэ?",
+    "options": {
+      "A": "Өөрийн хажуудаа тавьдаг",
+      "B": "Биеийн өмнөө",
+      "C": "Гадаа орхидог",
+      "D": "Ардаа үүрч"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Шинэ бэрийг буулгаж авчрахаар явах хүмүүсийг юу гэдэг вэ?",
+    "options": {
+      "A": "Аянчид",
+      "B": "Найрчид",
+      "C": "Саадаг",
+      "D": "Бэрийн тал"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Саадгийн хүмүүсийн тоо ямар байх ёстой вэ?",
+    "options": {
+      "A": "сондгой тоо",
+      "B": "тоо хамаагүй",
+      "C": "тэгш тоо",
+      "D": "ганц хүн"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Ордост сааддаг хэзээ морддог вэ?",
+    "options": {
+      "A": "Нар мандахаас өмнө",
+      "B": "Үд дунд",
+      "C": "Үдийн хойно",
+      "D": "Нар жаргасны дараа"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 83,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Хүргэн хүүг дагуулж, ёс журмыг тушааж явдаг хүнийг юу гэдэг вэ?",
+    "options": {
+      "A": "хонжин",
+      "B": "хуримын дарга",
+      "C": "бэлэг хүргэгч",
+      "D": "зууч"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Саадаг мордоход хүүхэн талд авч очдог онцгой бэлгийг юу гэдэг вэ?",
+    "options": {
+      "A": "таван хадаг",
+      "B": "есөн эрдэнэ",
+      "C": "гурван архи",
+      "D": "толгон сэв"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 85,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Саадгийн хүмүүс хүүхэн талд хүрэхэд хүргэн хүү хаана зогсдог вэ?",
+    "options": {
+      "A": "Хий морины өмнө дэвссэн цагаан тоолог дээр",
+      "B": "Гэрийн хойморт",
+      "C": "Гал тулганы дэргэд",
+      "D": "Гэрийн баруун талд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 86,
+    "source": "Ordos Culture",
+    "type": "Situational single choice questions",
+    "question": "Зуучийг бас юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "хонжин",
+      "B": "засаг хот",
+      "C": "нирв",
+      "D": "дамаан хот"
+    },
+    "answer": "D"
+  }
+]

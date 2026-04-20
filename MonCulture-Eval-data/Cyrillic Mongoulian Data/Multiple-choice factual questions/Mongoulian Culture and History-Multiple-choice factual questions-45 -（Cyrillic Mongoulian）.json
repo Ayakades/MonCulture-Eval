@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1816 онд орос хүн ямар хүүхдэд зориулан анхны сургуулийг байгуулж өгсөн бэ?",
+    "options": {
+      "A": "Буриад хүүхдэд",
+      "B": "Адэхи буриад хүүхдэд",
+      "C": "Халх монгол хүүхдэд",
+      "D": "Өвөр монгол хүүхдэд"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 2,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Түрүү зууны эхний хагаст монгол судлалд чухал үүрэг гүйцэтгэсэн буриад эрдэмтэн нугууд хэн бэ?",
+    "options": {
+      "A": "Богд гэгээн ба Жалханз хутагт",
+      "B": "Жамсрано ба Ринчино",
+      "C": "Дорж Банзаров ба Галсан Гомбоев",
+      "D": "Банзаров болон Гомбоев"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 3,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1919 онд Гадаад Монголыг Дундад улсын мэдэлд дахин оруулах бодлогыг явуулсан хятад жанжин хэн бэ?",
+    "options": {
+      "A": "Жан Зо Лин",
+      "B": "Сю Шү Жэн",
+      "C": "Сю жанжин",
+      "D": "Жян Жие Ши"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 4,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Барон Унгерн хэдийд Өргөө хот (Улаанбаатар)-д цөмрөн орсон бэ?",
+    "options": {
+      "A": "1921 оны 7 сарын 11",
+      "B": "1921 оны 2 сарын 4",
+      "C": "1921 оны хоёр сар",
+      "D": "1921 оны 3 сарын 1"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 5,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1921 онд байгуулагдсан Монгол Ардын Хувьсгалт Намын мөрийн хөтөлбөрийг хэн бичсэн бэ?",
+    "options": {
+      "A": "Жамсрано",
+      "B": "Чойбалсан",
+      "C": "Сүхбаатар",
+      "D": "Цэвээн Жамсрано"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 6,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1921 оны 3 сарын 13-д байгуулагдсан Түр цагийн засгийн газрын тэргүүлэгч нь хэн болсон бэ?",
+    "options": {
+      "A": "Данзан",
+      "B": "Чагдаржав",
+      "C": "Бодоо",
+      "D": "Шагдаржав"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 7,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Улаанбаатарт Шинжлэх ухааны хүрээлэн (Судар бичгийн хүрээлэн)-г хэдий онд байгуулсан бэ?",
+    "options": {
+      "A": "1921 он",
+      "B": "1940 онд",
+      "C": "1924 онд",
+      "D": "1921 онд"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 8,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Японы тагнуул хэмэн сэжиглэгдэж хэлмэгдсэн Цэргийн яамны сайд хэн байсан бэ?",
+    "options": {
+      "A": "Дэмид",
+      "B": "Гэндэн",
+      "C": "Димид",
+      "D": "Амар"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 9,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1940 он гэхэд Хянган зүүн мужийн монголчуудын дотор хэдий бага сургууль байгуулагдсан байсан бэ?",
+    "options": {
+      "A": "Хоёр мянга гаруй",
+      "B": "Таван зуу гаруй",
+      "C": "Мянга гаруй",
+      "D": "1000 гаруй"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 10,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Япон монгол боловсон хүчнүүдийг (кадр) бэлтгэх тусхай мэргэжлийн сургууль хаана байгуулагдсан бэ?",
+    "options": {
+      "A": "Улаанхотод",
+      "B": "Бээжинд",
+      "C": "Хөххотод",
+      "D": "Вангийн сүмд"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 11,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Улаанхүү хэдий онд Эв хамт залуучуудын эвлэлд элсэгдэн орсон бэ?",
+    "options": {
+      "A": "1924 оны 2 сард",
+      "B": "1925 онд",
+      "C": "1924 онд",
+      "D": "1921 онд"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 12,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1942 онд япон цэрэгт баригдаж нас барсан Муумянган хошууны партизаны удирдагч хэн бэ?",
+    "options": {
+      "A": "Фүлингэ",
+      "B": "Ринчихурл",
+      "C": "Улаанхүү",
+      "D": "Ринчинхорло"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 13,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ялтын хэлэлцээр хэдийд батлагдсан бэ?",
+    "options": {
+      "A": "1945 оны 8 сарын 10",
+      "B": "1945 оны 2 сарын 11",
+      "C": "1944 оны 2 сар",
+      "D": "1945 оны хоёр сар"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 14,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Бүгд Найрамдах Монгол Ард Улс хэдийд Японы эсрэг дайн зарласан бэ?",
+    "options": {
+      "A": "1945 оны 8 сарын 10",
+      "B": "1939 оны 5 сар",
+      "C": "1945 оны найман сар",
+      "D": "1945 оны 2 сарын 11"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 15,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ялтын хэлэлцээрт гарын үсэг зурсан улсын удирдагчид хэн бэ?",
+    "options": {
+      "A": "Сталин, Росвеелт, Черчилль",
+      "B": "Сталин, Рузвельт, Черчилль",
+      "C": "Гитлер, Муссолини, Тожо",
+      "D": "Трумэн, Атле, Сталин"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 16,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1945 онд Бээжингийн сүмээс олдсон монгол номуудын дийлэнх нь ямар агуулгатай байсан бэ?",
+    "options": {
+      "A": "Шинжлэх ухааны бичиг",
+      "B": "Дуу магтаал",
+      "C": "Ламын шашны мөргөл даатгал",
+      "D": "Хууль дүрэм"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 17,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "«Саран хөхөө шувууны домог»-ийг орчуулахад холбогдох хүмүүс хэн бэ?",
+    "options": {
+      "A": "Нацагдорж",
+      "B": "Дамдинсүрэн",
+      "C": "Жангиа хутагт Ролбийдорж",
+      "D": "Агваандампил"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 18,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Үлгэрт гардаг вангийн хөвүүн ба Лагаяна хоёр ямар шид (увдис) сурсан бэ?",
+    "options": {
+      "A": "Алт хувилгах",
+      "B": "Нисэх увдис",
+      "C": "Сүнсээ шилжүүлэх",
+      "D": "Биеэ үхдэл болгох"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 19,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ламын шашныг дэлгэрүүлэгчид бөө мөргөлийг хэрхийсэн бэ?",
+    "options": {
+      "A": "Бөө мөргөлийг цаазальсан",
+      "B": "Сүм барьж өгсөн",
+      "C": "Бөөг дэмжсэн",
+      "D": "Онгодыг нь шатаасан"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 20,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Цамын бүжгийн гол зорилго ба онцлог нь юу бэ?",
+    "options": {
+      "A": "Ганцхан дуулах",
+      "B": "Хайр дурлалыг магтах",
+      "C": "Бурхан чөтгөрийн тэмцлийг үзүүлэх",
+      "D": "Баг өмсч тоглох"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 21,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Цам цамнах ёс одоо хир ямар оронд байгаа гэж бичсэн бэ?",
+    "options": {
+      "A": "Япон",
+      "B": "Бутан",
+      "C": "Непал",
+      "D": "Солонгос"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 22,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ноён хутагт Равжаагийн тухай зөв тайлбар нь аль бэ?",
+    "options": {
+      "A": "Томо зохиолч",
+      "B": "Тавдугаар ноён хутагт мөн",
+      "C": "Цэргийн жанжин",
+      "D": "Хятад худалдаачин"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 23,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Равжаагийн бага насны амьдралын тухай аль нь үнэн бэ?",
+    "options": {
+      "A": "Эх нь багад нь нас барсан",
+      "B": "Бээжинд төрсөн",
+      "C": "1803 онд Сөнөд хошуунд төрсөн",
+      "D": "Баян ноёны хүүхэд байсан"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 24,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Равжаагийн зохиол бүтээлээс аль нь нэрлэж болох бэ?",
+    "options": {
+      "A": "«Дөрвөн улирал»",
+      "B": "«Монголын нууц товчоо»",
+      "C": "«Цаасан шувуу»",
+      "D": "«Жангар»"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 25,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Дамдинсүрэнд элсэнд булсан номыг олоход хэн тусалсан бэ?",
+    "options": {
+      "A": "Хятад худалдаачин",
+      "B": "Орос эрдэмтэн",
+      "C": "Цэцэг нэртэй охин",
+      "D": "Багш Занабазар"
+    },
+    "answer": "CD"
+  },
+{
+    "id": 26,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Шар товын элсэнд булсан авдраас юу гарсан бэ?",
+    "options": {
+      "A": "Алт мөнгө",
+      "B": "Ховор хуучин номууд",
+      "C": "Хоёр авдар ном",
+      "D": "«Саран хөхөө»-гийн эх бичиг"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 27,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зохиолч Нацагдоржийн «Учиртай гурван толгой» жүжгийн тухай аль нь үнэн бэ?",
+    "options": {
+      "A": "1934 онд зохиосон",
+      "B": "Орос хэлнээс орчуулсан",
+      "C": "Равжаа зохиосон",
+      "D": "Хуучин үлгэрээс сэдэвлэсэн"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 28,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Дамдинсүрэн эцэстээ «Саран хөхөө» жүжгийн эх бичгийг хэнээс олсон бэ?",
+    "options": {
+      "A": "Даранбалбарж гэдэг хүнээс",
+      "B": "Цэцэг охиноос",
+      "C": "Гандангийн ламаас",
+      "D": "Зүүн Баяны нэгэн хөгшин малчинаас"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 29,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Майханд тоглодог байсан ши жүжиг дууны агуулга нь юу бэ?",
+    "options": {
+      "A": "Дайныг магтах",
+      "B": "Язгууртныг шүүмжлэх",
+      "C": "Шашныг магтах",
+      "D": "Инаг дурлалыг магтах"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 30,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Тэнүүл бадарчин Шагдарын тухай баримт нь аль бэ?",
+    "options": {
+      "A": "Бээжинд суудаг байсан",
+      "B": "Багадаа нас барсан",
+      "C": "1875 онд лам болж орсон",
+      "D": "«Солиотой» цол олсон"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 31,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1945 онд Бээжингийн сүмээс олдсон монгол номуудын дийлэнх нь ямар агуулгатай байсан бэ?",
+    "options": {
+      "A": "Ламын шашны мөргөл даатгал",
+      "B": "Шинжлэх ухааны бичиг",
+      "C": "Хууль дүрэм",
+      "D": "Дуу магтаал"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 32,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "«Саран хөхөө шувууны домог»-ийг орчуулахад холбогдох хүмүүс хэн бэ?",
+    "options": {
+      "A": "Дамдинсүрэн",
+      "B": "Жангиа хутагт Ролбийдорж",
+      "C": "Агваандампил",
+      "D": "Нацагдорж"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 33,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Үлгэрт гардаг вангийн хөвүүн ба Лагаяна хоёр ямар шид (увдис) сурсан бэ?",
+    "options": {
+      "A": "Биеэ үхдэл болгох",
+      "B": "Алт хувилгах",
+      "C": "Сүнсээ шилжүүлэх",
+      "D": "Нисэх увдис"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 34,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ламын шашныг дэлгэрүүлэгчид бөө мөргөлийг хэрхийсэн бэ?",
+    "options": {
+      "A": "Сүм барьж өгсөн",
+      "B": "Бөөг дэмжсэн",
+      "C": "Онгодыг нь шатаасан",
+      "D": "Бөө мөргөлийг цаазальсан"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 35,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Цамын бүжгийн гол зорилго ба онцлог нь юу бэ?",
+    "options": {
+      "A": "Баг өмсч тоглох",
+      "B": "Хайр дурлалыг магтах",
+      "C": "Ганцхан дуулах",
+      "D": "Бурхан чөтгөрийн тэмцлийг үзүүлэх"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 36,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Цам цамнах ёс одоо хир ямар оронд байгаа гэж бичсэн бэ?",
+    "options": {
+      "A": "Непал",
+      "B": "Япон",
+      "C": "Бутан",
+      "D": "Солонгос"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 37,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ноён хутагт Равжаагийн тухай зөв тайлбар нь аль бэ?",
+    "options": {
+      "A": "Хятад худалдаачин",
+      "B": "Цэргийн жанжин",
+      "C": "Томо зохиолч",
+      "D": "Тавдугаар ноён хутагт мөн"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 38,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Равжаагийн бага насны амьдралын тухай аль нь үнэн бэ?",
+    "options": {
+      "A": "1803 онд Сөнөд хошуунд төрсөн",
+      "B": "Эх нь багад нь нас барсан",
+      "C": "Баян ноёны хүүхэд байсан",
+      "D": "Бээжинд төрсөн"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 39,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Равжаагийн зохиол бүтээлээс аль нь нэрлэж болох бэ?",
+    "options": {
+      "A": "«Жангар»",
+      "B": "«Цаасан шувуу»",
+      "C": "«Дөрвөн улирал»",
+      "D": "«Монголын нууц товчоо»"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 40,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Дамдинсүрэнд элсэнд булсан номыг олоход хэн тусалсан бэ?",
+    "options": {
+      "A": "Орос эрдэмтэн",
+      "B": "Багш Занабазар",
+      "C": "Хятад худалдаачин",
+      "D": "Цэцэг нэртэй охин"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 41,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Шар товын элсэнд булсан авдраас юу гарсан бэ?",
+    "options": {
+      "A": "Хоёр авдар ном",
+      "B": "«Саран хөхөө»-гийн эх бичиг",
+      "C": "Алт мөнгө",
+      "D": "Ховор хуучин номууд"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 42,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зохиолч Нацагдоржийн «Учиртай гурван толгой» жүжгийн тухай аль нь үнэн бэ?",
+    "options": {
+      "A": "Орос хэлнээс орчуулсан",
+      "B": "1934 онд зохиосон",
+      "C": "Равжаа зохиосон",
+      "D": "Хуучин үлгэрээс сэдэвлэсэн"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 43,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Дамдинсүрэн эцэстээ «Саран хөхөө» жүжгийн эх бичгийг хэнээс олсон бэ?",
+    "options": {
+      "A": "Даранбалбарж гэдэг хүнээс",
+      "B": "Цэцэг охиноос",
+      "C": "Зүүн Баяны нэгэн хөгшин малчинаас",
+      "D": "Гандангийн ламаас"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 44,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Майханд тоглодог байсан ши жүжиг дууны агуулга нь юу бэ?",
+    "options": {
+      "A": "Инаг дурлалыг магтах",
+      "B": "Дайныг магтах",
+      "C": "Шашныг магтах",
+      "D": "Язгууртныг шүүмжлэх"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 45,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Тэнүүл бадарчин Шагдарын тухай баримт нь аль бэ?",
+    "options": {
+      "A": "1875 онд лам болж орсон",
+      "B": "Багадаа нас барсан",
+      "C": "Бээжинд суудаг байсан",
+      "D": "«Солиотой» цол олсон"
+    },
+    "answer": "AD"
+  }
+]

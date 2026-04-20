@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 1,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "1. Монгол үндэстний түүхийн гурван их том бүтээлд аль номууд багтдаг буй?",
+    "options": {
+      "A": "«Монголын нууц товчоо», «Алтан товч», «Эрдэнийн товч»",
+      "B": "«Хөх судар», «Алтан товч», «Болор эрих»",
+      "C": "«Асрагч нэрт түүх», «Алтан товч», «Эрдэнийн товч»",
+      "D": "«Жангар», «Гэсэр», «Монголын нууц товчоо»"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "2. «Монголын нууц товчоо»-г ойролцоогоор хэддүгээр зууны үеэр зохиогдсон гэж үздэг буй?",
+    "options": {
+      "A": "13-р зууны дундад үе",
+      "B": "16-р зууны дундад үе",
+      "C": "14-р зууны сүүлч",
+      "D": "12-р зууны эхэн үе"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "3. Тэмүүжин хэддүгээр онд Их Хаанаар өргөмжлөгдөж, Чингис хаан болсон буй?",
+    "options": {
+      "A": "1227 онд",
+      "B": "1271 онд",
+      "C": "1189 онд",
+      "D": "1206 онд"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "4. «Эрдэнийн товч»-ийг хэн зохиосон буй?",
+    "options": {
+      "A": "Гуань Юнь Сян",
+      "B": "Халхын Чингүүнжав",
+      "C": "Хорчины Рашпунцаг",
+      "D": "Ордос аймгийн Саган сэцэн"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "5. Орчин үеийн эрдэмтэн нар монгол хүнийг эртний аль аймгийн салбар гэж үзэж байна?",
+    "options": {
+      "A": "Зүрчид",
+      "B": "Түрэг",
+      "C": "Дунху",
+      "D": "Хүннү"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "6. Алтан хан одооны Хөххотыг байгуулснаар тэнд ямар хүмүүс ихээр цугладаг болсон буй?",
+    "options": {
+      "A": "Худалдаачид",
+      "B": "Тариачид",
+      "C": "Цэргийн жанжид",
+      "D": "Бөө нар"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "7. 1696 онд Галдан бошигт ямар улсын цэргийн бүслэлтэд ялагдсан буй?",
+    "options": {
+      "A": "Чин улс",
+      "B": "Хаант Орос",
+      "C": "Мин улс",
+      "D": "Зүүн гарын хаант улс"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "8. «Монголын нууц товчоо»-нд Чингис хааны язгуурыг Дээд тэнгэрээс заяаж төрсөн хэн гэж тэмдэглэсэн буй?",
+    "options": {
+      "A": "Бөртэ чоно ба Гуа марал",
+      "B": "Бодончар мунхаг",
+      "C": "Алун гуа ба Добу мэргэн",
+      "D": "Батачи хан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "9. Торгууд Монгол хэддүгээр онд Ижил мөрнөөс нутагтаа буцан ирсэн буй?",
+    "options": {
+      "A": "1771 он",
+      "B": "1840 он",
+      "C": "1757 он",
+      "D": "1696 он"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "10. 732 онд босгосон ямар хөшөөний бичигт «Гучин овог Татар»-ыг тэмдэглэсэн байдаг буй?",
+    "options": {
+      "A": "Тоньюкукийн хөшөө",
+      "B": "Моюнчурын хөшөө",
+      "C": "Билгэ хааны хөшөө",
+      "D": "Күлтегиний хөшөө"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "11. Юань улсын үед байгуулсан бөгөөд одоо болтол хэрэглэгдэж байгаа засаг захиргааны дүрэм нь юу буй?",
+    "options": {
+      "A": "Аймгийн дүрэм",
+      "B": "Мянганы дүрэм",
+      "C": "Хошуу чуулганы дүрэм",
+      "D": "Мужийн дүрэм"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "12. 1840 оны Хар тамхины дайныг ямар улс үүсгэсэн буй?",
+    "options": {
+      "A": "Япон",
+      "B": "Англи",
+      "C": "Франц",
+      "D": "Америк"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "13. Түүхэн сурвалжаар Шивэй болон Хятан нь аль аймгийн салбар болох буй?",
+    "options": {
+      "A": "Сяньби",
+      "B": "Уйгур",
+      "C": "Түрэг",
+      "D": "Хүннү"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "14. Түүхэнд Монголын элэ аймгийг амьдралын арга маягаар нь «Талын нүүдэлчин» ба бас ямар гэж хувааж байсан буй?",
+    "options": {
+      "A": "Хотын иргэд",
+      "B": "Ойн иргэд",
+      "C": "Загасчин иргэд",
+      "D": "Тариачин иргэд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "15. Түүхэн материалд тэмдэглэснээр Түрэг хэлэнд Шивэйг юу гэж нэрлэж байсан буй?",
+    "options": {
+      "A": "Монгол",
+      "B": "Хятан",
+      "C": "Татар",
+      "D": "Мэргид"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "16. Өмнөд Горлосын Монгол үндэстний өөртөө засах шянь Дундад улсын аль мужид байдаг буй?",
+    "options": {
+      "A": "Хармөрөн муж",
+      "B": "Ляонин муж",
+      "C": "Гирин муж",
+      "D": "Ганьсу муж"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "17. Модун шаньюй хэддүгээр онд төрийн эрхийг олж шаньюй болсон буй?",
+    "options": {
+      "A": "Нийтийн он тооллын 552 он",
+      "B": "Нийтийн он тооллоос өмнө 140 он",
+      "C": "Нийтийн он тооллоос өмнө 200 он",
+      "D": "Нийтийн он тооллоос өмнө 209 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "18. Дунхугийн холбоо сарнисны дараа Сяньбичууд хаана хүрч нутагшсан буй?",
+    "options": {
+      "A": "Хангай уул",
+      "B": "Сяньби уул",
+      "C": "Ухуань уул",
+      "D": "Алтай уул"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "19. Нирун улсын ямар хаан анх удаа «Хаан» цолыг хэрэглэж эхэлсэн буй?",
+    "options": {
+      "A": "Анагуй",
+      "B": "Шелүүн",
+      "C": "Түмэн",
+      "D": "Моюнчур"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "20. Түрэг хаант улс хэддүгээр онд байгуулагдсан буй?",
+    "options": {
+      "A": "916 он",
+      "B": "745 он",
+      "C": "552 он",
+      "D": "630 он"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "21. 840 онд ямар аймаг Уйгур хаант улсыг дайран эвдсэн буй?",
+    "options": {
+      "A": "Татар",
+      "B": "Найман",
+      "C": "Хятан",
+      "D": "Киргиз"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "22. Ляо улс (Хятан)-ыг үндэслэн байгуулагч нь хэн буй?",
+    "options": {
+      "A": "Билгэ хаан",
+      "B": "Ваньян Агуда",
+      "C": "Елюй Даши",
+      "D": "Елюй Абаожи"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "23. Зүрчидийн Алтан улс хэддүгээр онд байгуулагдсан буй?",
+    "options": {
+      "A": "1125 он",
+      "B": "916 он",
+      "C": "1115 он",
+      "D": "1206 он"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "24. Түүхэн тэмдэглэлд «Монгол» гэдэг нэрийн хамаг эртний хятад үсгийн тэмдэглэл нь юу буй?",
+    "options": {
+      "A": "Татар",
+      "B": "Мэн-ү Шивэй",
+      "C": "Мэн-гү",
+      "D": "Бодончар"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "25. Нирун Монгол нь Алун гуа эхийн аль хөвгүүдээс үржин дэлгэрсэн овог аймаг буй?",
+    "options": {
+      "A": "Бугу хатаги, Бухату салжи, Бодончар мунхаг",
+      "B": "Элбэг ба Харгуцаг",
+      "C": "Зүчи, Цагадай, Өгэдэй",
+      "D": "Бэлгүнүд ба Бүгүнүд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "26. Төрөлхийн Монгол нь ямар голоос нүүдэллэсэн овог аймгийг заадаг буй?",
+    "options": {
+      "A": "Шар мөрөн",
+      "B": "Туул гол",
+      "C": "Эргүнэ гол",
+      "D": "Онон гол"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "27. Мэргид аймаг нь ямар гурван овгоор бүрэлдсэн буй?",
+    "options": {
+      "A": "Хорь Түмэд, Барга, Буриад",
+      "B": "Удуид, Увас, Хаад",
+      "C": "Хэрэйд, Найман, Онгуд",
+      "D": "Жадаран, Тайчиууд, Бэсүд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "28. Найман аймаг Уйгуртай хөршилж байснаас ямар соёлд нөлөөлөгдсөн буй?",
+    "options": {
+      "A": "Манж соёл",
+      "B": "Хятад соёл",
+      "C": "Төвөд соёл",
+      "D": "Түрэг соёл"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "29. Онгуд аймаг Алтан улсын төлөө ямар үүрэг хүлээж байсан буй?",
+    "options": {
+      "A": "Тариа тарих",
+      "B": "Төмөр хайлах",
+      "C": "Агт морь үржүүлэх",
+      "D": "Боро хэрмийг сахих"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "30. Монголын нийгэмд «Харачу» гэж хэнийг хэлдэг байсан буй?",
+    "options": {
+      "A": "Дайны олз болсон боол",
+      "B": "Аймгийн ноёд язгууртан",
+      "C": "Алтан улсын түшмэд",
+      "D": "Мал аж ахуйн гол хөдөлмөрлөгч жирийн ард"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "31. Хамаг Монголын хаан болсон анхны хүн нь хэн буй?",
+    "options": {
+      "A": "Хабул хан",
+      "B": "Хутула хан",
+      "C": "Есүхэй баатар",
+      "D": "Амбагай хан"
+    },
+    "answer": "A"
+  },
+{
+    "id": 32,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "32. Боолын гол ирэлт нь юу байсан буй?",
+    "options": {
+      "A": "Гадаадын худалдаачин",
+      "B": "Дайны олзлогсод",
+      "C": "Бөө нар",
+      "D": "Өртэй харачу ард"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "33. Тэмүүжин хэддүгээр онд төрсөн буй?",
+    "options": {
+      "A": "1155 он",
+      "B": "1162 он",
+      "C": "1206 он",
+      "D": "1167 он"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "34. Есүхэй баатрыг ямар аймгийн хүмүүс хорлосон буй?",
+    "options": {
+      "A": "Татар",
+      "B": "Мэргид",
+      "C": "Тайчиууд",
+      "D": "Найман"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "35. Тэмүүжин бага насандаа найман шарга морио дээрэмд алдахад хэн түүнтэй нөхөрлөж дэмжлэг болсон буй?",
+    "options": {
+      "A": "Боорчи",
+      "B": "Мухулай",
+      "C": "Зэв",
+      "D": "Зэлмэ"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "36. 1189 онд Тэмүүжин хаана Монгол аймгийн хан өргөмжлөгдсөн буй?",
+    "options": {
+      "A": "Сэнгүр горхи",
+      "B": "Бурхан Халдун",
+      "C": "Хэрлэн мөрөн",
+      "D": "Онон мөрөн"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "37. Тэмүүжин ба Жамухын хоорондох анхны тулалдаан ямар нэртэй буй?",
+    "options": {
+      "A": "Далан нөмрөгийн тулалдаан",
+      "B": "Арван гурван хүрээний тулалдаан",
+      "C": "Наху хоны тулалдаан",
+      "D": "Хүйтэний тулалдаан"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "38. Тэмүүжин ямар аймгийг дарсаны дараа тэрэгний дүүглүүрийн цөөр хэмжүүр болгон хядсан буй?",
+    "options": {
+      "A": "Мэргид",
+      "B": "Татар",
+      "C": "Хэрэйд",
+      "D": "Найман"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "39. Найманы Таян хааныг айлгахын тулд Тэмүүжиний цэрэг ямар арга хэрэглэсэн буй?",
+    "options": {
+      "A": "Хүн бүр таван анги гал түлэх",
+      "B": "Буруулан зугтах",
+      "C": "Бага сага дайлах",
+      "D": "Модон хүн засах"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "40. Чингис хаан 1206 онд байгуулагдсан улсаа ямар зохион байгуулалтаар хуваасан буй?",
+    "options": {
+      "A": "Овог аймгийн дүрэм",
+      "B": "Отогийн дүрэм",
+      "C": "Мянгатын дүрэм",
+      "D": "Муж шянийн дүрэм"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "41. Их Монгол улсын Зүүн гарын түмний ноёноор хэн томилогдсон буй?",
+    "options": {
+      "A": "Зэв",
+      "B": "Наяа",
+      "C": "Боорчи",
+      "D": "Мухулай"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "42. Чингис хааны хишигтэн цэргийн дотор шөнийн манааг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Хэвтүүл",
+      "B": "Хорчин",
+      "C": "Турхаг",
+      "D": "Баатар"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "43. Их Монгол улсын хамаг дээд заргач (шүүгч) нь хэн буй?",
+    "options": {
+      "A": "Зэлмэ",
+      "B": "Шихихутаг",
+      "C": "Сорхон шар",
+      "D": "Борохул"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "44. Тэмүүжиний хүзүүнд оногдсон шархыг хэн шимж эмчилсэн буй?",
+    "options": {
+      "A": "Боорчи",
+      "B": "Мухулай",
+      "C": "Сүбээдэй",
+      "D": "Зэлмэ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "45. Жамухыг барьж ирсэн таван нөхдөд Чингис хаан ямар шийтгэл өгсөн буй?",
+    "options": {
+      "A": "Цаазалсан",
+      "B": "Дархалсан",
+      "C": "Шагнасан",
+      "D": "Ноён болгосон"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "46. Чингис хааны баталсан бичмэл хуулийг юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Алтан дэвтэр",
+      "B": "Их засаг",
+      "C": "Хөх судар",
+      "D": "Цаазын бичиг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "47. Чингис хаан Хэрэйдийн Ван хааныг ямар аргаар ялсан буй?",
+    "options": {
+      "A": "Элч илгээж бууж өгүүлсэн",
+      "B": "Алтан улстай хамтарсан",
+      "C": "Шөнө дөлөөр гэнэдүүлэн дайрсан",
+      "D": "Усыг нь хорлосон"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "48. 1205 онд Чингис хаан анх удаа Тангуд улсыг дайрахдаа ямар хотыг эзэлсэн буй?",
+    "options": {
+      "A": "Лос хот",
+      "B": "Урхай хот",
+      "C": "Иргай хот",
+      "D": "Дүрмээгий балгас"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "49. Хорезмын ямар хотын сахигч Иналчуг Чингис хааны худалдаачдыг алсан буй?",
+    "options": {
+      "A": "Отрар",
+      "B": "Самарканд",
+      "C": "Бухар",
+      "D": "Үргэнч"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "50. 1215 онд Монгол цэрэг Алтан улсын ямар чухал хотыг эзлэн авсан буй?",
+    "options": {
+      "A": "Жүндү (Бээжин)",
+      "B": "Бяньжин (Кайфэн)",
+      "C": "Лоян",
+      "D": "Датун"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "51. 1217 онд Чингис хаан Мухулайд ямар цол шагнасан буй?",
+    "options": {
+      "A": "Чэрби",
+      "B": "Даругач",
+      "C": "Заргач",
+      "D": "Улсын ван (Гүй он)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "52. Хар Хятаны эрхийг булаасан Найманы Хүчлүгийг дарахаар хэнийг илгээсэн буй?",
+    "options": {
+      "A": "Боорчи",
+      "B": "Тулуй",
+      "C": "Сүбээдэй",
+      "D": "Зэв"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "53. Хорезмыг дайлах үед Отрар хотыг байлдах үүргийг ямар хөвгүүдэд өгсөн буй?",
+    "options": {
+      "A": "Зүчи, Тулуй",
+      "B": "Өгэдэй, Тулуй",
+      "C": "Цагадай, Зүчи",
+      "D": "Цагадай, Өгэдэй"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 54,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "54. 1221 онд Чингис хаан Инд мөрний хөвөөнд хэний цэргийг бүрмөсөн устгасан буй?",
+    "options": {
+      "A": "Жалалдин",
+      "B": "Төмөр Малиг",
+      "C": "Иналчуг",
+      "D": "Мухамед султан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "55. Чингис хаан хэддүгээр онд нас барсан буй?",
+    "options": {
+      "A": "1227 он",
+      "B": "1225 он",
+      "C": "1234 он",
+      "D": "1229 он"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "56. 1234 онд Алтан улсыг аль хааны үед мөхөөсөн буй?",
+    "options": {
+      "A": "Хубилай",
+      "B": "Гүюг",
+      "C": "Мөнх",
+      "D": "Өгэдэй"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "57. 1232 онд Алтан улсын цэргийг бүрмөсөн дарсан Сань Фэн Шань уулын тулалдааныг хэн удирдсан буй?",
+    "options": {
+      "A": "Зүчи, Цагадай",
+      "B": "Өгэдэй, Гүюг",
+      "C": "Мухулай, Боорчи",
+      "D": "Тулуй, Сүбээдэй"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "58. 1235 онд эхэлсэн баруун зүгийг дайлах аян дайныг хэн ерөнхийлөн захирсан буй?",
+    "options": {
+      "A": "Мөнх",
+      "B": "Хүлэг",
+      "C": "Гүюг",
+      "D": "Бат"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "59. 1258 онд Багдад хотыг эзэлж Тажикис (Аббасид) улсыг мөхөөсөн хаан хэн буй?",
+    "options": {
+      "A": "Аргун",
+      "B": "Элжигдэй",
+      "C": "Байжу",
+      "D": "Хүлэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "60. Мөнх хаан 1259 онд Өмнөд Сүн улсыг дайлах үедээ хаана нас барсан буй?",
+    "options": {
+      "A": "Бяньжин",
+      "B": "Жүндү",
+      "C": "Шяньян",
+      "D": "Эхэжу (Дяо Юй Цай)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 61,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "61. Ил хаант улсыг үндэслэн байгуулагч нь хэн буй?",
+    "options": {
+      "A": "Абага",
+      "B": "Хүлэг",
+      "C": "Газан",
+      "D": "Өлзийт"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "62. Чингис хааны Жүндү хотыг эзэлсний дараа элсэн авсан Хятан үндэстэн түшмэл хэн буй?",
+    "options": {
+      "A": "Ваньян Хада",
+      "B": "Елюй Ахай",
+      "C": "Ли Ин",
+      "D": "Елюй Чуцай"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 63,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "63. 1253 онд Дали улсыг дайлан эзэлсэн нь хэн буй?",
+    "options": {
+      "A": "Аригбөх",
+      "B": "Мөнх",
+      "C": "Хубилай",
+      "D": "Урианхадай"
+    },
+    "answer": "C"
+  },
+    {
+    "id": 64,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "79. 1368 онд Интянь (Нанжин)-д Мин улсыг хэн байгуулсан буй?",
+    "options": {
+      "A": "Чан Юй Чүнь",
+      "B": "Юн Лэ",
+      "C": "Жү Юань Жан",
+      "D": "Шюй Да"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "80. Тогоонтөмөр хаан Шандуд ухарсныг түүхэнд юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Баруун Ляо",
+      "B": "Алтан улс",
+      "C": "Өмнөд Юань улс",
+      "D": "Умард Юань улс"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "81. 1388 онд Төгстөмөр хааныг Туул голын хөвөөнд хэн дайрч алсан бэ?",
+    "options": {
+      "A": "Эсэн",
+      "B": "Гүйлэнчи",
+      "C": "Аругтай",
+      "D": "Есүдэр"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "82. Мин улс 1389 онд Урианхайд байгуулсан гурван харуул нь аль буй?",
+    "options": {
+      "A": "Хорчин, Харчин, Түмэд",
+      "B": "Доён, Тайнин, Фуюй",
+      "C": "Солон, Дагуур, Барга",
+      "D": "Цахар, Халх, Ордос"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "83. 1399 онд Элбэг хааныг хэн хороосон бэ?",
+    "options": {
+      "A": "Аругтай",
+      "B": "Батула",
+      "C": "Гүйлич",
+      "D": "Үгэчи хашха"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "84. 1438 онд Адай хааныг алж Монголыг нэгтгэсэн Ойрадын тайш хэн бэ?",
+    "options": {
+      "A": "Тогоон тайш",
+      "B": "Эсэн тайш",
+      "C": "Махмуд",
+      "D": "Тайпин"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "85. 1449 онд Түмэн газар Мин улсын Инзүн хааныг хэн баривчилсан буй?",
+    "options": {
+      "A": "Тогоон",
+      "B": "Аругтай",
+      "C": "Эсэн тайш",
+      "D": "Батмөнх"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "86. Батмөнх Даян хааныг хаан суухад хэн их гавьяа байгуулсан бэ?",
+    "options": {
+      "A": "Самар гүнж",
+      "B": "Юнгү",
+      "C": "Айжар",
+      "D": "Мандухай сэцэн хатан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "87. Даян хаан Монгол улсыг хэдэн түмэн болгон хуваасан буй?",
+    "options": {
+      "A": "найман түмэн",
+      "B": "дөрвөн түмэн",
+      "C": "арван түмэн",
+      "D": "зургаан түмэн"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "88. 1510 онд Даян хаан Далан тэригүүнд хэнийг ялсан буй?",
+    "options": {
+      "A": "Бэгэрсэн",
+      "B": "Ибэрэй ба Мандулай",
+      "C": "Исмэн тайш",
+      "D": "Үгэчи хашха"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "89. 1550 оны «Цагаан нохой жилийн хувьсгал» гэж юуг хэлдэг вэ?",
+    "options": {
+      "A": "Эсэн тайшийн довтлол",
+      "B": "Лигдэн хааны аян дайн",
+      "C": "Даян хааны нэгдэл",
+      "D": "Алтан хан Бээжинг довтолсон"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 75,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "90. 1571 онд Мин улс Алтан хаанд ямар цол шагнасан буй?",
+    "options": {
+      "A": "Жүн и ван",
+      "B": "Шүн и ван",
+      "C": "Пин шу ван",
+      "D": "Ан лэ ван"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "91. Алтан хан 1578 онд Содномжамц (3-дугаар Далай лам)-тай хаана уулзсан бэ?",
+    "options": {
+      "A": "Лхас",
+      "B": "Хархорум",
+      "C": "Хөхнуур",
+      "D": "Бээжин"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "92. Умард Юань улсын хамгийн сүүлчийн хаан хэн бэ?",
+    "options": {
+      "A": "Боди Алаг хаан",
+      "B": "Тайсун хаан",
+      "C": "Лигдэн хаан",
+      "D": "Даян хаан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "93. Лигдэн хаан хэддүгээр онд нас барсан буй?",
+    "options": {
+      "A": "1636 он",
+      "B": "1644 он",
+      "C": "1634 он",
+      "D": "1627 он"
+    },
+    "answer": "C"
+  },
+
+  {
+    "id": 79,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "79. 1368 онд Интянь (Нанжин)-д Мин улсыг хэн байгуулсан буй?",
+    "options": {
+      "A": "Чан Юй Чүнь",
+      "B": "Юн Лэ",
+      "C": "Жу Юань Жан",
+      "D": "Сюй Да"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "80. Тогоонтөмөр хаан Шандуд ухарсаныг түүхэнд юу гэж нэрлэдэг буй?",
+    "options": {
+      "A": "Баруун Ляо",
+      "B": "Алтан улс",
+      "C": "Өмнөд Юань улс",
+      "D": "Умард Юань улс"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 81,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "81. 1388 онд Төгстөмөр хааныг Туул голын хөвөөнд хэн дайрч алсан буй?",
+    "options": {
+      "A": "Эсэн",
+      "B": "Гүйличи",
+      "C": "Аругтай",
+      "D": "Есүдэр"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 82,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "82. Мин улс 1389 онд Урианхайд байгуулсан гурван харуул нь аль буй?",
+    "options": {
+      "A": "Хорчин, Харчин, Түмэд",
+      "B": "Доян, Тайнин, Фүйү",
+      "C": "Солон, Дагуур, Барга",
+      "D": "Цахар, Халх, Ордос"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "83. 1399 онд Элбэг хааныг хэн хороосон буй?",
+    "options": {
+      "A": "Аругтай",
+      "B": "Батула",
+      "C": "Гүйличи",
+      "D": "Үгэчи хасха"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 84,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "84. 1438 онд Адай хааныг алж Монголыг нэгтгэсэн Ойрадын тайш хэн буй?",
+    "options": {
+      "A": "Тогоон тайш",
+      "B": "Эсэн тайш",
+      "C": "Махаму",
+      "D": "Тайпин"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 85,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "85. 1449 онд Түмүгийн газар Мин улсын Инзун хааныг хэн баривчилсан буй?",
+    "options": {
+      "A": "Тогоон",
+      "B": "Аругтай",
+      "C": "Эсэн тайш",
+      "D": "Батмөнх"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "86. Батмөнх Даян хааныг хаан суухад хэн их гавьяа байгуулсан буй?",
+    "options": {
+      "A": "Самур гүнж",
+      "B": "Юнгү",
+      "C": "Айжар",
+      "D": "Мандухай сэцэн хатан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 87,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "87. Даян хаан Монгол улсыг хэдэн түмэн болгон хуваасан буй?",
+    "options": {
+      "A": "Найман түмэн",
+      "B": "Дөрвөн түмэн",
+      "C": "Арван түмэн",
+      "D": "Зургаан түмэн"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 88,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "88. 1510 онд Даян хаан Далан Тэргүүнд хэнийг ялсан буй?",
+    "options": {
+      "A": "Бэгэрсэн",
+      "B": "Ибир ба Мандулай",
+      "C": "Исман тайш",
+      "D": "Үгэчи хасха"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "89. 1550 оны «Цагаан нохой жилийн хувьсгал» гэж юуг хэлдэг буй?",
+    "options": {
+      "A": "Эсэн тайшийн довтолгоо",
+      "B": "Лигдэн хааны аян дайн",
+      "C": "Даян хааны нэгтгэл",
+      "D": "Алтан хан Бээжинг довтолсон"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 90,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "90. 1571 онд Мин улс Алтан ханд ямар цол шагнасан буй?",
+    "options": {
+      "A": "Жүн и ван",
+      "B": "Шүн и ван",
+      "C": "Пин шу ван",
+      "D": "Ан лэ ван"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "91. Алтан хан 1578 онд Содномжамц (3-дугаар Далай лам)-тай хаана уулзсан буй?",
+    "options": {
+      "A": "Лхас",
+      "B": "Хархорум",
+      "C": "Хөхнуур",
+      "D": "Бээжин"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 92,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "92. Умард Юань улсын хамаг сүүлчийн хаан хэн буй?",
+    "options": {
+      "A": "Боди Алаг хаан",
+      "B": "Тайсун хаан",
+      "C": "Лигдэн хаан",
+      "D": "Даян хаан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 93,
+    "source": "Overview of Mongolian History",
+    "type": "Fact single choice questions",
+    "question": "93. Лигдэн хаан хэддүгээр онд нас барсан буй?",
+    "options": {
+      "A": "1636 он",
+      "B": "1644 он",
+      "C": "1634 он",
+      "D": "1627 он"
+    },
+    "answer": "C"
+  }
+]

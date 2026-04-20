@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "1. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠦᠶ᠎ᠡ ᠳᠡᠬᠢ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠨᠡᠢᠭᠡᠮ ᠦᠨ ᠳᠠᠷᠤᠯᠠᠭᠳᠠᠭᠴᠢ ᠠᠩᠭᠢ ᠳᠤ ᠶᠠᠮᠠᠷ ᠬᠦᠮᠦᠰ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠨᠣᠶᠠᠳ",
+      "B": "ᠠᠯᠪᠠᠲᠤ",
+      "C": "ᠬᠠᠮᠵᠢᠯᠭ᠎ᠠ",
+      "D": "ᠱᠠᠪᠢ ᠨᠠᠷ"
+    },
+    "answer": "BCD"
+  },
+  {
+    "id": 2,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "2. ᠠᠯᠪᠠᠲᠤ ᠠᠷᠠᠳ ᠢ ᠠᠵᠤ ᠠᠬᠤᠢ ᠶᠢᠨ ᠪᠠᠢᠳᠠᠯ ᠢᠶᠠᠷ ᠨᠢ ᠶᠠᠮᠠᠷ ᠳᠠᠪᠬᠤᠷᠭ᠎ᠠ ᠳᠤ ᠬᠤᠪᠢᠶᠠᠳᠠᠭ ᠪᠠᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠳᠤᠮᠳᠠ ᠬᠦᠮᠦᠨ",
+      "B": "ᠠᠳᠠᠭ ᠬᠦᠮᠦᠨ",
+      "C": "ᠲᠠᠢᠵᠢ ᠬᠦᠮᠦᠨ",
+      "D": "ᠰᠠᠢᠨ ᠬᠦᠮᠦᠨ"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 3,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "3. 19 ᠳ᠋ᠦ᠋ᠭᠡᠷ ᠵᠠᠭᠤᠨ ᠤ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠬᠠᠭᠠᠨᠲᠤ ᠣᠷᠣᠰ ᠴᠢᠩ ᠤᠯᠤᠰ ᠲᠠᠢ ᠪᠠᠢᠭᠤᠯᠤᠭᠰᠠᠨ ᠲᠡᠭᠰᠢ ᠪᠤᠰᠤ ᠭᠡᠷ᠎ᠡ ᠨᠦᠭᠦᠳ ᠠᠯᠢ ᠨᠢ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠬᠠᠭᠤᠷᠠᠢ ᠵᠠᠮ ᠢᠶᠠᠷ ᠠᠷᠠᠯᠵᠢᠶ᠎ᠠ ᠨᠡᠪᠲᠡᠷᠡᠬᠦ ᠲᠦᠷᠢᠮ (1862)",
+      "B": "ᠲᠢᠶᠠᠨᠵᠢᠨ ᠦ ᠭᠡᠷ᠎ᠡ (1858)",
+      "C": "ᠰᠢᠮᠣᠨᠣᠰᠧᠺᠢ ᠶᠢᠨ ᠭᠡᠷ᠎ᠡ",
+      "D": "ᠪᠡᠭᠡᠵᠢᠩ ᠦᠨ ᠭᠡᠷ᠎ᠡ (1860)"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 4,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "4. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ 《 ᠰᠢᠨ᠎ᠡ ᠵᠠᠰᠠᠭ 》 ᠤᠨ ᠪᠣᠳᠣᠯᠭ᠎ᠠ ᠳᠤ ᠶᠠᠮᠠᠷ ᠠᠷᠭ᠎ᠠ ᠬᠡᠮᠵᠢᠶ᠎ᠡ ᠪᠠᠭᠲᠠᠵᠤ ᠪᠠᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠡᠷᠬᠡ ᠶᠢ ᠥᠷᠭᠡᠳᠬᠡᠬᠦ",
+      "B": "ᠬᠢᠲᠠᠳ ᠢᠷᠭᠡᠨ ᠢ ᠨᠡᠭᠦᠯᠭᠡᠬᠦ",
+      "C": "ᠠᠲᠠᠷ ᠬᠠᠭᠠᠯᠪᠤᠷᠢᠯᠠᠬᠤ",
+      "D": "ᠲᠢᠩ ᠰᠢᠶᠠᠨ ᠪᠠᠢᠭᠤᠯᠬᠤ"
+    },
+    "answer": "BCD"
+  },
+  {
+    "id": 5,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "5. ᠥᠪᠥᠷ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠵᠡᠭᠦᠨ ᠣᠷᠣᠨ ᠳᠤ ᠭᠠᠵᠠᠷ ᠲᠠᠷᠢᠶ᠎ᠠ ᠨᠡᠭᠡᠭᠡᠬᠦ ᠶᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠭᠰᠡᠨ ᠵᠠᠪᠰᠠᠭᠲᠤ ᠲᠡᠮᠡᠴᠡᠯ ᠦᠨ ᠤᠳᠤᠷᠢᠳᠤᠭᠴᠢᠳ ᠬᠡᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠪᠠᠶᠠᠨᠳᠠᠯᠠᠢ",
+      "B": "ᠳ᠋ᠠᠮᠫᠢᠯ",
+      "C": "ᠲᠣᠭᠲᠠᠬᠤ",
+      "D": "ᠶᠠᠰᠢ"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 6,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "6. ᠦᠦᠰᠢᠨ ᠬᠣᠰᠢᠭᠤᠨ ᠤ 《 ᠳᠤᠭᠤᠢᠯᠠᠩ 》 ᠦᠨ ᠬᠥᠳᠡᠯᠭᠡᠭᠡᠨ ᠦ ᠭᠣᠣᠯ ᠤᠳᠤᠷᠢᠳᠤᠭᠴᠢᠳ ᠬᠡᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠪᠠᠶᠠᠨᠰᠠᠢᠨ",
+      "B": "ᠦ᠋ ᠯᠠᠮ᠎ᠠ",
+      "C": "ᠲᠣᠭᠲᠠᠬᠤ",
+      "D": "ᠢᠳᠡᠮᠵᠠᠪ"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 7,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "7. ᠶᠡᠬᠡ ᠵᠣᠣ ᠶᠢᠨ ᠴᠢᠭᠤᠯᠭᠠᠨ ᠳᠤ ᠥᠷᠨᠢᠭᠰᠡᠨ ᠳᠤᠭᠤᠢᠯᠠᠩ ᠦᠨ ᠬᠥᠳᠡᠯᠭᠡᠭᠡᠨ ᠦ ᠤᠳᠤᠷᠢᠳᠤᠭᠴᠢᠳ ᠲᠤ ᠬᠡᠨ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠪᠠᠶᠠᠨᠳᠠᠯᠠᠢ",
+      "B": "ᠸᠠᠩᠳᠠᠨᠨᠢᠮ᠎ᠠ",
+      "C": "ᠨᠠᠮᠰᠠᠷᠠᠢ",
+      "D": "ᠳ᠋ᠠᠮᠫᠢᠯ"
+    },
+    "answer": "BCD"
+  },
+  {
+    "id": 8,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "8. 1911 ᠣᠨ ᠤ ᠴᠠᠭᠠᠭᠴᠢᠨ ᠭᠠᠬᠠᠢ ᠵᠢᠯ ᠦᠨ ᠬᠤᠪᠢᠰᠬᠠᠯ ᠳᠤ ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠨ ᠮᠣᠩᠭᠣᠯ ᠬᠦᠮᠦᠰ ᠬᠡᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠶᠦᠨ ᠾᠧᠩ",
+      "B": "ᠰᠧᠩᠭᠡᠷᠢᠨᠴᠢᠨ",
+      "C": "ᠵᠢᠩ ᠴᠢᠤᠸᠠᠨ",
+      "D": "ᠠᠨ ᠰᠢᠶᠠᠩ"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 9,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "9. ᠳᠤᠭᠤᠢᠯᠠᠩ ᠦᠨ ᠵᠣᠬᠢᠶᠠᠨ ᠪᠠᠢᠭᠤᠯᠤᠯᠲᠠ ᠶᠢᠨ ᠣᠨᠴᠠᠯᠢᠭ ᠨᠢ ᠶᠠᠭᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠡᠷᠬᠡ ᠲᠡᠭᠰᠢ ᠪᠠᠢᠬᠤ ᠶᠢ ᠢᠯᠡᠳᠬᠡᠳᠡᠭ",
+      "B": "ᠲᠤᠭᠤᠢᠯᠠᠨ ᠰᠠᠭᠤᠳᠠᠭ",
+      "C": "ᠨᠡᠷ᠎ᠡ ᠪᠡᠨ ᠲᠤᠭᠤᠢᠯᠠᠨ ᠪᠢᠴᠢᠳᠡᠭ",
+      "D": "ᠨᠣᠶᠠᠳ ᠤᠨ ᠤᠳᠤᠷᠢᠳᠤᠯᠭ᠎ᠠ ᠳᠤ ᠵᠠᠬᠢᠷᠤᠭᠳᠠᠳᠠᠭ"
+    },
+    "answer": "ABC"
+  },
+  {
+    "id": 10,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "10. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠰᠡᠭᠦᠯᠴᠢ ᠪᠡᠷ ᠥᠪᠥᠷ ᠮᠣᠩᠭᠣᠯ ᠳᠤ ᠪᠠᠢᠭᠤᠯᠤᠭᠳᠠᠭᠰᠠᠨ ᠵᠠᠰᠠᠭ ᠵᠠᠬᠢᠷᠭᠠᠨ ᠤ ᠨᠢᠭᠡᠴᠢ ᠨᠤᠭᠤᠳ ᠠᠯᠢ ᠨᠢ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠬᠤᠸᠠᠢᠳ᠋ᠸ ᠰᠢᠶᠠᠨ",
+      "B": "ᠤᠯᠢᠶᠠᠰᠤᠲᠠᠢ ᠶᠢᠨ ᠵᠠᠩᠵᠤᠨ",
+      "C": "ᠹᠧᠩᠬᠤᠸᠠ (ᠯᠢᠰᠦ) ᠰᠢᠶᠠᠨ",
+      "D": "ᠨᠦᠩ ᠠᠨ ᠰᠢᠶᠠᠨ"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 11,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "11. 1860-1870-ᠠᠭᠠᠳ ᠣᠨ ᠤ ᠦᠶ᠎ᠡ ᠳᠦ ᠹᠧᠣᠳᠠᠯ ᠤᠨ ᠳᠠᠷᠤᠯᠠᠯ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠭᠰᠡᠨ ᠪᠣᠰᠤᠯᠭ᠎ᠠ ᠨᠤᠭᠤᠳ ᠤᠨ ᠤᠳᠤᠷᠢᠳᠤᠭᠴᠢᠳ ᠬᠡᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠫᠦᠲ᠋ᠠᠢ",
+      "B": "ᠴᠠᠩᠮᠢᠩ",
+      "C": "ᠳᠡᠮᠴᠣᠭᠳᠣᠩᠷᠣᠪ",
+      "D": "ᠮᠢᠯᠰᠡᠩᠬᠡ"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 12,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "12. ᠬᠠᠷ᠎ᠠ ᠲᠠᠮᠠᠬᠢᠨ ᠤ ᠳᠠᠢᠨ ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠮᠣᠩᠭᠣᠯ ᠣᠷᠣᠨ ᠳᠤ ᠡᠳ᠋ ᠪᠠᠷᠠᠭ᠎ᠠ ᠪᠠᠨ ᠪᠣᠷᠣᠯᠠᠭᠤᠯᠵᠤ ᠪᠠᠢᠭᠰᠠᠨ ᠭᠣᠣᠯ ᠤᠯᠤᠰ ᠤᠳ ᠠᠯᠢ ᠨᠢ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠬᠠᠭᠠᠨᠲᠤ ᠣᠷᠣᠰ",
+      "B": "ᠠᠩᠭᠯᠢ",
+      "C": "ᠠᠮᠧᠷᠢᠺᠠ",
+      "D": "ᠡᠨᠡᠳᠬᠡᠭ"
+    },
+    "answer": "ABC"
+  },
+  {
+    "id": 13,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "13. 19 ᠳ᠋ᠦ᠋ᠭᠡᠷ ᠵᠠᠭᠤᠨ ᠤ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠵᠣᠰᠣᠲᠤ ᠶᠢᠨ ᠴᠢᠭᠤᠯᠭᠠᠨ ᠳᠤ ᠭᠠᠷᠤᠭᠰᠠᠨ ᠲᠡᠮᠡᠴᠡᠯ ᠳᠦ ᠠᠯᠢ ᠨᠢ ᠬᠠᠮᠢᠶᠠᠷᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠡᠪᠦᠭᠡᠳ ᠦᠨ ᠬᠤᠷᠠᠯ",
+      "B": "ᠫᠦᠲ᠋ᠠᠢ ᠶᠢᠨ ᠪᠣᠰᠤᠯᠭ᠎ᠠ",
+      "C": "ᠳᠤᠭᠤᠢᠯᠠᠩ ᠦᠨ ᠬᠥᠳᠡᠯᠭᠡᠭᠡᠨ",
+      "D": "ᠨᠠᠢᠮᠠᠨ ᠰᠤᠮᠤ ᠶᠢᠨ ᠪᠣᠰᠤᠯᠭ᠎ᠠ"
+    },
+    "answer": "ABD"
+  },
+  {
+    "id": 14,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "14. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠦᠶ᠎ᠡ ᠳᠡᠬᠢ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠨᠡᠢᠭᠡᠮ ᠦᠨ ᠳᠠᠷᠤᠯᠠᠭᠳᠠᠭᠴᠢ ᠠᠩᠭᠢ ᠶᠢᠨ ᠭᠣᠣᠯ ᠡᠭᠦᠷᠭᠡ ᠨᠢ ᠶᠠᠭᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠴᠡᠷᠢᠭ ᠦᠨ ᠠᠯᠪᠠ ᠬᠠᠭᠠᠬᠤ",
+      "B": "ᠭᠠᠢᠯᠢ ᠲᠠᠲᠠᠪᠤᠷᠢ ᠲᠥᠯᠦᠬᠦ",
+      "C": "ᠥᠷᠲᠡᠭᠡᠨ ᠦ ᠠᠯᠪᠠ ᠬᠠᠭᠠᠬᠤ",
+      "D": "ᠤᠯᠤᠰ ᠤᠨ ᠬᠡᠷᠡᠭ ᠢ ᠰᠢᠢᠳᠪᠦᠷᠢᠯᠡᠬᠦ"
+    },
+    "answer": "ABC"
+  },
+  {
+    "id": 15,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "15. ᠲᠦᠮᠡᠳ ᠪᠠᠷᠠᠭᠤᠨ ᠬᠣᠰᠢᠭᠤᠨ ᠤ 《 ᠡᠪᠦᠭᠡᠳ ᠦᠨ ᠬᠤᠷᠠᠯ 》 ᠤᠨ ᠲᠡᠮᠡᠴᠡᠯ ᠦᠨ ᠭᠣᠣᠯ ᠵᠣᠷᠢᠯᠭ᠎ᠠ ᠨᠢ ᠶᠠᠭᠤ ᠪᠠᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠠᠯᠪᠠ ᠭᠤᠪᠴᠢᠭᠤᠷ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠬᠦ",
+      "B": "ᠬᠢᠲᠠᠳ ᠤᠨ эсрэг ᠲᠡᠮᠡᠴᠡᠬᠦ",
+      "C": "ᠬᠠᠷᠭᠢᠰ ᠨᠣᠶᠠᠨ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠬᠦ",
+      "D": "ᠵᠠᠭᠠᠯᠳᠤᠯᠭ᠎ᠠ ᠭᠠᠷᠭᠠᠬᠤ"
+    },
+    "answer": "ACD"
+  },
+  {
+    "id": 16,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "1. 1389 ᠣᠨ ᠳᠤ ᠮᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠪᠠᠢᠭᠤᠯᠤᠭᠰᠠᠨ ᠤᠷᠢᠶᠠᠩᠬᠠᠢ ᠶᠢᠨ ᠭᠤᠷᠪᠠᠨ ᠬᠠᠷᠠᠭᠤᠯ ᠳᠤ ᠠᠯᠢ ᠨᠢ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠳᠣᠶᠠᠨ ᠬᠠᠷᠠᠭᠤᠯ",
+      "B": "ᠴᠠᠬᠠᠷ ᠬᠠᠷᠠᠭᠤᠯ",
+      "C": "ᠲᠠᠢᠨᠢᠩ ᠬᠠᠷᠠᠭᠤᠯ",
+      "D": "ᠬᠠᠯᠬ᠎ᠠ ᠬᠠᠷᠠᠭᠤᠯ"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 17,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "2. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠦᠶ᠎ᠡ ᠶᠢᠨ ᠭᠣᠪᠢ ᠶᠢᠨ ᠡᠮᠦᠨᠡᠬᠢ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠵᠢᠷᠭᠤᠭᠠᠨ ᠴᠢᠭᠤᠯᠭᠠᠨ ᠳᠤ ᠠᠯᠢ ᠨᠢ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠵᠢᠷᠢᠮ ᠦᠨ ᠴᠢᠭᠤᠯᠭᠠᠨ",
+      "B": "ᠰᠡᠴᠡᠨ ᠬᠠᠨ ᠠᠢᠮᠠᠭ ᠤᠨ ᠴᠢᠭᠤᠯᠭᠠᠨ",
+      "C": "ᠰᠠᠢᠨ ᠨᠣᠶᠠᠨ ᠬᠠᠨ ᠠᠢᠮᠠᠭ ᠤᠨ ᠴᠢᠭᠤᠯᠭᠠᠨ",
+      "D": "ᠵᠣᠰᠣᠲᠤ ᠶᠢᠨ ᠴᠢᠭᠤᠯᠭᠠᠨ"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 18,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "3. ᠭᠠᠯᠳᠠᠨ ᠪᠣᠰᠤᠭᠲᠤ ᠬᠠᠨ ᠴᠢᠩ ᠤᠯᠤᠰ ᠲᠠᠢ ᠬᠢᠭᠰᠡᠨ ᠠᠯᠳᠠᠷᠲᠠᠢ ᠪᠠᠢᠯᠳᠤᠭᠠᠨ ᠤ ᠭᠠᠵᠠᠷ ᠨᠢ ᠠᠯᠢ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠲᠦᠮᠦ ᠶᠢᠨ ᠭᠠᠵᠠᠷ",
+      "B": "ᠤᠯᠠᠭᠠᠨ ᠪᠤᠲᠤᠩ",
+      "C": "ᠶᠡᠬᠡ ᠴᠠᠭᠠᠨ ᠬᠡᠷᠡᠮ",
+      "D": "ᠵᠠᠭᠤ ᠮᠣᠳᠣ"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 19,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "4. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠦᠶ᠎ᠡ ᠳᠦ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠬᠡᠷᠡᠭ ᠢ ᠬᠠᠮᠢᠶᠠᠷᠬᠤ ᠪᠠᠷ ᠪᠠᠢᠭᠤᠯᠤᠭᠰᠠᠨ ᠲᠥᠪ ᠦᠨ ᠪᠠᠢᠭᠤᠯᠤᠮᠵᠢ ᠶᠢ ᠶᠠᠭᠤ ᠭᠡᠵᠦ ᠨᠡᠷᠡᠯᠡᠳᠡᠭ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠳᠣᠲᠣᠭᠠᠳᠤ ᠬᠡᠷᠡᠭ ᠦᠨ ᠶᠠᠮᠤᠨ",
+      "B": "ᠴᠡᠷᠢᠭ ᠦᠨ ᠶᠠᠮᠤᠨ",
+      "C": "ᠭᠠᠳᠠᠭᠠᠲᠤ ᠮᠣᠩᠭᠤᠯ ᠤᠨ ᠲᠦᠷᠦ ᠶᠢ ᠵᠠᠰᠠᠬᠤ ᠶᠠᠪᠤᠳᠠᠯ ᠤᠨ ᠶᠠᠮᠤᠨ",
+      "D": "ᠮᠣᠩᠭᠤᠯ ᠤᠨ ᠶᠠᠮᠤᠨ"
+    },
+    "answer": "CD"
+  },
+  {
+    "id": 20,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "5. ᠲᠦᠮᠡᠳ ᠦᠨ ᠠᠯᠲᠠᠨ ᠬᠠᠨ ᠤ ᠶᠠᠪᠤᠭᠤᠯᠤᠭᠰᠠᠨ ᠴᠢᠬᠤᠯᠠ ᠦᠢᠯᠡ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ ᠨᠢ ᠶᠠᠭᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠮᠢᠩ ᠤᠯᠤᠰ ᠲᠠᠢ ᠠᠷᠠᠯᠵᠢᠶ᠎ᠠ ᠬᠢᠬᠦ ᠬᠠᠷᠢᠴᠠᠭ᠎ᠠ ᠲᠣᠭᠲᠠᠭᠠᠭᠰᠠᠨ",
+      "B": "ᠰᠢᠷ᠎ᠠ ᠶᠢᠨ ᠱᠠᠰᠢᠨ ᠢ ᠳᠡᠯᠭᠡᠷᠡᠭᠦᠯᠦᠭᠰᠡᠨ",
+      "C": "ᠵᠡᠭᠦᠨᠭᠠᠷ ᠤᠯᠤᠰ ᠢ ᠪᠠᠢᠭᠤᠯᠤᠭᠰᠠᠨ",
+      "D": "ᠣᠷᠣᠰ ᠤᠯᠤᠰ ᠲᠠᠢ ᠬᠣᠯᠪᠣᠭᠠᠯᠠᠭᠰᠠᠨ"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 21,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "6. ᠲᠡᠦᠬᠡᠨ ᠳᠦ ᠲᠡᠮᠳᠡᠭᠯᠡᠭᠳᠡᠭᠰᠡᠨ ᠳᠥᠷᠪᠡᠨ ᠣᠢᠷᠠᠳ ᠤᠨ ᠠᠢᠮᠠᠭ ᠲᠤ ᠠᠯᠢ ᠨᠢ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠬᠣᠱᠣᠳ",
+      "B": "ᠵᠡᠭᠦᠨᠭᠠᠷ",
+      "C": "ᠤᠷᠢᠶᠠᠩᠬᠠᠢ",
+      "D": "ᠴᠠᠬᠠᠷ"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 22,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "7. ᠴᠢᠩ ᠤᠯᠤᠰ ᠠᠴᠠ ᠮᠣᠩᠭᠣᠯ ᠣᠷᠣᠨ ᠳᠤ ᠲᠣᠮᠢᠯᠠᠭᠰᠠᠨ ᠵᠠᠩᠵᠤᠨ ᠠᠮᠪᠠᠨ ᠤ ᠰᠠᠭᠤᠳᠠᠯ ᠳᠤ ᠠᠯᠢ ᠨᠢ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠤᠯᠢᠶᠠᠰᠤᠲᠠᠢ ᠶᠢᠨ ᠵᠠᠩᠵᠤᠨ",
+      "B": "ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ ᠤᠨ ᠠᠮᠪᠠᠨ",
+      "C": "ᠬᠠᠷᠠᠬᠣᠷᠣᠮ ᠤᠨ ᠰᠠᠢᠳ",
+      "D": "ᠰᠦᠢᠶᠤᠸᠠᠨ ᠬᠣᠲᠠ ᠶᠢᠨ ᠵᠠᠩᠵᠤᠨ"
+    },
+    "answer": "AD"
+  },
+  {
+    "id": 23,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "8. ᠳᠠᠶᠠᠨ ᠬᠠᠭᠠᠨ ᠤ ᠵᠡᠭᠦᠨ ᠭᠠᠷ ᠤᠨ ᠲᠦᠮᠡᠨ ᠳᠦ ᠠᠯᠢ ᠠᠢᠮᠠᠭ ᠤᠳ ᠪᠠᠭᠲᠠᠵᠤ ᠪᠠᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠬᠠᠯᠬ᠎ᠠ",
+      "B": "ᠣᠷᠳᠣᠰ",
+      "C": "ᠴᠠᠬᠠᠷ",
+      "D": "ᠶᠦᠩᠰᠢᠶᠡᠪᠦ"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 24,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "9. ᠳᠠᠶᠠᠨ ᠬᠠᠭᠠᠨ ᠤ ᠪᠠᠷᠠᠭᠤᠨ ᠭᠠᠷ ᠤᠨ ᠲᠦᠮᠡᠨ ᠳᠦ ᠠᠯᠢ ᠠᠢᠮᠠᠭ ᠤᠳ ᠪᠠᠭᠲᠠᠵᠤ ᠪᠠᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠲᠦᠮᠡᠳ",
+      "B": "ᠣᠷᠳᠣᠰ",
+      "C": "ᠤᠷᠢᠶᠠᠩᠬᠠᠢ",
+      "D": "ᠴᠠᠬᠠᠷ"
+    },
+    "answer": "AB"
+  },
+  {
+    "id": 25,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "10. ᠯᠢᠭᠳᠡᠨ ᠬᠠᠭᠠᠨ ᠤ ᠲᠤᠬᠠᠢ ᠦᠨᠡᠨ ᠵᠥᠪ ᠲᠡᠮᠳᠡᠭᠯᠡᠯ ᠨᠢ ᠠᠯᠢ ᠪᠤᠢ?",
+    "options": {
+      "A": "1634 ᠣᠨ ᠳᠤ ᠬᠥᠬᠡᠨᠠᠭᠤᠷ ᠤᠨ ᠰᠢᠷ᠎ᠠ ᠲᠠᠯ᠎ᠠ ᠳᠤ ᠨᠠᠰᠤ ᠪᠠᠷᠠᠵᠠᠢ",
+      "B": "ᠣᠢᠷᠠᠳ ᠢ ᠨᠢᠭᠡᠳᠬᠡᠭᠰᠡᠨ",
+      "C": "ᠤᠮᠠᠷᠠᠳᠤ ᠶᠤᠸᠠᠨ ᠤᠯᠤᠰ ᠤᠨ ᠬᠠᠮᠤᠭ ᠡᠴᠦᠰ ᠦᠨ ᠬᠠᠭᠠᠨ ᠪᠣᠯᠣᠨ᠎ᠠ",
+      "D": "ᠴᠢᠩ ᠤᠯᠤᠰ ᠲᠤ ᠪᠠᠭᠤᠵᠤ ᠭᠭᠦᠭᠰᠡᠨ"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 26,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "11. ᠠᠮᠤᠷᠰᠠᠨᠠᠭ᠎ᠠ ᠶᠢᠨ ᠲᠤᠬᠠᠢ ᠵᠥᠪ ᠲᠣᠳᠣᠷᠬᠠᠢᠯᠠᠯᠲᠠ ᠨᠢ ᠠᠯᠢ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠮᠢᠩ ᠤᠯᠤᠰ ᠲᠠᠢ ᠬᠣᠯᠪᠣᠭᠠᠯᠠᠭᠰᠠᠨ",
+      "B": "ᠬᠣᠢᠳ ᠠᠢᠮᠠᠭ ᠤᠨ ᠲᠠᠢᠵᠢ ᠪᠠᠢᠭᠰᠠᠨ",
+      "C": "ᠬᠠᠯᠬ᠎ᠠ ᠶᠢᠨ ᠬᠠᠨ ᠪᠠᠢᠭᠰᠠᠨ",
+      "D": "ᠴᠢᠩ ᠤᠯᠤᠰ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠨ ᠪᠣᠰᠤᠯᠭ᠎ᠠ ᠭᠠᠷᠭᠠᠭᠰᠠᠨ"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 27,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "12. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠨᠣᠶᠠᠷᠬᠠᠯ ᠢ ᠡᠰᠡᠷᠭᠦᠴᠡᠭᠰᠡᠨ ᠪᠣᠰᠤᠯᠭ᠎ᠠ ᠨᠤᠭᠤᠳ ᠤᠨ ᠤᠳᠤᠷᠢᠳᠤᠭᠴᠢᠳ ᠬᠡᠨ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠴᠠᠬᠠᠷ ᠤᠨ ᠪᠦᠷᠨᠢ ᠴᠢᠨ ᠸᠠᠩ",
+      "B": "ᠵᠢᠪᠽᠣᠨᠳᠠᠮᠪᠠ ᠬᠤᠲᠤᠭᠲᠤ",
+      "C": "ᠬᠣᠲᠣᠭᠣᠢᠳ ᠤᠨ ᠴᠢᠩᠭᠦᠨᠵᠠᠪ",
+      "D": "ᠲᠦᠰᠢᠶᠡᠲᠦ ᠬᠠᠨ ᠴᠠᠬᠤᠨᠳᠣᠷᠵᠢ"
+    },
+    "answer": "AC"
+  },
+  {
+    "id": 28,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "13. ᠴᠢᠩ ᠤᠯᠤᠰ ᠠᠴᠠ ᠮᠣᠩᠭᠣᠯᠴᠤᠳ ᠲᠤ ᠲᠠᠯᠪᠢᠭᠰᠠᠨ ᠬᠣᠷᠢᠭ ᠲᠤ ᠠᠯᠢ ᠨᠢ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠮᠠᠯ ᠠᠵᠤ ᠠᠬᠤᠢ ᠡᠷᠬᠢᠯᠡᠬᠦ ᠶᠢ ᠬᠣᠷᠢᠭᠯᠠᠬᠤ",
+      "B": "ᠬᠢᠲᠠᠳ ᠬᠦᠮᠦᠨ ᠲᠡᠢ ᠤᠷᠤᠭᠯᠠᠬᠤ ᠶᠢ ᠬᠣᠷᠢᠭᠯᠠᠬᠤ",
+      "C": "ᠬᠢᠲᠠᠳ ᠪᠢᠴᠢᠭ ᠰᠤᠷᠬᠤ ᠶᠢ ᠬᠣᠷᠢᠭᠯᠠᠬᠤ",
+      "D": "ᠪᠥᠬᠡ ᠪᠠᠷᠢᠯᠳᠠᠬᠤ ᠶᠢ ᠬᠣᠷᠢᠭᠯᠠᠬᠤ"
+    },
+    "answer": "BC"
+  },
+  {
+    "id": 29,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "14. ᠴᠢᠩ ᠤᠯᠤᠰ ᠤᠨ ᠦᠶ᠎ᠡ ᠳᠡᠬᠢ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠵᠠᠰᠠᠭ ᠵᠠᠬᠢᠷᠭᠠᠨ ᠤ ᠨᠢᠭᠡᠴᠢ ᠳᠦ ᠠᠯᠢ ᠨᠢ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠮᠤᠵᠢ",
+      "B": "ᠴᠢᠭᠤᠯᠭᠠᠨ",
+      "C": "ᠰᠢᠶᠠᠨ",
+      "D": "ᠬᠣᠰᠢᠭᠤ"
+    },
+    "answer": "BD"
+  },
+  {
+    "id": 30,
+    "source": "Overview of Mongolian History",
+    "type": "Multiple-choice factual questions",
+    "question": "15. ᠬᠥᠬᠡᠨᠠᠭᠤᠷ ᠲᠥᠪᠡᠳ ᠦᠨ ᠭᠤᠸᠠᠱᠢ ᠬᠠᠨ ᠤ ᠲᠤᠬᠠᠢ ᠦᠨᠡᠨ ᠪᠠᠷᠢᠮᠲᠠ ᠨᠢ ᠠᠯᠢ ᠪᠤᠢ?",
+    "options": {
+      "A": "ᠵᠡᠭᠦᠨᠭᠠᠷ ᠠᠢᠮᠠᠭ ᠤᠨ ᠬᠠᠨ ᠪᠣᠯᠣᠨ᠎ᠠ",
+      "B": "ᠬᠣᠱᠣᠳ ᠠᠢᠮᠠᠭ ᠤᠨ ᠲᠦᠷᠦᠭᠦᠦ ᠪᠣᠯᠣᠨ᠎ᠠ",
+      "C": "ᠮᠢᠩ ᠤᠯᠤᠰ ᠲᠠᠢ ᠪᠠᠢᠯᠳᠤᠭᠰᠠᠨ",
+      "D": "1637 ᠣᠨ ᠳᠤ ᠴᠣᠭᠲᠤ ᠲᠠᠢᠵᠢ ᠶᠢ ᠢᠯᠠᠭᠰᠠᠨ"
+    },
+    "answer": "BD"
+  }
+]

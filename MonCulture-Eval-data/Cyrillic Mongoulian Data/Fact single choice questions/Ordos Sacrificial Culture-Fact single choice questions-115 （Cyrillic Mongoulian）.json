@@ -1,0 +1,1497 @@
+[
+  {
+    "id": 1,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хаан хэдүгээр онд арван түмэн цэргээр Тангуд улсад дайлаар мордсон бэ?",
+    "options": {
+      "A": "1227 он",
+      "B": "1226 он",
+      "C": "1206 он",
+      "D": "1215 он"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны үед Хатан голыг юу гэж нэрлэж байсан бэ?",
+    "options": {
+      "A": "Шар мөрөн",
+      "B": "Хар усан гол",
+      "C": "Онон гол",
+      "D": "Эрчис гол"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны шарилыг тээж явсан хасаг тэрэг хаана ирээд шавардсан бэ?",
+    "options": {
+      "A": "Алтайн өвөр",
+      "B": "Мунын хөгбөр",
+      "C": "Хатан голын эрэг",
+      "D": "Бурхан Халдун"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хасаг тэрэг шавардах үес хэн Чингис хааны сүлдэнд даатган өчсөн бэ?",
+    "options": {
+      "A": "Зэлмэ",
+      "B": "Боорчи",
+      "C": "Сөнидийн Гилүгэдэй баатар",
+      "D": "Мухулай"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны Найман цагаан ордыг хэний үед албан ёсоор зохион байгуулсан бэ?",
+    "options": {
+      "A": "Хубилай хаан",
+      "B": "Лигдэн хаан",
+      "C": "Мөнх хаан",
+      "D": "Өгэдэй хаан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хубилай хааны Найман цагаан ордыг байгуулах тухай зарлиг хэдэн онд нийтлэгдсэн бэ?",
+    "options": {
+      "A": "1206 он",
+      "B": "1368 он",
+      "C": "1295 он",
+      "D": "1227 он"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Эх бичигт тэмдэглэснээр “Чандарын хайрцаг” гэж юуг хэлдэг вэ?",
+    "options": {
+      "A": "Чингис хааны амьсгал шингэсэн цагаан буурын ноос",
+      "B": "Алт мөнгө",
+      "C": "Чингис хааны яс",
+      "D": "Чингис хааны өмссөн цамц"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Гүрбэлжин гоо хатны ордод чандарын хайрцагаас гадна юуг тахиж байгаа вэ?",
+    "options": {
+      "A": "Сангийн орд",
+      "B": "Боро өндөр",
+      "C": "Чингис хааны хос илд",
+      "D": "Өндгөн цагаан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Боро өндрийн цагаан ордод юу хадгалагдаж байдаг вэ?",
+    "options": {
+      "A": "Хос илд",
+      "B": "Түүхийн бичиг",
+      "C": "Боро өндөр хэмээх эсгий хийх хөхүүр",
+      "D": "Хатны хөрөг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Богдын цагаан ордны шүтээний хэвчинд тахигдсан тэнгэрийн хүлгийг юу гэдэг вэ?",
+    "options": {
+      "A": "Зээрд хүлэг",
+      "B": "Хар хүлэг",
+      "C": "Аргамаг хүлэг",
+      "D": "Өндгөн цагаан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны хар сүлдийн догшиулгын их тайлгыг ямар жилд хийдэг вэ?",
+    "options": {
+      "A": "Хонин жил",
+      "B": "Могой жил",
+      "C": "Барс жил",
+      "D": "Луу жил"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Сангийн өргөө цагаан ордод юу хадгалж байсан бэ?",
+    "options": {
+      "A": "Чандарын хайрцаг",
+      "B": "Эмээл",
+      "C": "Алт мөнгөн эдлэл ба ном судар",
+      "D": "Хувцас"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны есөн өрлөгөөс хэний “Жинхэнэ шүтээн” Ордост байдаг вэ?",
+    "options": {
+      "A": "Зэлмэ",
+      "B": "Боорчи",
+      "C": "Сүбээдэй",
+      "D": "Мухулай"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингийн төрийн үед хэний хар сүлдийг Ордост нэмж тахисан бэ?",
+    "options": {
+      "A": "Амарсанаа",
+      "B": "Галдам",
+      "C": "Галдан бошигт хан",
+      "D": "Цэнгүнжав"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Саган Эрх Сэцэн хунтайжийг хаана оршуулсан бэ?",
+    "options": {
+      "A": "Мунын хөгбөр",
+      "B": "Бурхан Халдун",
+      "C": "Гандир могой",
+      "D": "Сасын цайдам"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Ордост тахигдсан Адай хааны шүтээнийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Бага онгон",
+      "B": "Асай онгон",
+      "C": "Их онгон",
+      "D": "Цагаан онгон"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны отгон хөвгүүн Толуйг түүний цагаан ордтой холбогдуулан юу гэж нэрлэсэн бэ?",
+    "options": {
+      "A": "Улсын эзэн",
+      "B": "Голомтын эзэн",
+      "C": "Цэргийн эзэн",
+      "D": "Төрийн эзэн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны харьяа ихт хар сүлдийн их тайлгыг жил бүрийн Ордос тооллын хэдүгээр сарын хэдэнд хийдэг вэ?",
+    "options": {
+      "A": "Цагаан сарын шинийн гурван",
+      "B": "Арван сарын арван дөрвөн",
+      "C": "Таван сарын шинийн гурван",
+      "D": "Долоон сарын арван дөрвөн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хар сүлдийн тайлгад “Имаа/Ямаа шүүх” ёслолд хэн ямааны голыг тасалдаг вэ?",
+    "options": {
+      "A": "Жонон",
+      "B": "Бөө",
+      "C": "Тайш",
+      "D": "Дархан баатар"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хар сүлдийг хэдэн жилд нэг удаа бага догшиулга хийж залдаг вэ?",
+    "options": {
+      "A": "Арван хоёр жил",
+      "B": "Жил бүр",
+      "C": "Зургаан жил",
+      "D": "Гурван жил"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Есөн хөлт цагаан сүлдийг одоо Ордосын аль хошуунд тахиж байгаа вэ?",
+    "options": {
+      "A": "Үүшин хошуу",
+      "B": "Отог хошуу",
+      "C": "Хангин хошуу",
+      "D": "Зүүнгар хошуу"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цагаан сүлдийг догшиулах их тайлга ямар жилд болдог вэ?",
+    "options": {
+      "A": "Барс жил",
+      "B": "Хонь жил",
+      "C": "Морь жил",
+      "D": "Луу жил"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цагаан сүлдийн догшиулгын үед тогчи нар ямар хэлбэрээр хүрээгээ тойрдог вэ?",
+    "options": {
+      "A": "Мориор тойрдог",
+      "B": "Энгийн алхдаг",
+      "C": "Сөгдөж явдаг",
+      "D": "Ганц хөлөөр үсрэн явдаг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хавт Хасарын алаг сүлдийг ямар жилд догшиулан тахидаг вэ?",
+    "options": {
+      "A": "Тахиа жил",
+      "B": "Луу жил",
+      "C": "Барс жил",
+      "D": "Гахай жил"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Алаг сүлд нь одоо ямар хошуунд байдаг вэ?",
+    "options": {
+      "A": "Эзэн хороо хошуу",
+      "B": "Үүшин хошуу",
+      "C": "Отогийн өмнөд хошуу",
+      "D": "Далад хошуу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингийн төрийн үед алаг сүлдийн сүмийг хэн түймэрдсэн бэ?",
+    "options": {
+      "A": "Галдан бошигт",
+      "B": "Зүүнгарын цэрэг",
+      "C": "Мау хулгай",
+      "D": "Амарсанаа"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цагаан сүлдийн тайлгад хорчин хүн юуг холоос харвадаг вэ?",
+    "options": {
+      "A": "Цагаан тэмээ",
+      "B": "Золигийн хонь",
+      "C": "Хар ямаа",
+      "D": "Бай"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хар сүлдийг шинэтгэн сэлбэхэд ямар зүсийн азарганы дэл хэрэглэдэг вэ?",
+    "options": {
+      "A": "Хүрэн азарга",
+      "B": "Хар азарга",
+      "C": "Цагаан азарга",
+      "D": "Гэгээр азарга"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цагаан сүлдийг харгалзан сахигчдыг ерөнхийд нь юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Цахар харьяа",
+      "B": "Дархад",
+      "C": "Урианхай",
+      "D": "Хорчин"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Алаг сүлдийг догшиулсны дараа ямар зүйлийн тайлга хийдэг вэ?",
+    "options": {
+      "A": "Бор гөрөөсөн өдгөө",
+      "B": "Цагаан морь",
+      "C": "Шар тос",
+      "D": "Хар үхэр"
+    },
+    "answer": "A"
+  },
+{
+    "id": 31,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хаан хэдүгээр онд Тангудад дайлаар мордсон бэ?",
+    "options": {
+      "A": "1211 он",
+      "B": "1227 он",
+      "C": "1206 он",
+      "D": "1226 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 32,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Алаг сүлдийн гол сүлдийн оройн залмай ямар хэлбэртэй бэ?",
+    "options": {
+      "A": "Хас хэлбэр",
+      "B": "Саран хэлбэр",
+      "C": "Жад хэлбэр",
+      "D": "Наран хэлбэр"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны хар сүлдийн оройн төмөр жад хэдэн тохой урт бэ?",
+    "options": {
+      "A": "Найман тохой",
+      "B": "Гурван тохой",
+      "C": "Нэг тохой хагас",
+      "D": "Таван тохой"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хавт Хасарын зандан бүрээ шүтээн хаана байдаг вэ?",
+    "options": {
+      "A": "Далад хошуу",
+      "B": "Үүшин хошуу",
+      "C": "Отогийн өмнөд хошууны бүртэх",
+      "D": "Хангин хошуу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хавт Хасарын бүрээг ямар модоор хийсэн бэ?",
+    "options": {
+      "A": "Сэндэн (зандан) мод",
+      "B": "Жиг мод",
+      "C": "Хайлаас мод",
+      "D": "Нарс мод"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Бөх Бэлгүтэйн шүтээнийг Ордосын хаана тахиж байгаа вэ?",
+    "options": {
+      "A": "Эрээн толгой",
+      "B": "Баян цайдам",
+      "C": "Алтан гадас",
+      "D": "Их эзэн хороо"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "1978 онд Эрээн толгойгоос юу илэрсэн бэ?",
+    "options": {
+      "A": "Мөнгөн аяга",
+      "B": "Хүний хүүрийн агуй",
+      "C": "Алтан бумба",
+      "D": "Чулуун хөшөө"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Өгэдэй хааны сүлд шүтээнийг аль хошуунд тахиж байсан бэ?",
+    "options": {
+      "A": "Далад хошуу",
+      "B": "Эзэн хороо хошуу",
+      "C": "Зүүнгар хошуу",
+      "D": "Отог хошуу"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Өгэдэй хааны сүлдтэй хамт юуг хадгалж байсан бэ?",
+    "options": {
+      "A": "Мөнгөн бул",
+      "B": "Алтан бүс",
+      "C": "Чандарын хайрцаг",
+      "D": "Хас тамга"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Толуй эзний шүтээн болгон хэрэглэлд юу багтах вэ?",
+    "options": {
+      "A": "Эмээл хазаар",
+      "B": "Нум сум",
+      "C": "Хэт, бүс, туухай",
+      "D": "Хуяг дуулга"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Толуй эзний нуурын их тайлгыг хэзээ хийдэг вэ?",
+    "options": {
+      "A": "Найман сарын арван хоёр",
+      "B": "Таван сарын арван таван",
+      "C": "Цагаан сарын шинийн гурван",
+      "D": "Зургаан сарын хорин нэгэн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Толуй эзний шүтээнийг тахих дөрвөн яамтанд аль нь багтах вэ?",
+    "options": {
+      "A": "Тууль, манлай, тайш, тайбуу",
+      "B": "Дархан, залан, майран, босго",
+      "C": "Хиа, бичээч, ургаач, саальчин",
+      "D": "Жонон, тайж, зайсан, хүнд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Алтан гадас шүтээний гол бэлгэдэл нь юу вэ?",
+    "options": {
+      "A": "Алтаар хийсэн гадас",
+      "B": "Газар дээрх чулуу",
+      "C": "Өндгөн цагааныг барьж зогсдог хүн",
+      "D": "Төмөр гинж"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Домогт өгүүлснээр юуны учираас нэг цэрэг алтан гадас болж хувирсан бэ?",
+    "options": {
+      "A": "Хурдан морь уясан тул",
+      "B": "Дайнд гавьяа байгуулсан тул",
+      "C": "Бөөгийн шидээр",
+      "D": "Чингис хааны алтан гадасыг хулгайлсан тул"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Үүшин хошууны уйгуржин монголчуд Мухулайн хар сүлдийг юу гэж нэрлэдэг вэ?",
+    "options": {
+      "A": "Алтан шүтээн",
+      "B": "Богд шүтээн",
+      "C": "Хар орд",
+      "D": "Жинхэнэ шүтээн"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 46,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хаан хэдүгээр онд Мухулайд тайш гүй ван цол шагнасан бэ?",
+    "options": {
+      "A": "1206 он",
+      "B": "1223 он",
+      "C": "1227 он",
+      "D": "1217 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Мухулайн сүлд 1987 оноос хаана тахигдаж байгаа вэ?",
+    "options": {
+      "A": "Бага чацаргана",
+      "B": "Шувуун тал",
+      "C": "Удан цайдам",
+      "D": "Эрээн толгой"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Мухулайн хар сүлдэд хэдэн хөхөл байдаг вэ?",
+    "options": {
+      "A": "99",
+      "B": "81",
+      "C": "108",
+      "D": "33"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Мухулайн сүлдийн найман сарын их тайлга хэдний өдөр болдог вэ?",
+    "options": {
+      "A": "Арван нэгэн",
+      "B": "Шинийн гурван",
+      "C": "Арван таван",
+      "D": "Хорин нэгэн"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Мухулайн сүлдийг догшиулах их тайлгыг ямар жилд хийдэг вэ?",
+    "options": {
+      "A": "Үхэр, могой, тахиа жил",
+      "B": "Морь, барс, нохой жил",
+      "C": "Туулай, хонь, гахай жил",
+      "D": "Хулгана, луу, мичин жил"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "1947 онд Толуй эзний шүтээний цомцогт юу тохиолдсон бэ?",
+    "options": {
+      "A": "Галд шатсан",
+      "B": "Хулгайд алдагдсан",
+      "C": "Газар хөдөлсөн",
+      "D": "Үерт автсан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны алаг сүлдийг анх Хангин хошууны ямар газар тахиж байсан бэ?",
+    "options": {
+      "A": "Цахар ус",
+      "B": "Эрээн толгой",
+      "C": "Бор толгой",
+      "D": "Баян цайдам"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны алаг сүлдийг ямар жилд догшиулан тахидаг вэ?",
+    "options": {
+      "A": "Барс жил",
+      "B": "Морь жил",
+      "C": "Тахиа жил",
+      "D": "Луу жил"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Галдангийн хар сүлдийг Үүшин зуугаас хаана шилжүүлэн тахисан бэ?",
+    "options": {
+      "A": "Сүлдийн цайдам",
+      "B": "Бор толгой",
+      "C": "Алтан гадас",
+      "D": "Цагаан сүрэг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Галдангийн хар сүлдийг ямар жилд догшиулан тахидаг вэ?",
+    "options": {
+      "A": "Могой жил",
+      "B": "Луу жил",
+      "C": "Гахай жил",
+      "D": "Барс жил"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хутагтай сэцэн хунтайжийн хар сүлд хаана байдаг вэ?",
+    "options": {
+      "A": "Эзэн хороо",
+      "B": "Сүлдийн эрээн (Бага шавар)",
+      "C": "Баян нуур",
+      "D": "Ганга нуур"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хутагтай сэцэн хунтайж 1562 онд хэнээс хар сүлдийг авсан бэ?",
+    "options": {
+      "A": "Сартуул",
+      "B": "Тангуд",
+      "C": "Хятад",
+      "D": "Ойрад"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хөх шувуучин харьяаны сүлдийг юугаар хийсэн байдаг вэ?",
+    "options": {
+      "A": "Алтан жад",
+      "B": "Хүний гавал",
+      "C": "Морины туурай",
+      "D": "Зэс цээр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хөх шувуучинын сүлдийг сүүлдээ хаана залж тахисан бэ?",
+    "options": {
+      "A": "Эзэн хороо",
+      "B": "Аржайн агуй",
+      "C": "Бор толгой",
+      "D": "Түшийн агуй"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "1939-1940 оны үед Хангин хошууны хар сүлдийг дахин бүтээхийг хэн санаачилсан бэ?",
+    "options": {
+      "A": "Очирхуягт",
+      "B": "Жонон Шагдаржав",
+      "C": "Засаг ноён Алданочир",
+      "D": "Дэмчигдонров"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хангин хошууны хар сүлдийг 1956 онд хаана залсан бэ?",
+    "options": {
+      "A": "Ганьсу муж",
+      "B": "Бугат хот",
+      "C": "Хөххот",
+      "D": "Чингис хааны онгон"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 62,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Галдангийн хар сүлдийг догшиулахад сангийн сөрийг хэдэн удаа тойрдог вэ?",
+    "options": {
+      "A": "Ес",
+      "B": "Дөчин ес",
+      "C": "Гурва",
+      "D": "Наян нэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 63,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Алаг сүлдийн оройн залмай ямар хэлбэртэй бэ?",
+    "options": {
+      "A": "Дугуй хэлбэр",
+      "B": "Жад хэлбэр",
+      "C": "Саран хэлбэр",
+      "D": "Гал хэлбэр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хавт Хасарын алаг сүлдийн элч сүлд хэд байдаг вэ?",
+    "options": {
+      "A": "Найма",
+      "B": "Дөрвө",
+      "C": "Хоёр",
+      "D": "Гурва"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хангин хошууны хар сүлдийг Японы эзэрхийллийн үед хаана тахиж байсан бэ?",
+    "options": {
+      "A": "Эзэн хороо",
+      "B": "Далад хошууны Да шу ван",
+      "C": "Их зуу",
+      "D": "Бугат"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Галдангийн хар сүлдийн их тайлгыг жил бүрийн хэзээ хийдэг вэ?",
+    "options": {
+      "A": "Арван сарын арван гурван",
+      "B": "Долоон сарын арван гурван",
+      "C": "Найман сарын арван гурван",
+      "D": "Цагаан сарын шинийн гурван"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Гүрбэлжин гоо хатны онгон одоогийн аль хошуунд байдаг вэ?",
+    "options": {
+      "A": "Хангин хошуу",
+      "B": "Отог хошуу",
+      "C": "Үүшин хошуу",
+      "D": "Далад хошуу"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 68,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чингис хааны цэргүүд Гүрбэлжин гоо хатны юуг булааж онгон болгосон бэ?",
+    "options": {
+      "A": "Торгон дээл",
+      "B": "Мөнгөн савх",
+      "C": "Алтан бөгж",
+      "D": "Шаахай буюу оймс"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Гүрбэлжин гоо хатны домогт болж Хар мөрнийг юу гэж нэрлэх болсон бэ?",
+    "options": {
+      "A": "Улаан гол",
+      "B": "Шар мөрөн",
+      "C": "Цэнхэр мөрөн",
+      "D": "Хатан гол"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Батмөнх Даян хааны онгон эдүгээгийн аль хошуунд байдаг вэ?",
+    "options": {
+      "A": "Зүүнгар хошуу",
+      "B": "Отогийн өмнөд хошуу",
+      "C": "Урад хошуу",
+      "D": "Эзэн хороо хошуу"
+    },
+    "answer": "B"
+  },
+{
+    "id": 71,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Батмөнх Даян хааны онгонд дөрвөн зүгт нь ямар амьтны хөшөө босгосон байдаг вэ?",
+    "options": {
+      "A": "Дөрвөн заан",
+      "B": "Дөрвөн бар",
+      "C": "Дөрвөн арслан",
+      "D": "Дөрвөн луу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 72,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Батмөнх Даян хааны онгоныг ямар овогтон үе уламжлан тахиж ирсэн бэ?",
+    "options": {
+      "A": "Бэсүд овогтон",
+      "B": "Номчин овогтон",
+      "C": "Цорос овогтон",
+      "D": "Боржигин овогтон"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Асай онгон эдүгээгийн аль хошуунд байрладаг вэ?",
+    "options": {
+      "A": "Дархан хошуу",
+      "B": "Түмэд хошуу",
+      "C": "Отог хошуу",
+      "D": "Зүүнгар хошуу"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 74,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Асай онгон нь нийт хэдэн ууланд байдаг вэ?",
+    "options": {
+      "A": "Таван уул",
+      "B": "Долоон уул",
+      "C": "Есөн уул",
+      "D": "Гурван уул"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Асай онгонд хэний шарилыг оршуулсан гэж үздэг вэ?",
+    "options": {
+      "A": "Тогоонтөмөр хаан",
+      "B": "Гүюг хаан",
+      "C": "Лигдэн хаан",
+      "D": "Адай хаан буюу Ажай тайж"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хутагтай Сэцэн хунтайжийн онгон хаана байдаг вэ?",
+    "options": {
+      "A": "Алашаа хошуу",
+      "B": "Сөнид хошуу",
+      "C": "Авга хошуу",
+      "D": "Үүшин хошуу"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хутагтай Сэцэн хунтайжийн онгоныг Ордос тооллын хэдэн сард тахидаг вэ?",
+    "options": {
+      "A": "Найман сарын арван хоёр",
+      "B": "Дөрвөн сарын найман",
+      "C": "Таван сарын арван долоон",
+      "D": "Цагаан сарын шинийн гурван"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Үүшин хошуунд байгаа “Их онгон”-д хэний шарил байдаг вэ?",
+    "options": {
+      "A": "Боди Алаг хаан",
+      "B": "Эсэхү хаан",
+      "C": "Мандухай сэцэн хатан",
+      "D": "Барсболд Сайн алаг жонон"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 79,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Саган Сэцэн хунтайжийн бичсэн алдарт түүхийн зохиол аль нь вэ?",
+    "options": {
+      "A": "Монголын нууц товчоон",
+      "B": "Болор эрих",
+      "C": "Эрдэнийн товч",
+      "D": "Алтан товч"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Саган Эрх Сэцэн хунтайжийн онгон хаана байрладаг вэ?",
+    "options": {
+      "A": "Их бага Бодон",
+      "B": "Алтайн өвөр",
+      "C": "Гандир уул",
+      "D": "Хэнтий хан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Саган Сэцэний мэндэлсэн 400 жилийн ойн их тайлга хэзээ болсон бэ?",
+    "options": {
+      "A": "2010 он",
+      "B": "1990 он",
+      "C": "2004 он",
+      "D": "1984 он"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Гүрбэлжин гоо хатан эцэгтээ юугаар захиа илгээсэн бэ?",
+    "options": {
+      "A": "Шувуу",
+      "B": "Элч",
+      "C": "Загас",
+      "D": "Морь"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Бортолгойн овоог хэн анх босгосон бэ?",
+    "options": {
+      "A": "Шанда хэмээх Отог хошууны нэгдүгээр ван ноён",
+      "B": "Сунрав ван ноён",
+      "C": "Ойжин ноён",
+      "D": "Баян Дамба"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "1934 онд Бортолгойн овоон дээр ямар богд саатсан бэ?",
+    "options": {
+      "A": "Далай лам",
+      "B": "Занжа хутагт",
+      "C": "Есдүгээр дүрийн Банчин Богд",
+      "D": "Зургадугаар дүрийн Банчин Богд"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Бадуугийн овоог хэн босгосон бэ?",
+    "options": {
+      "A": "Энэрэлт Эрхэмтэлэй ван",
+      "B": "Баян Цахар",
+      "C": "Отогийн гуравдугаар ван Сунрав ноён",
+      "D": "Аръяажав захын заргуч"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Чавгатын овоо нь ямар сүлдтэй холбоотой вэ?",
+    "options": {
+      "A": "Төрийн сүлд",
+      "B": "Хавт Хасарын алаг сүлд",
+      "C": "Чингис хааны хар сүлд",
+      "D": "Есөн хөлт цагаан туг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Баян Хурхын овооны тахилгад Манагулуудыг буудаж харвах нь юуг бэлгэдсэн бэ?",
+    "options": {
+      "A": "Мау хулгайг дарсаныг",
+      "B": "Ан ав хийж байхыг",
+      "C": "Бөөгийн засал",
+      "D": "Чингис Богд Тангуд улсыг дарж байхыг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 88,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Жаран хайлаас овооны хайлаас нь юунаас үүссэн домогтой вэ?",
+    "options": {
+      "A": "Баян хүний сувднаас",
+      "B": "Өвгөн эмгэний булаж орхисон замбаанаас",
+      "C": "Сүмийн ламын тарьсан модноос",
+      "D": "Тэнгэрээс буусан үрээс"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цагаан тээгийн овоо гэж нэрлэх болсон учир юу вэ?",
+    "options": {
+      "A": "Цагаан ямаагаар тахидаг тул",
+      "B": "Ойжин ноён гээсэн цагаан шүй жин тээгээ олсон тул",
+      "C": "Цагаан чулуу олонтой тул",
+      "D": "Цагаан тэмээ олсон тул"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Батмөнх Даян хааны онгоны дэргэдэх Халтар азарганы овоог юун дээр босгосон гэдэг вэ?",
+    "options": {
+      "A": "Халтар азарганы тохом дээр",
+      "B": "Халтар азарганы эмээл дээр",
+      "C": "Халтар азарганы ясан дээр",
+      "D": "Халтар азарганы хазаар дээр"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 91,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Баян Цахарын овоог босгохыг хэн зөвшөөрсөн бэ?",
+    "options": {
+      "A": "Зургадугаар дүрийн Банчин Богд",
+      "B": "Занжа хутагт",
+      "C": "Есдүгээр дүрийн Банчин Богд",
+      "D": "Тангуд гэгээн"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 92,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Гарьдийн овооны домогт гарьд шувуу хаана хандан ус ууж байсан бэ?",
+    "options": {
+      "A": "Хөххот өөд",
+      "B": "Лхас өөд",
+      "C": "Бээжин хот өөд",
+      "D": "Иргай хот өөд"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 93,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хөнхнүүрийн овооны домогт баатар эр ямар зэвсгээр хулгайг дарсан бэ?",
+    "options": {
+      "A": "Гал буу",
+      "B": "Нум сум",
+      "C": "Илжирхий мод ба урт салам",
+      "D": "Хурц илд"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Сайхан толгойн овоог хэнд зориулан босгосон бэ?",
+    "options": {
+      "A": "Чингис хаан",
+      "B": "Да а нан жиу бурхан",
+      "C": "Луусын хаан",
+      "D": "Тэнгэрийн долоон өвгөн одон (Долоон бурхан)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 95,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Засаг овоо нь уулдаа юу байсан бэ?",
+    "options": {
+      "A": "Урт цагаан хэрмийн харуулын шавар ходон",
+      "B": "Эртний хааны ордон",
+      "C": "Цэргийн агуй",
+      "D": "Баян айлын бууц"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Бортолгойн овооны гурван цээрлэлийн нэг нь юу бэ?",
+    "options": {
+      "A": "Морь унаж болохгүй",
+      "B": "Шөнө явж болохгүй",
+      "C": "Эмэгтэй болон хятад хүнийг овооны оройд гаргадаггүй",
+      "D": "Улаан хувцас өмсөж болохгүй"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 97,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Бадуугийн овооны бага тахилга хэзээ болдог байжээ?",
+    "options": {
+      "A": "Цагаан сарын арван гурванд",
+      "B": "Есөн сарын есөнд",
+      "C": "Өвлийн дүнзид",
+      "D": "Найман сарын арван таванд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Баян Хурхын овооны тахилга хэзээ болдог вэ?",
+    "options": {
+      "A": "Цагаан сарын шинийн нэгэнд",
+      "B": "Зуны тэргүүн сард",
+      "C": "Найман сарын арван гурванд",
+      "D": "Есөн сарын шинийн гурванд"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 99,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Жаргалангийн овоог хэн анх босгосон бэ?",
+    "options": {
+      "A": "Баян Рашсэрэн",
+      "B": "Баян Дамба",
+      "C": "Баян Цагаансүмбэр",
+      "D": "Баян Санжай"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Уран дөшийн овоотой холбогдох Чингис хааны үеийн алдарт дархан хэн бэ?",
+    "options": {
+      "A": "Ан ши ван Мангилай",
+      "B": "Төмөрийн дархан Ёлдормаа",
+      "C": "Байсангурлан ноён",
+      "D": "Батмөнх Даян хаан"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 101,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Баян овоо (Чингисийн овоо) нь Чингис хааны ямар адуу малтай холбоотой вэ?",
+    "options": {
+      "A": "Алтан унага",
+      "B": "Хоёр загал",
+      "C": "Найман шарга морь",
+      "D": "Хүлэг бор морь"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цэвийн овооны хуучин нэр нь юу байсан бэ?",
+    "options": {
+      "A": "Хан овоо",
+      "B": "Алтан овоо",
+      "C": "Сүлд овоо",
+      "D": "Баатар овоо"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 103,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цэвийн овооны оройд ямар хүмүүс гарахыг цээрлэдэг вэ?",
+    "options": {
+      "A": "Лам хувраг ба ноёд",
+      "B": "Хүүхэд ба өтөлхөс",
+      "C": "Эмэгтэй хүн ба хятад хүн",
+      "D": "Анчин ба дархан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 104,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Их Эрхтийн овооны домогт Улаан нуур юунаас үүссэн гэдэг вэ?",
+    "options": {
+      "A": "Тэнгэрийн унагасан борооноос",
+      "B": "Аварга могойн нулимснаас",
+      "C": "Алагдсан цагаан арслангийн цуснаас",
+      "D": "Газраас оргилсон рашаанаас"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 105,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Баянсүмбэр овооны газрыг юуны учираас “Хонгор азарганы даваа” гэж нэрлэсэн бэ?",
+    "options": {
+      "A": "Энэ даваан дээр хонгор азарга төрсөн тул",
+      "B": "Энэ давааг хонгор азарга харайж гарсан тул",
+      "C": "Энд хонгор азаргыг тахидаг тул",
+      "D": "Нэгэн ноёны хонгор азарга үхсэнийг даваанд түлхүүлэн худал хэлснээс"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 106,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Аржай улиас овооны тахилганд махыг ямар байдлаар өргөдэг вэ?",
+    "options": {
+      "A": "Бүх махыг нь чанаж болгоод өргөдэг",
+      "B": "Махыг галд түлж өргөдэг",
+      "C": "Элэг уушиг толгойтой нь түүхийгээр зүлдлэн өлгөдэг",
+      "D": "Гагцхүү цагаан идээгээр тахидаг"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 107,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хошуу Улаан овооны (Мунын хошуу овоо) сүлдийг юун дээр босгосон бэ?",
+    "options": {
+      "A": "Мөнгөн бумба дээр",
+      "B": "Алтан сав дээр",
+      "C": "Хас чулуун суурин дээр",
+      "D": "Урт гэзэгтэй хүний (Тангуд жанжны) гавал дээр"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 108,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Далан түрүүгийн овоо хэмээх нэр юунаас үүсэлтэй бэ?",
+    "options": {
+      "A": "Бослого гаргасан далан хүний толгойг авснаас",
+      "B": "Далан түрүүтэй аварга могойг алснаас",
+      "C": "Далан удаа тахилга хийснээс",
+      "D": "Далан түрүү адуу өргөснөөс"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 109,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Ламын овоон дээр Чингис хаан ямар үг хэлсэн гэдэг вэ?",
+    "options": {
+      "A": "Мах үгүй бол сүүгээр тахи",
+      "B": "Ус үгүй болбачу үүлээр, арц үгүй болбачу агиар тахимуй",
+      "C": "Алт үгүй бол мөнгөөр тахи",
+      "D": "Эр хүн үгүй бол эм хүн тахи"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Хан цагаан овоог юуны учираас босгосон бэ?",
+    "options": {
+      "A": "Цагаан сүлдийг залж авчирсан тул",
+      "B": "Дайны ялалтыг тэмдэглэхийн тул",
+      "C": "Чингис хааны зарлигаар",
+      "D": "Азарга нь туйлаад хар сүлдийг газарт унагасан тул"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 111,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Шүүрхийн овооны “Шүүрхий” гэдэг нь ямар утгатай бэ?",
+    "options": {
+      "A": "Шүүрхий гэдэг нэртэй баатар байсан тул",
+      "B": "Шүүр барьсан хүн байсан тул",
+      "C": "Шүүдэр ихтэй газар байсан тул",
+      "D": "Хар сүлд ой модонд шүүрхий (торсон) болхоор"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 112,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Сүмт овооны хоригуулд юу хийж болохгүй вэ?",
+    "options": {
+      "A": "Бөх барилдах",
+      "B": "Мод бургас цавчих, адар хагалбарлах",
+      "C": "Морь унах, дуу дуулах",
+      "D": "Цагаан идээ идэх"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 113,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Цагаантолгойн овоонд ямар идээ өргөхийг эрс цээрлэдэг вэ?",
+    "options": {
+      "A": "Архи",
+      "B": "Улаан идээ (мах)",
+      "C": "Жимс",
+      "D": "Цагаан идээ (сүү сааль)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Уран дөшийн овооны гуравдахь тахилгад (8 сард) тахилгын хүмүүс уулан дээр юу үүрч гардаг вэ?",
+    "options": {
+      "A": "Ганжуур ном",
+      "B": "Цэвэр тунгалаг ус ба амьд хонь",
+      "C": "Сүх ба хөрөө",
+      "D": "Алт мөнгө"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "source": "Ordos Sacrificial Culture",
+    "type": "Fact single choice questions",
+    "question": "Бага Эрхтийн овоог юуны учир нүүлгэсэн бэ?",
+    "options": {
+      "A": "Хааны зарлиг буусан тул",
+      "B": "Овоо босгосон газарт сохор эмгэн тааралдсан (муу ёр) тул",
+      "C": "Ус нутаг үгүй болсон тул",
+      "D": "Дайн дажин болсон тул"
+    },
+    "answer": "B"
+  }
+]

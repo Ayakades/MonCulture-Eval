@@ -1,0 +1,1653 @@
+[
+  {
+    "id": 1,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1215 онд Чингис хаан эр хүний хамагийн их баяр цэнгэлийн тухай хэнд хэлсэн бэ?",
+    "options": {
+      "A": "Зэвд",
+      "B": "Хятадын хаанд",
+      "C": "Хорезмын элчид",
+      "D": "Боорчид"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1872 онд «Монголын нууц товчоо»-ны галигласан эхийг хэн худалдаж авсан бэ?",
+    "options": {
+      "A": "Найто",
+      "B": "Хайниши",
+      "C": "Позднеев",
+      "D": "Палладий Кафаров"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1956 онд Чингис хааны онгоныг хаана байгуулсан бэ?",
+    "options": {
+      "A": "Хархорум",
+      "B": "Улаанбаатар",
+      "C": "Богд уул",
+      "D": "Эзэн хороо"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Тод монгол үсгийг хэн зохиосон бэ?",
+    "options": {
+      "A": "Саган сэцэн",
+      "B": "Зая бандида",
+      "C": "Чойжи-Одсэр",
+      "D": "Пагва лам"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Чингис хаан хэдэн онд уйгур үсгийг хэрэглэх зарлиг буулгасан бэ?",
+    "options": {
+      "A": "1227 он",
+      "B": "1206 он",
+      "C": "1204 он",
+      "D": "1240 он"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "«Хөх судар»-ыг хэн зохиосон бэ?",
+    "options": {
+      "A": "Саган сэцэн",
+      "B": "Инжинаши",
+      "C": "Ванчинбал",
+      "D": "Гомбожав"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Рашид ад-Дин ямар хааны сайд байсан бэ?",
+    "options": {
+      "A": "Мөнх хаан",
+      "B": "Хубилай хаан",
+      "C": "Өгэдэй хаан",
+      "D": "Хазан хаан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Мин улс хэдэн онд монгол хэлний сургуулийг байгуулсан бэ?",
+    "options": {
+      "A": "1452 он",
+      "B": "1260 он",
+      "C": "1368 он",
+      "D": "1407 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 9,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "«Найман цагаан гэр»-ийн тахилга хэдэн оны үеэс эхэлсэн бэ?",
+    "options": {
+      "A": "1634 он",
+      "B": "1368 он",
+      "C": "1206 он",
+      "D": "1227 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1899 онд «Нууц товчоо»-ны бичмэлийг олж үзсэн Япон эрдэмтэн хэн бэ?",
+    "options": {
+      "A": "Хаттори",
+      "B": "Ширатори",
+      "C": "Озава",
+      "D": "Найто"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зохиогч 1929 онд «Хөх судар»-ыг хаанаас олж үзсэн бэ?",
+    "options": {
+      "A": "Улаанхад",
+      "B": "Мугдэн",
+      "C": "Хөх хот",
+      "D": "Кайлу"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 12,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Бүрин вангийн сумын тухай домог хэдэн онд холбогдох вэ?",
+    "options": {
+      "A": "1696 он",
+      "B": "1757 он",
+      "C": "1644 он",
+      "D": "1675 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "«Тулай тулай тулай, бай ишүү хайлаарай» гэдэг нь ямар үйл явдлыг тэмдэглэсэн бэ?",
+    "options": {
+      "A": "1206 оны их хуралдай",
+      "B": "1368 оны Тогоонтөмөр хааны зугталт",
+      "C": "1211 оны цагаан хэрмийн дайн",
+      "D": "33 оны Ишүүгийн байлдаан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1742 онд монгол ном бичгийг цуглуулж авчрах зарлиг буулгасан хаан хэн бэ?",
+    "options": {
+      "A": "Сайшаалт ерөөлт",
+      "B": "Энх амгалан",
+      "C": "Найралт төв",
+      "D": "Тэнгэрийн тэтгэгч"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1940 онд «Нууц товчоо»-г орчуулан нийтэлсэн герман эрдэмтэн хэн бэ?",
+    "options": {
+      "A": "Пеллио",
+      "B": "Козин",
+      "C": "Шмидт",
+      "D": "Хайниши"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Дундад зууны Европын хүмүүс монголчуудыг хаанаас ирсэн гэж санадаг байсан бэ?",
+    "options": {
+      "A": "Хойд мөсөн далайгаас",
+      "B": "Дорно зүгийн арлаас",
+      "C": "Тэнгэрийн орноос",
+      "D": "Тамын орноос"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Инжинашийн эцэг хэн бэ?",
+    "options": {
+      "A": "Ванчинбал",
+      "B": "Санганжу",
+      "C": "Нацагдорж",
+      "D": "Гүлранс"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зохиогчид «Хөх судар»-ын гар бичмэлийг үзүүлсэн харчин өвгөн хэн бэ?",
+    "options": {
+      "A": "Бөхшиг",
+      "B": "Тэмээт",
+      "C": "Дэлэг",
+      "D": "Гэшингэ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1962 онд Бүгд Найрамдах Монгол Ард Улсад Чингис хааны мэндэлсний хэд дүгээр ойг тэмдэглэсэн бэ?",
+    "options": {
+      "A": "850 жилийн ой",
+      "B": "800 жилийн ой",
+      "C": "900 жилийн ой",
+      "D": "750 жилийн ой"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1962 онд Чингис хааныг хэтэрхий магтсан хэмээж хэнийг буруушаасан бэ?",
+    "options": {
+      "A": "Цэдэнбал",
+      "B": "Бодоо",
+      "C": "Чойбалсан",
+      "D": "Төмөр-Очир"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 21,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Чингис хаан 1227 онд ямар улсыг дайлах замдаа нас барсан бэ?",
+    "options": {
+      "A": "Тангуд улс",
+      "B": "Сүн улс",
+      "C": "Алтан улс",
+      "D": "Хорезм улс"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Их хаан Өгэдэй хэдэн онд нас барсан бэ?",
+    "options": {
+      "A": "1368 он",
+      "B": "1241 он",
+      "C": "1260 он",
+      "D": "1227 он"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1368 онд Бээжингээс зугтсан Юань улсын хаан хэн бэ?",
+    "options": {
+      "A": "Мөнх",
+      "B": "Гүюг",
+      "C": "Тогоонтөмөр",
+      "D": "Хубилай"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Тод монгол үсгийг хэн зохиосон бэ?",
+    "options": {
+      "A": "Пагва лам",
+      "B": "Занабазар",
+      "C": "Чойжи-Одсэр",
+      "D": "Зая бандида"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Уйгуржин монгол үсгээр бичигдсэн хамгийн эртний дурсгал аль нь бэ?",
+    "options": {
+      "A": "Есөнхөийн хөшөө (Чингисийн чулуун бичиг)",
+      "B": "Хөх судар",
+      "C": "Нууц товчоо",
+      "D": "Алтан товч"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан хэдэн онд нас барсан бэ?",
+    "options": {
+      "A": "1691 он",
+      "B": "1634 он",
+      "C": "1604 он",
+      "D": "1644 он"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Халхын ван ноёд 1691 онд хаана цугларч манжид дагаар орсон бэ?",
+    "options": {
+      "A": "Жэхэ",
+      "B": "Хүрээ",
+      "C": "Долоннуур",
+      "D": "Бээжин"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "«Хөх судар» зохиолыг хэн бичсэн бэ?",
+    "options": {
+      "A": "Инжинаши",
+      "B": "Гомбожав",
+      "C": "Саган сэцэн",
+      "D": "Ванчинбал"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1215 онд монгол цэрэг ямар хотыг эзэлсэн бэ?",
+    "options": {
+      "A": "Нанжин",
+      "B": "Бээжин",
+      "C": "Кайфэн",
+      "D": "Си Ан"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Монголчууд Японыг хэдэн онд хоёр дахь удаагаа довтолсон бэ?",
+    "options": {
+      "A": "1260 он",
+      "B": "1294 он",
+      "C": "1281 он",
+      "D": "1274 он"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Өрнө зүгт (Орос ба Зүүн Европ) хийсэн аян дайныг хэн удирдсан бэ?",
+    "options": {
+      "A": "Мөнх хаан",
+      "B": "Хүлэг хаан",
+      "C": "Бат хаан",
+      "D": "Хубилай хаан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1688 онд Халхын ноёдыг уг нутгаас нь дүрвүүлсэн Ойрадын хаан хэн бэ?",
+    "options": {
+      "A": "Галдан бошигт",
+      "B": "Амарсанаа",
+      "C": "Гүүш хан",
+      "D": "Эсэн тайш"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1945 онд Өвөр Монголд Бүгд Найрамдах Монгол Ард Улсын цэрэгтэй хамт ямар улсын цэрэг орж ирсэн бэ?",
+    "options": {
+      "A": "Гоминданы цэрэг",
+      "B": "Америкийн цэрэг",
+      "C": "Япон цэрэг",
+      "D": "Зөвлөлтийн улаан цэрэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1962 онд Чингис хааны 800 жилийн ойн хөшөөг хаана босгосон бэ?",
+    "options": {
+      "A": "Аварга",
+      "B": "Дэлүүн болдог",
+      "C": "Хархорум",
+      "D": "Улаанбаатар"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1940-өөд онд Бүгд Найрамдах Монгол Ард Улс ямар үсэг бичгийг авч хэрэглэсэн бэ?",
+    "options": {
+      "A": "Латин үсэг",
+      "B": "Кирил (Орос) үсэг",
+      "C": "Пагва үсэг",
+      "D": "Тод үсэг"
+    },
+    "answer": "B"
+  },
+{
+    "id": 36,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1771 онд Ижил (Волга) мөрнөөс нүүдэллэн ирсэн Торгуудын хаан хэн бэ?",
+    "options": {
+      "A": "Убаши хаан",
+      "B": "Аюуши хаан",
+      "C": "Цэвээнравдан",
+      "D": "Галдан бошигт"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1691 онд Халхын ноёд хаана цугларч Манжид дагаар орсон бэ?",
+    "options": {
+      "A": "Улиастай",
+      "B": "Бээжин",
+      "C": "Долоннуур",
+      "D": "Хүрээ"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зүүнгарын хаан Галдан бошигт хэдэн онд нас барсан бэ?",
+    "options": {
+      "A": "1697 он",
+      "B": "1634 он",
+      "C": "1757 он",
+      "D": "1691 он"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1757 онд цагаан бурхан өвчнөөр Орост нас барсан Зүүнгарын удирдагч хэн бэ?",
+    "options": {
+      "A": "Цэвээнравдан",
+      "B": "Амарсанаа",
+      "C": "Галданцэрэн",
+      "D": "Даваач"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Шведийн олзлогдогч Ренат (Renat) ямар улсын газрын зургийг Европт авчирсан бэ?",
+    "options": {
+      "A": "Хятад",
+      "B": "Энэтхэг",
+      "C": "Зүүнгар",
+      "D": "Төвд"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1912 оны Ховдын байлдааны үеэр дайсны зүрхээр туг тахисан гэгддэг жанжин хэн бэ?",
+    "options": {
+      "A": "Чойбалсан",
+      "B": "Манлайбаатар Дамдинсүрэн",
+      "C": "Сүхбаатар",
+      "D": "Хатанбаатар Магсаржав"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зая бандида Намхайжамц хэдэн онд Тод үсгийг зохиосон бэ?",
+    "options": {
+      "A": "1771 он",
+      "B": "1648 он",
+      "C": "1604 он",
+      "D": "1691 он"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1866 онд Халимаг үлгэрүүд (Шидэт хүүр, Аржи Боржи)-ийг орчуулан хэвлүүлсэн эрдэмтэн хэн бэ?",
+    "options": {
+      "A": "Иван Майский",
+      "B": "Кеспр Шютелринберг",
+      "C": "Бернхард Юлг",
+      "D": "Вильгельм Шотт"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1634 онд Хөхнуурын ойролцоо нас барсан Монголын сүүлчийн их хаан хэн бэ?",
+    "options": {
+      "A": "Боди Алаг хаан",
+      "B": "Даян хаан",
+      "C": "Түмэн засагт хаан",
+      "D": "Лигдэн хаан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1911 онд Ар Монгол ямар улсаас тусгаарласан бэ?",
+    "options": {
+      "A": "Гоминданы Хятад",
+      "B": "Манж Чин улс",
+      "C": "Япон улс",
+      "D": "Орос улс"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1771 онд Торгуудууд хаанаас нүүдэллэн гарсан бэ?",
+    "options": {
+      "A": "Хөх нуур",
+      "B": "Ижил (Волга) мөрөн",
+      "C": "Алтайн нуруу",
+      "D": "Балхаш нуур"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1206 онд Тэмүүжинд ямар цол өргөмжилсөн бэ?",
+    "options": {
+      "A": "Чингис хаан",
+      "B": "Сэцэн хаан",
+      "C": "Богд хаан",
+      "D": "Гүр хаан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1878 онд Ренатын газрын зургийг Шведийн номын сангаас олж илрүүлсэн зохиолч хэн бэ?",
+    "options": {
+      "A": "Эрик Хедин",
+      "B": "Херман Констен",
+      "C": "Вильгельм Шотт",
+      "D": "Август Стриндберг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 49,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зүүнгарын хаан Цэвээнравдан хэний ач бэ?",
+    "options": {
+      "A": "Амарсанаа",
+      "B": "Даваач",
+      "C": "Галдан бошигт",
+      "D": "Галданцэрэн"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Богд хаант Монгол улсын үед Баруун Монголд очиж байлдсан, хожим алагдсан Халимаг гаралтай лам хэн бэ?",
+    "options": {
+      "A": "Жалханз хутагт",
+      "B": "Манзушри хутагт",
+      "C": "Жа лам Дамбийжаа",
+      "D": "Дилова хутагт"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1771 онд Ижил (Волга) мөрнөөс нүүдэллэн ирсэн Торгуудын хаан хэн бэ?",
+    "options": {
+      "A": "Аюуши хаан",
+      "B": "Цэвээнравдан",
+      "C": "Галдан бошигт",
+      "D": "Убаши хаан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1691 онд Халхын ноёд хаана цугларч Манжид дагаар орсон бэ?",
+    "options": {
+      "A": "Хүрээ",
+      "B": "Бээжин",
+      "C": "Долоннуур",
+      "D": "Улиастай"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зүүнгарын хаан Галдан бошигт хэдэн онд нас барсан бэ?",
+    "options": {
+      "A": "1757 он",
+      "B": "1691 он",
+      "C": "1634 он",
+      "D": "1697 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 54,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1757 онд цагаан бурхан өвчнөөр Орост нас барсан Зүүнгарын удирдагч хэн бэ?",
+    "options": {
+      "A": "Даваач",
+      "B": "Галданцэрэн",
+      "C": "Амарсанаа",
+      "D": "Цэвээнравдан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Шведийн олзлогдогч Ренат (Renat) ямар улсын газрын зургийг Европт авчирсан бэ?",
+    "options": {
+      "A": "Зүүнгар",
+      "B": "Энэтхэг",
+      "C": "Төвд",
+      "D": "Хятад"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1912 оны Ховдын байлдааны үеэр дайсны зүрхээр туг тахисан гэгддэг жанжин хэн бэ?",
+    "options": {
+      "A": "Сүхбаатар",
+      "B": "Манлайбаатар Дамдинсүрэн",
+      "C": "Хатанбаатар Магсаржав",
+      "D": "Чойбалсан"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зая бандида Намхайжамц хэдэн онд Тод үсгийг зохиосон бэ?",
+    "options": {
+      "A": "1604 он",
+      "B": "1691 он",
+      "C": "1771 он",
+      "D": "1648 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1866 онд Халимаг үлгэрүүд (Шидэт хүүр, Аржи Боржи)-ийг орчуулан хэвлүүлсэн эрдэмтэн хэн бэ?",
+    "options": {
+      "A": "Иван Майский",
+      "B": "Бернхард Юлг",
+      "C": "Кеспр Шютелринберг",
+      "D": "Вильгельм Шотт"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1634 онд Хөхнуурын ойролцоо нас барсан Монголын сүүлчийн их хаан хэн бэ?",
+    "options": {
+      "A": "Түмэн засагт хаан",
+      "B": "Боди Алаг хаан",
+      "C": "Даян хаан",
+      "D": "Лигдэн хаан"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1911 онд Ар Монгол ямар улсаас тусгаарласан бэ?",
+    "options": {
+      "A": "Япон улс",
+      "B": "Манж Чин улс",
+      "C": "Орос улс",
+      "D": "Гоминданы Хятад"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1771 онд Торгуудууд хаанаас нүүдэллэн гарсан бэ?",
+    "options": {
+      "A": "Хөх нуур",
+      "B": "Ижил (Волга) мөрөн",
+      "C": "Алтайн нуруу",
+      "D": "Балхаш нуур"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1206 онд Тэмүүжинд ямар цол өргөмжилсөн бэ?",
+    "options": {
+      "A": "Чингис хаан",
+      "B": "Гүр хаан",
+      "C": "Богд хаан",
+      "D": "Сэцэн хаан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1878 онд Ренатын газрын зургийг Шведийн номын сангаас олж илрүүлсэн зохиолч хэн бэ?",
+    "options": {
+      "A": "Август Стриндберг",
+      "B": "Херман Констен",
+      "C": "Вильгельм Шотт",
+      "D": "Эрик Хедин"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зүүнгарын хаан Цэвээнравдан хэний ач бэ?",
+    "options": {
+      "A": "Галдан бошигт",
+      "B": "Даваач",
+      "C": "Амарсанаа",
+      "D": "Галданцэрэн"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Богд хаант Монгол улсын үед Баруун Монголд очиж байлдсан, хожим алагдсан Халимаг гаралтай лам хэн бэ?",
+    "options": {
+      "A": "Жалханз хутагт",
+      "B": "Жа лам Дамбийжаа",
+      "C": "Манзушри хутагт",
+      "D": "Дилова хутагт"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан хэдий онд их хаан сууринд суусан бэ?",
+    "options": {
+      "A": "1626 он",
+      "B": "1604 он",
+      "C": "1634 он",
+      "D": "1578 он"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан их оронд суух үедээ хэдэн настай байсан бэ?",
+    "options": {
+      "A": "20 настай",
+      "B": "17 настай",
+      "C": "15 настай",
+      "D": "35 настай"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны зарлигаар Ганжуурыг орчуулах ажил хэдий оны хооронд явагдсан бэ?",
+    "options": {
+      "A": "1628-1629 он",
+      "B": "1578-1580 он",
+      "C": "1634-1635 он",
+      "D": "1604-1605 он"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны үед Ганжуурыг орчуулах ажлыг хэн удирдсан бэ?",
+    "options": {
+      "A": "Алтан хаан",
+      "B": "Гунгаа-Одсэр",
+      "C": "Самдан Сэнгэ",
+      "D": "Шилва хутагт"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ганжуурыг орчуулах ажилд нийт хэдэн эрдэмтэн оролцсон бэ?",
+    "options": {
+      "A": "108",
+      "B": "12",
+      "C": "35",
+      "D": "50"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан 1634 онд хаана нас барсан бэ?",
+    "options": {
+      "A": "Цагаан суварга",
+      "B": "Бээжин",
+      "C": "Хөх хот",
+      "D": "Хөхнуур (Шар тал)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан өөрийгөө ямар хааны хувилгаан гэж үздэг байсан бэ?",
+    "options": {
+      "A": "Таян хаан",
+      "B": "Хубилай хаан",
+      "C": "Чингис хаан",
+      "D": "Өгэдэй хаан"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Арван зургадугаар зууны эхэнд Манж нартай хамгийн түрүүнд холбоо тогтоосон монгол аймаг аль нь бэ?",
+    "options": {
+      "A": "Цахар",
+      "B": "Ордос",
+      "C": "Түмэд",
+      "D": "Хорчин"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 74,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны Баарин нутагт байгуулсан Цагаан суваргын хөшөө хэдий онд босгогдсон бэ?",
+    "options": {
+      "A": "1626 он",
+      "B": "1628 он",
+      "C": "1604 он",
+      "D": "1634 он"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан Ордосоос ямар чухал эд зүйлсийг хураан авсан бэ?",
+    "options": {
+      "A": "Хас тамга",
+      "B": "Найман цагаан гэр",
+      "C": "Алтан бумба",
+      "D": "Хар сүлд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Оросын эрдэмтэн Позднеев-ын олсон Лигдэн хааны үеийн бичиг хаана хадгалагдаж байсан бэ?",
+    "options": {
+      "A": "Бремен",
+      "B": "Ленинград",
+      "C": "Бээжин",
+      "D": "Улаанбаатар"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны үеийн Ганжуурын орчуулгын төгсгөлд шашныг хамгаалагч гэж хэнийг магтсан байдаг бэ?",
+    "options": {
+      "A": "Намутай сэцэн хаан",
+      "B": "Лигдэн хаан",
+      "C": "Алтан хаан",
+      "D": "Түмэн засагт хаан"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны Алтан Ганжуурыг ямар өнгөтэй цаасан дээр бичсэн байдаг бэ?",
+    "options": {
+      "A": "Хар цаас",
+      "B": "Хөх цаас",
+      "C": "Цагаан цаас",
+      "D": "Шар цаас"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан баруун тийш ухрахад хэний цэрэг нэхэмжилж байсан бэ?",
+    "options": {
+      "A": "Мин улсын цэрэг",
+      "B": "Манжийн цэрэг",
+      "C": "Ойрадын цэрэг",
+      "D": "Төвдийн цэрэг"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хаан өөрийн гэр бүлийн шүтээн болгож залсан лам хэн бэ?",
+    "options": {
+      "A": "Шилва хутагт",
+      "B": "Занабазар",
+      "C": "Зая бандида",
+      "D": "Пагсба лам"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лигдэн хааны эцэг нь хэн бэ?",
+    "options": {
+      "A": "Засагт хаан",
+      "B": "Буян сэцэн",
+      "C": "Даян хаан",
+      "D": "Мангус тайж"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 82,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "А. Мостаэрт хар лам хаана олон жил сууж судалгаа хийсэн бэ?",
+    "options": {
+      "A": "Халх",
+      "B": "Хорчин",
+      "C": "Ордос",
+      "D": "Цахар"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Францын лазарист хар лам нарын дараа ямар улсын лам нар ирсэн бэ?",
+    "options": {
+      "A": "Бельги",
+      "B": "Америк",
+      "C": "Герман",
+      "D": "Орос"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Луванд олдсон Ални хар ламын зохиол хэдий онд бичигдсэн бэ?",
+    "options": {
+      "A": "1609 он",
+      "B": "1716 он",
+      "C": "1929 он",
+      "D": "1625 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 85,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Бадарчин лам нар ямар өвчнийг халдуулахад их үүрэгтэй байсан бэ?",
+    "options": {
+      "A": "Хүйтэн өвчин",
+      "B": "Цэцэг өвчин",
+      "C": "Тарваган тахал",
+      "D": "Ханиад"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 86,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1929 онд Ордост болсон бослогын үед «Шинэ лам» гэж хэнийг нэрлэдэг байсан бэ?",
+    "options": {
+      "A": "Өлзийжаргал",
+      "B": "Амар",
+      "C": "Гэндэн",
+      "D": "Өлзийдалай"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 87,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1929 оны хувьсгалт хөдөлгөөн Ордосын аль хошуунд өрнөсөн бэ?",
+    "options": {
+      "A": "Хангин хошуу",
+      "B": "Зүүнгар хошуу",
+      "C": "Отог хошуу",
+      "D": "Үүшин хошуу"
+    },
+    "answer": "D"
+  },
+{
+    "id": 88,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Гэсэр хаан барс дүртэй мангастай тэмцэхэд хэн тусалсан бэ?",
+    "options": {
+      "A": "Гучин баатар",
+      "B": "Засашхир",
+      "C": "Найман луу",
+      "D": "Рогмо гоо"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Гэсэр хаан нас нөгчсөн баатруудаа юугаар амилуулсан бэ?",
+    "options": {
+      "A": "Шидэт тарни",
+      "B": "Мөнхийн ус",
+      "C": "Рашаан",
+      "D": "Алтан эм"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Дуучин Пажай аль нутгийн хүн бэ?",
+    "options": {
+      "A": "Ордос",
+      "B": "Хорчин",
+      "C": "Халх",
+      "D": "Цахар"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Пажай хэдэн насандаа сүмээс гарсан бэ?",
+    "options": {
+      "A": "15 нас",
+      "B": "20 нас",
+      "C": "18 нас",
+      "D": "10 нас"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 92,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Онолт арван гурван насандаа хэдэн чоно алсан бэ?",
+    "options": {
+      "A": "Арв",
+      "B": "Долоо",
+      "C": "Ес",
+      "D": "Тав"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 93,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Дуучин Онолтын эцэг нь хэн бэ?",
+    "options": {
+      "A": "Бэлжан",
+      "B": "Дэвэг",
+      "C": "Санжай",
+      "D": "Пажай"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1716 онд Гэсэрийн туужийг Бээжинд хэвлүүлэх зарлигийг ямар хаан буулгасан бэ?",
+    "options": {
+      "A": "Энх амгалан",
+      "B": "Төр гэрэлт",
+      "C": "Тэнгэрийн тэтгэсэн",
+      "D": "Найралт төв"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 95,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Онолтод баатарлаг туульс зааж өгсөн өвгөн дуучинг хэн гэдэг бэ?",
+    "options": {
+      "A": "Санжай",
+      "B": "Гэндэ",
+      "C": "Пажай",
+      "D": "Бэлжан талиг Дэвэг"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 96,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Өлзийжаргал хэдий онд амь үрэгдсэн бэ?",
+    "options": {
+      "A": "1943 он",
+      "B": "1920 он",
+      "C": "1929 он",
+      "D": "1911 он"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 97,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зохиогч Гэсэрийн туужийн бичмэл номыг хаанахын номын сангаас олсон бэ?",
+    "options": {
+      "A": "Бээжин",
+      "B": "Копенгаген",
+      "C": "Луван",
+      "D": "Петербург"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1907 онд Дундад улсад ирж Зүүн Азийн бичиг судар цуглуулсан Америкийн эрдэмтэн хэн бэ?",
+    "options": {
+      "A": "Хайниши",
+      "B": "Пон Сетер",
+      "C": "Эюлсстайн",
+      "D": "Бертольд Лауфер"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 99,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Лауфер 1910 он хүртэл нийт хэдэн зүйлийн зохиол цуглуулсан бэ?",
+    "options": {
+      "A": "500",
+      "B": "1934",
+      "C": "2000",
+      "D": "1216"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 100,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Бээжинд монгол төвд ном хэвлэдэг байсан алдартай сүм аль нь бэ?",
+    "options": {
+      "A": "Шар сүм",
+      "B": "Сүн Жү Сы сүм",
+      "C": "Цагаан суварга",
+      "D": "Юнхэ гүн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 101,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Модон барыг ямар модоор хийдэг байсан бэ?",
+    "options": {
+      "A": "Хусан мод",
+      "B": "Нарс",
+      "C": "Алимын мод",
+      "D": "Бургас"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 102,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1944-1945 оны өвөл Сүн Жү Сы сүмийн модон барыг яасан бэ?",
+    "options": {
+      "A": "Булж нуусан",
+      "B": "Америкд илгээсэн",
+      "C": "Гадуур худалдсан",
+      "D": "Түлш болгож түлсэн"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 103,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1936-1939 оны хооронд Бүгд Найрамдах Монгол Ард Улсад лам нарын эсрэг ямар явдал болсон бэ?",
+    "options": {
+      "A": "Сүм хийд шинээр байгуулах",
+      "B": "Ламыг эсэргүүцэх тэмцэл (хэлмэгдүүлэлт)",
+      "C": "Лам нарыг шагнах",
+      "D": "Шашныг дэлгэрүүлэх хөдөлгөөн"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1944 онд Хайниши (Heissig) Бээжингийн хэвлэлийн газраас юу худалдан авсан бэ?",
+    "options": {
+      "A": "Бэх ба цаас",
+      "B": "Бурханы хөрөг",
+      "C": "Үлдсэн модон барын номууд",
+      "D": "Шинэ модон бар"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 105,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Манжийн ямар хаад монголчуудын дунд бурханы шашныг дэлгэрүүлэхэд дэмжлэг үзүүлсэн бэ?",
+    "options": {
+      "A": "Төр гэрэлт, Олноо өргөгдсөн",
+      "B": "Алтан хаан, Лигдэн хаан",
+      "C": "Энх амгалан, Найралт төв, Тэнгэр тэтгэгч",
+      "D": "Хубилай, Өгэдэй, Мөнх"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1713 онд Халхын нэг вангийн хүү ном хэвлүүлэхэд хэдий хэмжээний мөнгө зарцуулсан бэ?",
+    "options": {
+      "A": "500 оц",
+      "B": "2000 оц (2000 лан)",
+      "C": "140 оц",
+      "D": "3000 оц"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Тухайн үед нэг үнээ хэдэн оц мөнгөний үнэтэй байсан бэ?",
+    "options": {
+      "A": "100 оц",
+      "B": "20-30 оц",
+      "C": "1 оц",
+      "D": "8-10 оц"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 108,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Монгол номын төгсгөлийн үг (colophon) дотор ямар мэдээ байдаг бэ?",
+    "options": {
+      "A": "Он сар, захиалагчийн нэр, зорилго",
+      "B": "Хэвлэлийн газрын хаяг",
+      "C": "Зөвхөн зохиогчийн нэр",
+      "D": "Үнэ өртөг"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 109,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Бээжинд хэвлэгдсэн хамаг түрүүчийн модон барын монгол ном хэдий онд гарсан бэ?",
+    "options": {
+      "A": "1716 он",
+      "B": "1368 он",
+      "C": "1911 он",
+      "D": "1650 он"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 110,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Копенгагены номын санд байгаа хамгийн хуучин бичмэл номын төгсгөлийн үг хэний тухай өгүүлдэг бэ?",
+    "options": {
+      "A": "Чингис хаан",
+      "B": "Алтан хаан",
+      "C": "Энх амгалан хаан",
+      "D": "Лигдэн хаан"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Арван наймдугаар зуунд модон барын номын хуудас нэг бүрийг яаж хэвлэдэг байсан бэ?",
+    "options": {
+      "A": "Гэрэл зургаар хуулж",
+      "B": "Гараар будаг түрхэж нэг нэгээр дармалладаг",
+      "C": "Хэвлэх машинаар",
+      "D": "Тугалган үсгээр"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1944 он болоход Бээжингийн монгол номын худалдаа яагаад зогссон бэ?",
+    "options": {
+      "A": "Засгийн газар хориглосон тул",
+      "B": "Цаас дууссан тул",
+      "C": "Худалдан авагчид (монголчууд) ирэхгүй болсон тул",
+      "D": "Модон барыг хулгайд алдсан тул"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 113,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1776 оны тэмдэглэлийн дэвтэрт нь юу бичигдсэн байсан бэ?",
+    "options": {
+      "A": "Манж хааны хууль дүрэм",
+      "B": "Чингис хааны цэргийн зарлиг",
+      "C": "Орос худалдаачны данс",
+      "D": "Гоо сайхны томьёолол ба зан моралын сэцэн үгс"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 114,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1943 онд зохиогчид бичмэл ном авчирч өгсөн монгол залуу хэн бэ?",
+    "options": {
+      "A": "Манижав",
+      "B": "Бат",
+      "C": "Дорж",
+      "D": "Сүх"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 115,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Манижав ямар хошууны гаралтай хүн бэ?",
+    "options": {
+      "A": "Барга хошуу",
+      "B": "Харчин хошуу",
+      "C": "Үүшин хошуу",
+      "D": "Хүрээ хошуу"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 116,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Манижавын авчирсан бичмэл номын нэр нь юу байсан бэ?",
+    "options": {
+      "A": "Субад эрих",
+      "B": "Оньсогын бичиг",
+      "C": "Үлгэрийн далай",
+      "D": "Алтан товч"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "«Сүрэг» гэдэг үг нь ямар утгатай бэ?",
+    "options": {
+      "A": "Мал сүрэг",
+      "B": "Хааны ордон",
+      "C": "Тариалангийн газар",
+      "D": "Цэргийн анги"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 118,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Ослогийн их сургуулийн номын санд хадгалагдаж байгаа сургаал үгийг хэн айлдсан бэ?",
+    "options": {
+      "A": "Наймдугаар Жибзундамба хутагт",
+      "B": "Алтан хаан",
+      "C": "Чингис хаан",
+      "D": "Лигдэн хаан"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 119,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Наймдугаар Жибзундамба хутагт хаана төрсөн бэ?",
+    "options": {
+      "A": "Лхас",
+      "B": "Бээжин",
+      "C": "Урга",
+      "D": "Хөх хот"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 120,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Наймдугаар Жибзундамба хутагт хэдий онд нас барсан бэ?",
+    "options": {
+      "A": "1921 онд",
+      "B": "1911 онд",
+      "C": "1924 онд",
+      "D": "1930 онд"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 121,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Наймдугаар Жибзундамба хутагтыг «хүүхэд шиг мужуу зантай» гэж хэн тэмдэглэсэн бэ?",
+    "options": {
+      "A": "А. Позднеев",
+      "B": "Козлов",
+      "C": "Владимирцов",
+      "D": "Рамстедт"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 122,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Үүшин хошуунд хамаг түрүүчийн «дугуйлан» хэдий онд байгуулагдсан бэ?",
+    "options": {
+      "A": "1911 онд",
+      "B": "1858 онд",
+      "C": "1861 онд",
+      "D": "1900 онд"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 123,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1910 онд Ургад байсан манж сайд хэн бэ?",
+    "options": {
+      "A": "Дэ ван",
+      "B": "Сандова",
+      "C": "Галдан",
+      "D": "Амарсанаа"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Хятад, Орос, Гадаад Монгол гурван улсын хэлэлцээр хэдий онд болсон бэ?",
+    "options": {
+      "A": "1915 онд",
+      "B": "1921 онд",
+      "C": "1924 онд",
+      "D": "1911 онд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 125,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зохиогч В. Хайсиг хэдий онд төрсөн бэ?",
+    "options": {
+      "A": "1913 онд",
+      "B": "1911 онд",
+      "C": "1924 онд",
+      "D": "1900 онд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 126,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "Зохиогч В. Хайсиг хаана төрсөн бэ?",
+    "options": {
+      "A": "Венад",
+      "B": "Парист",
+      "C": "Берлинд",
+      "D": "Лондонд"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 127,
+    "source": "Mongoulian Culture and History",
+    "type": "Fact single choice questions",
+    "question": "1900 оны үеийн нэгэн шүлэгт лам ямар шувууг байцаасан тухай өгүүлдэг бэ?",
+    "options": {
+      "A": "Болжмор",
+      "B": "Бүргэд",
+      "C": "Шаазгай",
+      "D": "Хэрээ"
+    },
+    "answer": "C"
+  }
+]
